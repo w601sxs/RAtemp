@@ -17,7 +17,7 @@ Path 2 (LARGO3.RSK) contains dpComputerCode LARGO3.RSK!
 Path 0 (LARGO3.ABQ) contains connecting dpComputerCode LARGO3.ABQ!
 Path 0 (LARGO3.ABQ) contains origin airport ABQ!
 Path 0 (LARGO3.ABQ) contains connecting token ABQ!
-sidTwoPathRoute: [$ABQ$] ABQ HANOS OTINS RSK 
+sidTwoPathRoute: ABQ HANOS OTINS RSK 
 
 ProcessSid(sidCollection, ADW, JEFSN1, GSO)
 
@@ -46,7 +46,7 @@ Path 3 (EPKEE4.DUUCE) contains dpComputerCode EPKEE4.DUUCE!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport APA!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS DUUCE 
+sidTwoPathRoute: EPKEE CLAMR WEEDS DUUCE 
 
 ProcessSid(sidCollection, APA, PLAIN8, GCK)
 
@@ -76,7 +76,7 @@ Path 5 (PLAIN8.GCK) contains dpComputerCode PLAIN8.GCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS GCK 
+sidTwoPathRoute: DEN EPKEE WEEDS GCK 
 
 ProcessSid(sidCollection, APA, YAMMI3, LAR)
 
@@ -119,7 +119,7 @@ Path 3 (YELLO1.LAR) contains dpComputerCode YELLO1.LAR!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport APA!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YAMMI LAR 
+sidTwoPathRoute: DEN YAMMI LAR 
 
 ProcessSid(sidCollection, APA, SPAZZ3, ZAPAA)
 
@@ -146,7 +146,7 @@ Path 6 (SPAZZ3.ZAPAA) contains dpComputerCode SPAZZ3.ZAPAA!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport APA!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ FRNKE ZAPAA 
+sidTwoPathRoute: JEPPC SPAZZ FRNKE ZAPAA 
 
 ProcessSid(sidCollection, APA, PIKES9, ALS)
 
@@ -165,7 +165,7 @@ Path 1 (PIKES9.ALS) contains dpComputerCode PIKES9.ALS!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport APA!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV ALS 
+sidTwoPathRoute: DEN TEHEV ALS 
 
 ProcessSid(sidCollection, APA, BAYLR3, TEHRU)
 
@@ -192,7 +192,7 @@ Path 6 (BAYLR3.TEHRU) contains dpComputerCode BAYLR3.TEHRU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport APA!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA TEHRU 
+sidTwoPathRoute: BAYLR BOBBA TEHRU 
 
 ProcessSid(sidCollection, APA, ROCKI3, DVC)
 
@@ -308,7 +308,7 @@ Path 3 (YOKES5.YOKES) does NOT contain origin airport APA!
 Path 4 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 4 (YOKES5.YOKES) contains origin airport APA!
 Path 4 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: VELAA [YOKES] YOKES CHICI 
+sidTwoPathRoute: VELAA YOKES CHICI 
 
 ProcessSid(sidCollection, APA, SPAZZ3, TBE)
 
@@ -334,7 +334,7 @@ Path 5 (SPAZZ3.TBE) contains dpComputerCode SPAZZ3.TBE!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport APA!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ PUB TBE 
+sidTwoPathRoute: JEPPC SPAZZ PUB TBE 
 
 ProcessSid(sidCollection, APA, RIKKK3, FISAR)
 ****INFO: Origin Airport KAPA and/or Destination Airport PAFA is not in the US!
@@ -366,7 +366,7 @@ Path 1 (PLAIN8.AKO) contains dpComputerCode PLAIN8.AKO!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO 
+sidTwoPathRoute: DEN EEONS AKO 
 
 ProcessSid(sidCollection, APA, YELLO1, BFF)
 
@@ -395,7 +395,7 @@ Path 7 (YELLO1.BFF) contains dpComputerCode YELLO1.BFF!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport APA!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN BFF 
+sidTwoPathRoute: DEN BFF 
 
 ProcessSid(sidCollection, APA, PIKES9, PUB)
 
@@ -416,7 +416,7 @@ Path 3 (PIKES9.PUB) contains dpComputerCode PIKES9.PUB!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport APA!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN ADANE DRAKE PUB 
+sidTwoPathRoute: DEN ADANE DRAKE PUB 
 
 ProcessSid(sidCollection, APA, ROCKI3, RLG)
 
@@ -498,7 +498,7 @@ Path 10 (PLAIN8.WEEDS) contains dpComputerCode PLAIN8.WEEDS!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS 
+sidTwoPathRoute: DEN EPKEE WEEDS 
 
 ProcessSid(sidCollection, APA, ROCKI3, HBU)
 
@@ -558,7 +558,7 @@ Path 4 (SPAZZ3.JOPLN) contains dpComputerCode SPAZZ3.JOPLN!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport APA!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ PUB JOPLN 
+sidTwoPathRoute: JEPPC SPAZZ PUB JOPLN 
 
 ProcessSid(sidCollection, APA, EPKEE4, GATTR)
 
@@ -581,7 +581,7 @@ Path 4 (EPKEE4.GATTR) contains dpComputerCode EPKEE4.GATTR!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport APA!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS GATTR 
+sidTwoPathRoute: EPKEE CLAMR WEEDS GATTR 
 
 ProcessSid(sidCollection, APA, PIKES9, BINKE)
 
@@ -601,7 +601,7 @@ Path 2 (PIKES9.BINKE) contains dpComputerCode PIKES9.BINKE!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport APA!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV BINKE 
+sidTwoPathRoute: DEN TEHEV BINKE 
 
 ProcessSid(sidCollection, APA, CONNR4, DBL)
 
@@ -697,7 +697,7 @@ Path 3 (YOKES5.YOKES) does NOT contain origin airport APA!
 Path 4 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 4 (YOKES5.YOKES) contains origin airport APA!
 Path 4 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: VELAA [YOKES] YOKES COPLA BFF 
+sidTwoPathRoute: VELAA YOKES COPLA BFF 
 
 ProcessSid(sidCollection, APA, ROCKI3, EKR)
 
@@ -767,7 +767,7 @@ Path 7 (PLAIN8.HCT) contains dpComputerCode PLAIN8.HCT!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO ASHBY HCT 
+sidTwoPathRoute: DEN EEONS AKO ASHBY HCT 
 
 ProcessSid(sidCollection, APA, YELLO1, CYS)
 
@@ -790,7 +790,7 @@ Path 1 (YELLO1.CYS) contains dpComputerCode YELLO1.CYS!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport APA!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YALES CYS 
+sidTwoPathRoute: DEN YALES CYS 
 
 ProcessSid(sidCollection, APA, PLAIN8, MCK)
 
@@ -823,7 +823,7 @@ Path 8 (PLAIN8.MCK) contains dpComputerCode PLAIN8.MCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EMMYS TEKMY BELKE MCK 
+sidTwoPathRoute: DEN EMMYS TEKMY BELKE MCK 
 
 ProcessSid(sidCollection, APA, PLAIN8, GLD)
 
@@ -854,7 +854,7 @@ Path 6 (PLAIN8.GLD) contains dpComputerCode PLAIN8.GLD!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport APA!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EXTAN TXC GLD 
+sidTwoPathRoute: DEN EXTAN TXC GLD 
 
 ProcessSid(sidCollection, APA, YELLO1, HANKI)
 
@@ -878,7 +878,7 @@ Path 2 (YELLO1.HANKI) contains dpComputerCode YELLO1.HANKI!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport APA!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN COPLA HANKI 
+sidTwoPathRoute: DEN COPLA HANKI 
 
 ProcessSid(sidCollection, APA, ROCKI3, MTJ)
 
@@ -943,7 +943,7 @@ Path 5 (BAYLR3.HBU) contains dpComputerCode BAYLR3.HBU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport APA!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA HBU 
+sidTwoPathRoute: BAYLR BOBBA HBU 
 
 ProcessSid(sidCollection, APA, YELLO1, RAP)
 
@@ -971,7 +971,7 @@ Path 6 (YELLO1.RAP) contains dpComputerCode YELLO1.RAP!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport APA!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN GLL RAP 
+sidTwoPathRoute: DEN GLL RAP 
 
 ProcessSid(sidCollection, APA, COORZ3, VOAXA)
 
@@ -1021,7 +1021,7 @@ Path 6 (OBENE2.OGALE) contains dpComputerCode OBENE2.OGALE!
 Path 0 (OBENE2.OBENE) contains connecting dpComputerCode OBENE2.OBENE!
 Path 0 (OBENE2.OBENE) contains origin airport ARR!
 Path 0 (OBENE2.OBENE) contains connecting token OBENE!
-sidTwoPathRoute: OREOS [OBENE] OBENE OGALE 
+sidTwoPathRoute: OREOS OBENE OGALE 
 
 ProcessSid(sidCollection, ATL, PLMMR2, SPA)
 
@@ -1048,7 +1048,7 @@ Path 6 (PLMMR2.SPA) contains dpComputerCode PLMMR2.SPA!
 Path 0 (PLMMR2.PLMMR) contains connecting dpComputerCode PLMMR2.PLMMR!
 Path 0 (PLMMR2.PLMMR) contains origin airport ATL!
 Path 0 (PLMMR2.PLMMR) contains connecting token PLMMR!
-sidTwoPathRoute: RONII IGEBE [PLMMR] PLMMR TENSE NWANT SPA 
+sidTwoPathRoute: RONII IGEBE PLMMR TENSE NWANT SPA 
 
 ProcessSid(sidCollection, ATL, SMKEY2, BOBBD)
 
@@ -1071,7 +1071,7 @@ Path 4 (SMKEY2.BOBBD) contains dpComputerCode SMKEY2.BOBBD!
 Path 0 (SMKEY2.SMKEY) contains connecting dpComputerCode SMKEY2.SMKEY!
 Path 0 (SMKEY2.SMKEY) contains origin airport ATL!
 Path 0 (SMKEY2.SMKEY) contains connecting token SMKEY!
-sidTwoPathRoute: RONII HOYYT CUMON [SMKEY] SMKEY HUCHH BOBBD 
+sidTwoPathRoute: RONII HOYYT CUMON SMKEY HUCHH BOBBD 
 
 ProcessSid(sidCollection, ATL, VRSTY2, MCN)
 
@@ -1096,7 +1096,7 @@ Path 5 (VRSTY2.MCN) contains dpComputerCode VRSTY2.MCN!
 Path 0 (VRSTY2.VRSTY) contains connecting dpComputerCode VRSTY2.VRSTY!
 Path 0 (VRSTY2.VRSTY) contains origin airport ATL!
 Path 0 (VRSTY2.VRSTY) contains connecting token VRSTY!
-sidTwoPathRoute: SKNNR GRITZ HYZMN TROFY [VRSTY] VRSTY MCN 
+sidTwoPathRoute: SKNNR GRITZ HYZMN TROFY VRSTY MCN 
 
 ProcessSid(sidCollection, ATL, NASSA2, YAALL)
 
@@ -1125,7 +1125,7 @@ Path 7 (NASSA2.YAALL) contains dpComputerCode NASSA2.YAALL!
 Path 0 (NASSA2.NASSA) contains connecting dpComputerCode NASSA2.NASSA!
 Path 0 (NASSA2.NASSA) contains origin airport ATL!
 Path 0 (NASSA2.NASSA) contains connecting token NASSA!
-sidTwoPathRoute: HRSHL KLEGG COBBB [NASSA] NASSA ENGNR YAALL 
+sidTwoPathRoute: HRSHL KLEGG COBBB NASSA ENGNR YAALL 
 
 ProcessSid(sidCollection, ATL, PENCL2, JAACE)
 
@@ -1151,7 +1151,7 @@ Path 5 (PENCL2.JAACE) contains dpComputerCode PENCL2.JAACE!
 Path 0 (PENCL2.PENCL) contains connecting dpComputerCode PENCL2.PENCL!
 Path 0 (PENCL2.PENCL) contains origin airport ATL!
 Path 0 (PENCL2.PENCL) contains connecting token PENCL!
-sidTwoPathRoute: RONII HOYYT [PENCL] PENCL LEDRR JAACE 
+sidTwoPathRoute: RONII HOYYT PENCL LEDRR JAACE 
 
 ProcessSid(sidCollection, ATL, HAALO2, SARGE)
 
@@ -1176,7 +1176,7 @@ Path 5 (HAALO2.SARGE) contains dpComputerCode HAALO2.SARGE!
 Path 0 (HAALO2.HAALO) contains connecting dpComputerCode HAALO2.HAALO!
 Path 0 (HAALO2.HAALO) contains origin airport ATL!
 Path 0 (HAALO2.HAALO) contains connecting token HAALO!
-sidTwoPathRoute: SKNNR GRITZ HYZMN [HAALO] HAALO SARGE 
+sidTwoPathRoute: SKNNR GRITZ HYZMN HAALO SARGE 
 
 ProcessSid(sidCollection, ATL, GAIRY2, IRQ)
 
@@ -1203,7 +1203,7 @@ Path 6 (GAIRY2.IRQ) contains dpComputerCode GAIRY2.IRQ!
 Path 0 (GAIRY2.GAIRY) contains connecting dpComputerCode GAIRY2.GAIRY!
 Path 0 (GAIRY2.GAIRY) contains origin airport ATL!
 Path 0 (GAIRY2.GAIRY) contains connecting token GAIRY!
-sidTwoPathRoute: RONII IGEBE [GAIRY] GAIRY IRQ 
+sidTwoPathRoute: RONII IGEBE GAIRY IRQ 
 
 ProcessSid(sidCollection, ATL, POUNC2, POUNC)
 
@@ -1238,7 +1238,7 @@ Path 5 (BANNG2.LUCKK) contains dpComputerCode BANNG2.LUCKK!
 Path 0 (BANNG2.BANNG) contains connecting dpComputerCode BANNG2.BANNG!
 Path 0 (BANNG2.BANNG) contains origin airport ATL!
 Path 0 (BANNG2.BANNG) contains connecting token BANNG!
-sidTwoPathRoute: SKNNR GRITZ HYZMN [BANNG] BANNG LUCKK 
+sidTwoPathRoute: SKNNR GRITZ HYZMN BANNG LUCKK 
 
 ProcessSid(sidCollection, ATL, PADGT2, SMTTH)
 
@@ -1263,7 +1263,7 @@ Path 5 (PADGT2.SMTTH) contains dpComputerCode PADGT2.SMTTH!
 Path 0 (PADGT2.PADGT) contains connecting dpComputerCode PADGT2.PADGT!
 Path 0 (PADGT2.PADGT) contains origin airport ATL!
 Path 0 (PADGT2.PADGT) contains connecting token PADGT!
-sidTwoPathRoute: RONII HOYYT GRABA [PADGT] PADGT COLVN SMTTH 
+sidTwoPathRoute: RONII HOYYT GRABA PADGT COLVN SMTTH 
 
 ProcessSid(sidCollection, ATL, POUNC2, STEIT)
 
@@ -1290,7 +1290,7 @@ Path 6 (POUNC2.STEIT) contains dpComputerCode POUNC2.STEIT!
 Path 0 (POUNC2.POUNC) contains connecting dpComputerCode POUNC2.POUNC!
 Path 0 (POUNC2.POUNC) contains origin airport ATL!
 Path 0 (POUNC2.POUNC) contains connecting token POUNC!
-sidTwoPathRoute: HRSHL KLEGG COBBB [POUNC] POUNC PNTHA GRGIA STEIT 
+sidTwoPathRoute: HRSHL KLEGG COBBB POUNC PNTHA GRGIA STEIT 
 
 ProcessSid(sidCollection, ATL, CUTTN2, HANKO)
 
@@ -1315,7 +1315,7 @@ Path 5 (CUTTN2.HANKO) contains dpComputerCode CUTTN2.HANKO!
 Path 0 (CUTTN2.CUTTN) contains connecting dpComputerCode CUTTN2.CUTTN!
 Path 0 (CUTTN2.CUTTN) contains origin airport ATL!
 Path 0 (CUTTN2.CUTTN) contains connecting token CUTTN!
-sidTwoPathRoute: HRSHL KLEGG COBBB [CUTTN] CUTTN HANKO 
+sidTwoPathRoute: HRSHL KLEGG COBBB CUTTN HANKO 
 
 ProcessSid(sidCollection, ATL, VARNM2, RESPE)
 
@@ -1340,7 +1340,7 @@ Path 5 (VARNM2.RESPE) contains dpComputerCode VARNM2.RESPE!
 Path 0 (VARNM2.VARNM) contains connecting dpComputerCode VARNM2.VARNM!
 Path 0 (VARNM2.VARNM) contains origin airport ATL!
 Path 0 (VARNM2.VARNM) contains connecting token VARNM!
-sidTwoPathRoute: RONII HOYYT [VARNM] VARNM RESPE 
+sidTwoPathRoute: RONII HOYYT VARNM RESPE 
 
 ProcessSid(sidCollection, ATL, SMKEY2, SMKEY)
 
@@ -1385,7 +1385,7 @@ Path 4 (PENCL2.EMAHH) contains dpComputerCode PENCL2.EMAHH!
 Path 0 (PENCL2.PENCL) contains connecting dpComputerCode PENCL2.PENCL!
 Path 0 (PENCL2.PENCL) contains origin airport ATL!
 Path 0 (PENCL2.PENCL) contains connecting token PENCL!
-sidTwoPathRoute: RONII HOYYT [PENCL] PENCL LEDRR EMAHH 
+sidTwoPathRoute: RONII HOYYT PENCL LEDRR EMAHH 
 
 ProcessSid(sidCollection, ATL, PENCL2, PENCL)
 
@@ -1419,7 +1419,7 @@ Path 4 (PADGT2.RAFTN) contains dpComputerCode PADGT2.RAFTN!
 Path 0 (PADGT2.PADGT) contains connecting dpComputerCode PADGT2.PADGT!
 Path 0 (PADGT2.PADGT) contains origin airport ATL!
 Path 0 (PADGT2.PADGT) contains connecting token PADGT!
-sidTwoPathRoute: RONII HOYYT GRABA [PADGT] PADGT RAFTN 
+sidTwoPathRoute: RONII HOYYT GRABA PADGT RAFTN 
 
 ProcessSid(sidCollection, ATL, JACCC2, KELLN)
 
@@ -1446,7 +1446,7 @@ Path 6 (JACCC2.KELLN) contains dpComputerCode JACCC2.KELLN!
 Path 0 (JACCC2.JACCC) contains connecting dpComputerCode JACCC2.JACCC!
 Path 0 (JACCC2.JACCC) contains origin airport ATL!
 Path 0 (JACCC2.JACCC) contains connecting token JACCC!
-sidTwoPathRoute: RONII IGEBE [JACCC] JACCC SHUTT BFOUT KELLN 
+sidTwoPathRoute: RONII IGEBE JACCC SHUTT BFOUT KELLN 
 
 ProcessSid(sidCollection, ATL, PHIIL2, PHIIL)
 
@@ -1481,7 +1481,7 @@ Path 5 (KAJIN2.STNGA) contains dpComputerCode KAJIN2.STNGA!
 Path 0 (KAJIN2.KAJIN) contains connecting dpComputerCode KAJIN2.KAJIN!
 Path 0 (KAJIN2.KAJIN) contains origin airport ATL!
 Path 0 (KAJIN2.KAJIN) contains connecting token KAJIN!
-sidTwoPathRoute: HRSHL KLEGG COBBB [KAJIN] KAJIN STNGA 
+sidTwoPathRoute: HRSHL KLEGG COBBB KAJIN STNGA 
 
 ProcessSid(sidCollection, ATL, VARNM2, GLAZR)
 
@@ -1505,7 +1505,7 @@ Path 4 (VARNM2.GLAZR) contains dpComputerCode VARNM2.GLAZR!
 Path 0 (VARNM2.VARNM) contains connecting dpComputerCode VARNM2.VARNM!
 Path 0 (VARNM2.VARNM) contains origin airport ATL!
 Path 0 (VARNM2.VARNM) contains connecting token VARNM!
-sidTwoPathRoute: RONII HOYYT [VARNM] VARNM GLAZR 
+sidTwoPathRoute: RONII HOYYT VARNM GLAZR 
 
 ProcessSid(sidCollection, ATL, NASSA2, VUZ)
 
@@ -1533,7 +1533,7 @@ Path 6 (NASSA2.VUZ) contains dpComputerCode NASSA2.VUZ!
 Path 0 (NASSA2.NASSA) contains connecting dpComputerCode NASSA2.NASSA!
 Path 0 (NASSA2.NASSA) contains origin airport ATL!
 Path 0 (NASSA2.NASSA) contains connecting token NASSA!
-sidTwoPathRoute: HRSHL KLEGG COBBB [NASSA] NASSA ENGNR VUZ 
+sidTwoPathRoute: HRSHL KLEGG COBBB NASSA ENGNR VUZ 
 
 ProcessSid(sidCollection, ATL, SMLTZ2, WALET)
 
@@ -1558,7 +1558,7 @@ Path 5 (SMLTZ2.WALET) contains dpComputerCode SMLTZ2.WALET!
 Path 0 (SMLTZ2.SMLTZ) contains connecting dpComputerCode SMLTZ2.SMLTZ!
 Path 0 (SMLTZ2.SMLTZ) contains origin airport ATL!
 Path 0 (SMLTZ2.SMLTZ) contains connecting token SMLTZ!
-sidTwoPathRoute: SKNNR GRITZ HYZMN TROFY [SMLTZ] SMLTZ WALET 
+sidTwoPathRoute: SKNNR GRITZ HYZMN TROFY SMLTZ WALET 
 
 ProcessSid(sidCollection, ATL, PLMMR2, PLMMR)
 
@@ -1595,7 +1595,7 @@ Path 6 (PHIIL2.GRD) contains dpComputerCode PHIIL2.GRD!
 Path 0 (PHIIL2.PHIIL) contains connecting dpComputerCode PHIIL2.PHIIL!
 Path 0 (PHIIL2.PHIIL) contains origin airport ATL!
 Path 0 (PHIIL2.PHIIL) contains connecting token PHIIL!
-sidTwoPathRoute: RONII IGEBE [PHIIL] PHIIL LAGGR MULSN GRD 
+sidTwoPathRoute: RONII IGEBE PHIIL LAGGR MULSN GRD 
 
 ProcessSid(sidCollection, ATL, POUNC2, GRGIA)
 ****INFO: Origin Airport KATL and/or Destination Airport TJSJ is not in the US!
@@ -1625,7 +1625,7 @@ Path 5 (NASSA2.CHOOK) contains dpComputerCode NASSA2.CHOOK!
 Path 0 (NASSA2.NASSA) contains connecting dpComputerCode NASSA2.NASSA!
 Path 0 (NASSA2.NASSA) contains origin airport ATL!
 Path 0 (NASSA2.NASSA) contains connecting token NASSA!
-sidTwoPathRoute: HRSHL KLEGG COBBB [NASSA] NASSA ENGNR CHOOK 
+sidTwoPathRoute: HRSHL KLEGG COBBB NASSA ENGNR CHOOK 
 
 ProcessSid(sidCollection, ATL, KAJIN2, KAJIN)
 
@@ -1653,7 +1653,7 @@ Path 1 (ELOEL1.FORSS) contains dpComputerCode ELOEL1.FORSS!
 Path 0 (ELOEL1.ELOEL) contains connecting dpComputerCode ELOEL1.ELOEL!
 Path 0 (ELOEL1.ELOEL) contains origin airport AUS!
 Path 0 (ELOEL1.ELOEL) contains connecting token ELOEL!
-sidTwoPathRoute: WLMRT [ELOEL] ELOEL FORSS 
+sidTwoPathRoute: WLMRT ELOEL FORSS 
 
 ProcessSid(sidCollection, AUS, BNDIA1, BNDIA)
 
@@ -1692,7 +1692,7 @@ Path 2 (ILEXY1.JESSO) contains dpComputerCode ILEXY1.JESSO!
 Path 0 (ILEXY1.ILEXY) contains connecting dpComputerCode ILEXY1.ILEXY!
 Path 0 (ILEXY1.ILEXY) contains origin airport AUS!
 Path 0 (ILEXY1.ILEXY) contains connecting token ILEXY!
-sidTwoPathRoute: HOOKK [ILEXY] ILEXY JAYJO ASHRR JESSO 
+sidTwoPathRoute: HOOKK ILEXY JAYJO ASHRR JESSO 
 
 ProcessSid(sidCollection, AUS, AUS4, AGJ)
 
@@ -1758,7 +1758,7 @@ Path 2 (ELOEL1.KLNGR) contains dpComputerCode ELOEL1.KLNGR!
 Path 0 (ELOEL1.ELOEL) contains connecting dpComputerCode ELOEL1.ELOEL!
 Path 0 (ELOEL1.ELOEL) contains origin airport AUS!
 Path 0 (ELOEL1.ELOEL) contains connecting token ELOEL!
-sidTwoPathRoute: WLMRT [ELOEL] ELOEL KLNGR 
+sidTwoPathRoute: WLMRT ELOEL KLNGR 
 
 ProcessSid(sidCollection, AUS, CWK5, TNV)
 
@@ -1783,7 +1783,7 @@ Path 4 (CWK5.TNV) contains dpComputerCode CWK5.TNV!
 Path 0 (CWK5.CWK) contains connecting dpComputerCode CWK5.CWK!
 Path 0 (CWK5.CWK) contains origin airport AUS!
 Path 0 (CWK5.CWK) contains connecting token CWK!
-sidTwoPathRoute: [CWK] CWK HOOKK ILEXY JAYJO TNV 
+sidTwoPathRoute: CWK HOOKK ILEXY JAYJO TNV 
 
 ProcessSid(sidCollection, AUS, SAYBR1, SAYBR)
 
@@ -1819,7 +1819,7 @@ Path 5 (CWK5.NAVYS) contains dpComputerCode CWK5.NAVYS!
 Path 0 (CWK5.CWK) contains connecting dpComputerCode CWK5.CWK!
 Path 0 (CWK5.CWK) contains origin airport AUS!
 Path 0 (CWK5.CWK) contains connecting token CWK!
-sidTwoPathRoute: [CWK] CWK MUNCH NAVYS 
+sidTwoPathRoute: CWK MUNCH NAVYS 
 
 ProcessSid(sidCollection, AUS, AUS4, SAT)
 
@@ -1878,7 +1878,7 @@ Path 1 (ILEXY1.JAYJO) contains dpComputerCode ILEXY1.JAYJO!
 Path 0 (ILEXY1.ILEXY) contains connecting dpComputerCode ILEXY1.ILEXY!
 Path 0 (ILEXY1.ILEXY) contains origin airport AUS!
 Path 0 (ILEXY1.ILEXY) contains connecting token ILEXY!
-sidTwoPathRoute: HOOKK [ILEXY] ILEXY JAYJO 
+sidTwoPathRoute: HOOKK ILEXY JAYJO 
 
 ProcessSid(sidCollection, BDL, CSTL6, GEDIC)
 
@@ -1909,8 +1909,8 @@ ProcessSid - Number of paths: 3 for CSTL6.CCC
 PROCESS SID PASS ONE...
 Path 0 (CSTL6.CCC) contains dpComputerCode CSTL6.CCC!
 Path 0 (CSTL6.CCC) contains origin airport BDL!
-sidSinglePathRoute: $HFD$ 
-ERROR: Path CSTL6.CCC does NOT contain next token CCC!
+INFO: Path CSTL6.CCC does NOT contain next token CCC!
+sidSinglePathRoute: CCC
 
 ProcessSid(sidCollection, BDL, CSTL6, SHERL)
 
@@ -1954,7 +1954,7 @@ Path 3 (EPKEE4.DUUCE) contains dpComputerCode EPKEE4.DUUCE!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport BJC!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS DUUCE 
+sidTwoPathRoute: EPKEE CLAMR WEEDS DUUCE 
 
 ProcessSid(sidCollection, BJC, PLAIN8, GCK)
 
@@ -1984,7 +1984,7 @@ Path 5 (PLAIN8.GCK) contains dpComputerCode PLAIN8.GCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS GCK 
+sidTwoPathRoute: DEN EPKEE WEEDS GCK 
 
 ProcessSid(sidCollection, BJC, YAMMI3, LAR)
 
@@ -2027,7 +2027,7 @@ Path 3 (YELLO1.LAR) contains dpComputerCode YELLO1.LAR!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport BJC!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YAMMI LAR 
+sidTwoPathRoute: DEN YAMMI LAR 
 
 ProcessSid(sidCollection, BJC, SPAZZ3, ZAPAA)
 
@@ -2054,7 +2054,7 @@ Path 6 (SPAZZ3.ZAPAA) contains dpComputerCode SPAZZ3.ZAPAA!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport BJC!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ FRNKE ZAPAA 
+sidTwoPathRoute: JEPPC SPAZZ FRNKE ZAPAA 
 
 ProcessSid(sidCollection, BJC, PIKES9, ALS)
 
@@ -2073,7 +2073,7 @@ Path 1 (PIKES9.ALS) contains dpComputerCode PIKES9.ALS!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport BJC!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV ALS 
+sidTwoPathRoute: DEN TEHEV ALS 
 
 ProcessSid(sidCollection, BJC, BAYLR3, TEHRU)
 
@@ -2100,7 +2100,7 @@ Path 6 (BAYLR3.TEHRU) contains dpComputerCode BAYLR3.TEHRU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport BJC!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA TEHRU 
+sidTwoPathRoute: BAYLR BOBBA TEHRU 
 
 ProcessSid(sidCollection, BJC, ROCKI3, DVC)
 
@@ -2216,7 +2216,7 @@ Path 3 (YOKES5.YOKES) does NOT contain origin airport BJC!
 Path 4 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 4 (YOKES5.YOKES) contains origin airport BJC!
 Path 4 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: VELAA [YOKES] YOKES CHICI 
+sidTwoPathRoute: VELAA YOKES CHICI 
 
 ProcessSid(sidCollection, BJC, SPAZZ3, TBE)
 
@@ -2242,7 +2242,7 @@ Path 5 (SPAZZ3.TBE) contains dpComputerCode SPAZZ3.TBE!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport BJC!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ PUB TBE 
+sidTwoPathRoute: JEPPC SPAZZ PUB TBE 
 
 ProcessSid(sidCollection, BJC, RIKKK3, FISAR)
 ****INFO: Origin Airport KBJC and/or Destination Airport PAFA is not in the US!
@@ -2274,7 +2274,7 @@ Path 1 (PLAIN8.AKO) contains dpComputerCode PLAIN8.AKO!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO 
+sidTwoPathRoute: DEN EEONS AKO 
 
 ProcessSid(sidCollection, BJC, YELLO1, BFF)
 
@@ -2303,7 +2303,7 @@ Path 7 (YELLO1.BFF) contains dpComputerCode YELLO1.BFF!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport BJC!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN BFF 
+sidTwoPathRoute: DEN BFF 
 
 ProcessSid(sidCollection, BJC, PIKES9, PUB)
 
@@ -2324,7 +2324,7 @@ Path 3 (PIKES9.PUB) contains dpComputerCode PIKES9.PUB!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport BJC!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN ADANE DRAKE PUB 
+sidTwoPathRoute: DEN ADANE DRAKE PUB 
 
 ProcessSid(sidCollection, BJC, ROCKI3, RLG)
 
@@ -2406,7 +2406,7 @@ Path 10 (PLAIN8.WEEDS) contains dpComputerCode PLAIN8.WEEDS!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS 
+sidTwoPathRoute: DEN EPKEE WEEDS 
 
 ProcessSid(sidCollection, BJC, ROCKI3, HBU)
 
@@ -2466,7 +2466,7 @@ Path 4 (SPAZZ3.JOPLN) contains dpComputerCode SPAZZ3.JOPLN!
 Path 0 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 0 (SPAZZ3.SPAZZ) contains origin airport BJC!
 Path 0 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: JEPPC [SPAZZ] SPAZZ PUB JOPLN 
+sidTwoPathRoute: JEPPC SPAZZ PUB JOPLN 
 
 ProcessSid(sidCollection, BJC, EPKEE4, GATTR)
 
@@ -2489,7 +2489,7 @@ Path 4 (EPKEE4.GATTR) contains dpComputerCode EPKEE4.GATTR!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport BJC!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS GATTR 
+sidTwoPathRoute: EPKEE CLAMR WEEDS GATTR 
 
 ProcessSid(sidCollection, BJC, PIKES9, BINKE)
 
@@ -2509,7 +2509,7 @@ Path 2 (PIKES9.BINKE) contains dpComputerCode PIKES9.BINKE!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport BJC!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV BINKE 
+sidTwoPathRoute: DEN TEHEV BINKE 
 
 ProcessSid(sidCollection, BJC, CONNR4, DBL)
 
@@ -2605,7 +2605,7 @@ Path 3 (YOKES5.YOKES) does NOT contain origin airport BJC!
 Path 4 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 4 (YOKES5.YOKES) contains origin airport BJC!
 Path 4 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: VELAA [YOKES] YOKES COPLA BFF 
+sidTwoPathRoute: VELAA YOKES COPLA BFF 
 
 ProcessSid(sidCollection, BJC, ROCKI3, EKR)
 
@@ -2675,7 +2675,7 @@ Path 7 (PLAIN8.HCT) contains dpComputerCode PLAIN8.HCT!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO ASHBY HCT 
+sidTwoPathRoute: DEN EEONS AKO ASHBY HCT 
 
 ProcessSid(sidCollection, BJC, YELLO1, CYS)
 
@@ -2698,7 +2698,7 @@ Path 1 (YELLO1.CYS) contains dpComputerCode YELLO1.CYS!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport BJC!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YALES CYS 
+sidTwoPathRoute: DEN YALES CYS 
 
 ProcessSid(sidCollection, BJC, PLAIN8, MCK)
 
@@ -2731,7 +2731,7 @@ Path 8 (PLAIN8.MCK) contains dpComputerCode PLAIN8.MCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EMMYS TEKMY BELKE MCK 
+sidTwoPathRoute: DEN EMMYS TEKMY BELKE MCK 
 
 ProcessSid(sidCollection, BJC, PLAIN8, GLD)
 
@@ -2762,7 +2762,7 @@ Path 6 (PLAIN8.GLD) contains dpComputerCode PLAIN8.GLD!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport BJC!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EXTAN TXC GLD 
+sidTwoPathRoute: DEN EXTAN TXC GLD 
 
 ProcessSid(sidCollection, BJC, YELLO1, HANKI)
 
@@ -2786,7 +2786,7 @@ Path 2 (YELLO1.HANKI) contains dpComputerCode YELLO1.HANKI!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport BJC!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN COPLA HANKI 
+sidTwoPathRoute: DEN COPLA HANKI 
 
 ProcessSid(sidCollection, BJC, ROCKI3, MTJ)
 
@@ -2851,7 +2851,7 @@ Path 5 (BAYLR3.HBU) contains dpComputerCode BAYLR3.HBU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport BJC!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA HBU 
+sidTwoPathRoute: BAYLR BOBBA HBU 
 
 ProcessSid(sidCollection, BJC, YELLO1, RAP)
 
@@ -2879,7 +2879,7 @@ Path 6 (YELLO1.RAP) contains dpComputerCode YELLO1.RAP!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport BJC!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN GLL RAP 
+sidTwoPathRoute: DEN GLL RAP 
 
 ProcessSid(sidCollection, BJC, COORZ3, VOAXA)
 
@@ -2981,7 +2981,7 @@ Path 7 (TERPZ6.MCRAY) contains dpComputerCode TERPZ6.MCRAY!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LINSE BUFFR MCRAY 
+sidTwoPathRoute: WONCE TERPZ LINSE BUFFR MCRAY 
 
 ProcessSid(sidCollection, BWI, CONLE3, COLIN)
 
@@ -3004,7 +3004,7 @@ Path 4 (CONLE3.COLIN) contains dpComputerCode CONLE3.COLIN!
 Path 0 (CONLE3.CONLE) contains connecting dpComputerCode CONLE3.CONLE!
 Path 0 (CONLE3.CONLE) contains origin airport BWI!
 Path 0 (CONLE3.CONLE) contains connecting token CONLE!
-sidTwoPathRoute: OHSSS [CONLE] CONLE BOOCK COLIN 
+sidTwoPathRoute: OHSSS CONLE BOOCK COLIN 
 
 ProcessSid(sidCollection, BWI, TERPZ6, MAULS)
 
@@ -3035,7 +3035,7 @@ Path 6 (TERPZ6.MAULS) contains dpComputerCode TERPZ6.MAULS!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LITME HIRCK BUTRZ CLTCH KERRK MAULS 
+sidTwoPathRoute: WONCE TERPZ LITME HIRCK BUTRZ CLTCH KERRK MAULS 
 
 ProcessSid(sidCollection, BWI, TERPZ6, OTTTO)
 
@@ -3068,7 +3068,7 @@ Path 8 (TERPZ6.OTTTO) contains dpComputerCode TERPZ6.OTTTO!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ FOXHL OTTTO 
+sidTwoPathRoute: WONCE TERPZ FOXHL OTTTO 
 
 ProcessSid(sidCollection, BWI, SWANN3, OOD)
 
@@ -3087,7 +3087,7 @@ Path 2 (SWANN3.OOD) contains dpComputerCode SWANN3.OOD!
 Path 0 (SWANN3.SWANN) contains connecting dpComputerCode SWANN3.SWANN!
 Path 0 (SWANN3.SWANN) contains origin airport BWI!
 Path 0 (SWANN3.SWANN) contains connecting token SWANN!
-sidTwoPathRoute: [SWANN] SWANN BROSS OOD 
+sidTwoPathRoute: SWANN BROSS OOD 
 
 ProcessSid(sidCollection, BWI, TERPZ6, JERES)
 
@@ -3116,7 +3116,7 @@ Path 4 (TERPZ6.JERES) contains dpComputerCode TERPZ6.JERES!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LINSE JERES 
+sidTwoPathRoute: WONCE TERPZ LINSE JERES 
 
 ProcessSid(sidCollection, BWI, PALEO3, SIE)
 
@@ -3171,7 +3171,7 @@ Path 3 (TERPZ6.GSO) contains dpComputerCode TERPZ6.GSO!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LITME HIRCK JDUBB TYPNZ SCORN RRSIN GSO 
+sidTwoPathRoute: WONCE TERPZ LITME HIRCK JDUBB TYPNZ SCORN RRSIN GSO 
 
 ProcessSid(sidCollection, BWI, TERPZ6, LYH)
 
@@ -3201,7 +3201,7 @@ Path 5 (TERPZ6.LYH) contains dpComputerCode TERPZ6.LYH!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LITME HIRCK SCRAM DANOO WALCE GLANC LYH 
+sidTwoPathRoute: WONCE TERPZ LITME HIRCK SCRAM DANOO WALCE GLANC LYH 
 
 ProcessSid(sidCollection, BWI, TERPZ6, RAMAY)
 
@@ -3235,7 +3235,7 @@ Path 9 (TERPZ6.RAMAY) contains dpComputerCode TERPZ6.RAMAY!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ FOXHL RAMAY 
+sidTwoPathRoute: WONCE TERPZ FOXHL RAMAY 
 
 ProcessSid(sidCollection, BWI, TERPZ6, FLASK)
 
@@ -3262,7 +3262,7 @@ Path 2 (TERPZ6.FLASK) contains dpComputerCode TERPZ6.FLASK!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LITME HIRCK BUTRZ CLTCH KERRK TEEMS FLASK 
+sidTwoPathRoute: WONCE TERPZ LITME HIRCK BUTRZ CLTCH KERRK TEEMS FLASK 
 
 ProcessSid(sidCollection, BWI, PALEO3, PALEO)
 
@@ -3272,8 +3272,8 @@ ProcessSid - Number of paths: 4 for PALEO3.PALEO
 PROCESS SID PASS ONE...
 Path 0 (PALEO3.PALEO) contains dpComputerCode PALEO3.PALEO!
 Path 0 (PALEO3.PALEO) contains origin airport BWI!
-sidSinglePathRoute: %BWI% 
-ERROR: Path PALEO3.PALEO does NOT contain next token PALEO!
+INFO: Path PALEO3.PALEO does NOT contain next token PALEO!
+sidSinglePathRoute: BWI PALEO
 
 ProcessSid(sidCollection, BWI, SWANN3, DQO)
 
@@ -3291,7 +3291,7 @@ Path 1 (SWANN3.DQO) contains dpComputerCode SWANN3.DQO!
 Path 0 (SWANN3.SWANN) contains connecting dpComputerCode SWANN3.SWANN!
 Path 0 (SWANN3.SWANN) contains origin airport BWI!
 Path 0 (SWANN3.SWANN) contains connecting token SWANN!
-sidTwoPathRoute: [SWANN] SWANN DQO 
+sidTwoPathRoute: SWANN DQO 
 
 ProcessSid(sidCollection, BWI, TERPZ6, SBV)
 
@@ -3326,7 +3326,7 @@ Path 10 (TERPZ6.SBV) contains dpComputerCode TERPZ6.SBV!
 Path 0 (TERPZ6.TERPZ) contains connecting dpComputerCode TERPZ6.TERPZ!
 Path 0 (TERPZ6.TERPZ) contains origin airport BWI!
 Path 0 (TERPZ6.TERPZ) contains connecting token TERPZ!
-sidTwoPathRoute: WONCE [TERPZ] TERPZ LITME HIRCK JDUBB CASLY MELTN SBV 
+sidTwoPathRoute: WONCE TERPZ LITME HIRCK JDUBB CASLY MELTN SBV 
 
 ProcessSid(sidCollection, BWI, PALEO3, ACY)
 
@@ -3415,7 +3415,7 @@ Path 5 (OBRLN5.ROD) contains dpComputerCode OBRLN5.ROD!
 Path 0 (OBRLN5.OBRLN) contains connecting dpComputerCode OBRLN5.OBRLN!
 Path 0 (OBRLN5.OBRLN) contains origin airport CLE!
 Path 0 (OBRLN5.OBRLN) contains connecting token OBRLN!
-sidTwoPathRoute: BRUNZ [OBRLN] OBRLN ROD 
+sidTwoPathRoute: BRUNZ OBRLN ROD 
 
 ProcessSid(sidCollection, CLE, AMRST5, VWV)
 
@@ -3434,7 +3434,7 @@ Path 2 (AMRST5.VWV) contains dpComputerCode AMRST5.VWV!
 Path 0 (AMRST5.AMRST) contains connecting dpComputerCode AMRST5.AMRST!
 Path 0 (AMRST5.AMRST) contains origin airport CLE!
 Path 0 (AMRST5.AMRST) contains connecting token AMRST!
-sidTwoPathRoute: [AMRST] AMRST VWV 
+sidTwoPathRoute: AMRST VWV 
 
 ProcessSid(sidCollection, CLE, OBRLN5, RID)
 
@@ -3458,7 +3458,7 @@ Path 4 (OBRLN5.RID) contains dpComputerCode OBRLN5.RID!
 Path 0 (OBRLN5.OBRLN) contains connecting dpComputerCode OBRLN5.OBRLN!
 Path 0 (OBRLN5.OBRLN) contains origin airport CLE!
 Path 0 (OBRLN5.OBRLN) contains connecting token OBRLN!
-sidTwoPathRoute: BRUNZ [OBRLN] OBRLN FBC RID 
+sidTwoPathRoute: BRUNZ OBRLN FBC RID 
 
 ProcessSid(sidCollection, CLE, AMRST5, CRL)
 
@@ -3476,7 +3476,7 @@ Path 1 (AMRST5.CRL) contains dpComputerCode AMRST5.CRL!
 Path 0 (AMRST5.AMRST) contains connecting dpComputerCode AMRST5.AMRST!
 Path 0 (AMRST5.AMRST) contains origin airport CLE!
 Path 0 (AMRST5.AMRST) contains connecting token AMRST!
-sidTwoPathRoute: [AMRST] AMRST CRL 
+sidTwoPathRoute: AMRST CRL 
 
 ProcessSid(sidCollection, CLE, OBRLN5, MIE)
 
@@ -3499,7 +3499,7 @@ Path 3 (OBRLN5.MIE) contains dpComputerCode OBRLN5.MIE!
 Path 0 (OBRLN5.OBRLN) contains connecting dpComputerCode OBRLN5.OBRLN!
 Path 0 (OBRLN5.OBRLN) contains origin airport CLE!
 Path 0 (OBRLN5.OBRLN) contains connecting token OBRLN!
-sidTwoPathRoute: BRUNZ [OBRLN] OBRLN FBC MIE 
+sidTwoPathRoute: BRUNZ OBRLN FBC MIE 
 
 ProcessSid(sidCollection, CLE, ALPHE4, ALPHE)
 
@@ -3540,7 +3540,7 @@ Path 1 (OBRLN5.VHP) contains dpComputerCode OBRLN5.VHP!
 Path 0 (OBRLN5.OBRLN) contains connecting dpComputerCode OBRLN5.OBRLN!
 Path 0 (OBRLN5.OBRLN) contains origin airport CLE!
 Path 0 (OBRLN5.OBRLN) contains connecting token OBRLN!
-sidTwoPathRoute: BRUNZ [OBRLN] OBRLN FBC MIE VHP 
+sidTwoPathRoute: BRUNZ OBRLN FBC MIE VHP 
 
 ProcessSid(sidCollection, CLT, JOJJO3, JOJJO)
 
@@ -3568,7 +3568,7 @@ Path 1 (KRITR4.FILDS) contains dpComputerCode KRITR4.FILDS!
 Path 0 (KRITR4.KRITR) contains connecting dpComputerCode KRITR4.KRITR!
 Path 0 (KRITR4.KRITR) contains origin airport CLT!
 Path 0 (KRITR4.KRITR) contains connecting token KRITR!
-sidTwoPathRoute: JDEAN [KRITR] KRITR FILDS 
+sidTwoPathRoute: JDEAN KRITR FILDS 
 
 ProcessSid(sidCollection, CLT, KILNS3, AUDII)
 
@@ -3585,7 +3585,7 @@ Path 1 (KILNS3.AUDII) contains dpComputerCode KILNS3.AUDII!
 Path 0 (KILNS3.KILNS) contains connecting dpComputerCode KILNS3.KILNS!
 Path 0 (KILNS3.KILNS) contains origin airport CLT!
 Path 0 (KILNS3.KILNS) contains connecting token KILNS!
-sidTwoPathRoute: MUNBE LILIC [KILNS] KILNS DURST AUDII 
+sidTwoPathRoute: MUNBE LILIC KILNS DURST AUDII 
 
 ProcessSid(sidCollection, CLT, WEAZL3, CLAWD)
 
@@ -3602,7 +3602,7 @@ Path 1 (WEAZL3.CLAWD) contains dpComputerCode WEAZL3.CLAWD!
 Path 0 (WEAZL3.WEAZL) contains connecting dpComputerCode WEAZL3.WEAZL!
 Path 0 (WEAZL3.WEAZL) contains origin airport CLT!
 Path 0 (WEAZL3.WEAZL) contains connecting token WEAZL!
-sidTwoPathRoute: WHFRD [WEAZL] WEAZL CLAWD 
+sidTwoPathRoute: WHFRD WEAZL CLAWD 
 
 ProcessSid(sidCollection, CLT, JOJJO3, CUBIM)
 
@@ -3621,7 +3621,7 @@ Path 1 (JOJJO3.CUBIM) contains dpComputerCode JOJJO3.CUBIM!
 Path 0 (JOJJO3.JOJJO) contains connecting dpComputerCode JOJJO3.JOJJO!
 Path 0 (JOJJO3.JOJJO) contains origin airport CLT!
 Path 0 (JOJJO3.JOJJO) contains connecting token JOJJO!
-sidTwoPathRoute: WAYDS LONEE [JOJJO] JOJJO WLLGO BENBY TIELR CUBIM 
+sidTwoPathRoute: WAYDS LONEE JOJJO WLLGO BENBY TIELR CUBIM 
 
 ProcessSid(sidCollection, CLT, ESTRR3, IPTAY)
 
@@ -3638,7 +3638,7 @@ Path 1 (ESTRR3.IPTAY) contains dpComputerCode ESTRR3.IPTAY!
 Path 0 (ESTRR3.ESTRR) contains connecting dpComputerCode ESTRR3.ESTRR!
 Path 0 (ESTRR3.ESTRR) contains origin airport CLT!
 Path 0 (ESTRR3.ESTRR) contains connecting token ESTRR!
-sidTwoPathRoute: GINNN [ESTRR] ESTRR DEBIE IPTAY 
+sidTwoPathRoute: GINNN ESTRR DEBIE IPTAY 
 
 ProcessSid(sidCollection, CLT, LILLS1, LILLS)
 
@@ -3666,7 +3666,7 @@ Path 1 (BEAVY4.GANDT) contains dpComputerCode BEAVY4.GANDT!
 Path 0 (BEAVY4.BEAVY) contains connecting dpComputerCode BEAVY4.BEAVY!
 Path 0 (BEAVY4.BEAVY) contains origin airport CLT!
 Path 0 (BEAVY4.BEAVY) contains connecting token BEAVY!
-sidTwoPathRoute: UGANG [BEAVY] BEAVY ANDYS GANDT 
+sidTwoPathRoute: UGANG BEAVY ANDYS GANDT 
 
 ProcessSid(sidCollection, CLT, BARMY3, RDU)
 
@@ -3686,7 +3686,7 @@ Path 2 (BARMY3.RDU) contains dpComputerCode BARMY3.RDU!
 Path 0 (BARMY3.BARMY) contains connecting dpComputerCode BARMY3.BARMY!
 Path 0 (BARMY3.BARMY) contains origin airport CLT!
 Path 0 (BARMY3.BARMY) contains connecting token BARMY!
-sidTwoPathRoute: MESHY GULFY [BARMY] BARMY BATTA RDU 
+sidTwoPathRoute: MESHY GULFY BARMY BATTA RDU 
 
 ProcessSid(sidCollection, CLT, BOBZY3, BOBZY)
 
@@ -3715,7 +3715,7 @@ Path 2 (BOBZY3.TNSLY) contains dpComputerCode BOBZY3.TNSLY!
 Path 0 (BOBZY3.BOBZY) contains connecting dpComputerCode BOBZY3.BOBZY!
 Path 0 (BOBZY3.BOBZY) contains origin airport CLT!
 Path 0 (BOBZY3.BOBZY) contains connecting token BOBZY!
-sidTwoPathRoute: LACHN YNGUN [BOBZY] BOBZY TNSLY 
+sidTwoPathRoute: LACHN YNGUN BOBZY TNSLY 
 
 ProcessSid(sidCollection, CLT, BOBZY3, BNA)
 
@@ -3733,7 +3733,7 @@ Path 1 (BOBZY3.BNA) contains dpComputerCode BOBZY3.BNA!
 Path 0 (BOBZY3.BOBZY) contains connecting dpComputerCode BOBZY3.BOBZY!
 Path 0 (BOBZY3.BOBZY) contains origin airport CLT!
 Path 0 (BOBZY3.BOBZY) contains connecting token BOBZY!
-sidTwoPathRoute: LACHN YNGUN [BOBZY] BOBZY BRAYN REWET HALLS BAZOO BNA 
+sidTwoPathRoute: LACHN YNGUN BOBZY BRAYN REWET HALLS BAZOO BNA 
 
 ProcessSid(sidCollection, CLT, KWEEN3, UNJAM)
 
@@ -3752,7 +3752,7 @@ Path 2 (KWEEN3.UNJAM) contains dpComputerCode KWEEN3.UNJAM!
 Path 0 (KWEEN3.KWEEN) contains connecting dpComputerCode KWEEN3.KWEEN!
 Path 0 (KWEEN3.KWEEN) contains origin airport CLT!
 Path 0 (KWEEN3.KWEEN) contains connecting token KWEEN!
-sidTwoPathRoute: HMMPY [KWEEN] KWEEN UNJAM 
+sidTwoPathRoute: HMMPY KWEEN UNJAM 
 
 ProcessSid(sidCollection, CLT, KWEEN3, PITRW)
 ****INFO: Origin Airport KCLT and/or Destination Airport MBPV is not in the US!
@@ -3776,7 +3776,7 @@ Path 3 (JOJJO3.NOONN) contains dpComputerCode JOJJO3.NOONN!
 Path 0 (JOJJO3.JOJJO) contains connecting dpComputerCode JOJJO3.JOJJO!
 Path 0 (JOJJO3.JOJJO) contains origin airport CLT!
 Path 0 (JOJJO3.JOJJO) contains connecting token JOJJO!
-sidTwoPathRoute: WAYDS LONEE [JOJJO] JOJJO WLLGO BENBY SLEPP BFORE NOONN 
+sidTwoPathRoute: WAYDS LONEE JOJJO WLLGO BENBY SLEPP BFORE NOONN 
 
 ProcessSid(sidCollection, CLT, BARMY3, TYI)
 
@@ -3797,7 +3797,7 @@ Path 3 (BARMY3.TYI) contains dpComputerCode BARMY3.TYI!
 Path 0 (BARMY3.BARMY) contains connecting dpComputerCode BARMY3.BARMY!
 Path 0 (BARMY3.BARMY) contains origin airport CLT!
 Path 0 (BARMY3.BARMY) contains connecting token BARMY!
-sidTwoPathRoute: MESHY GULFY [BARMY] BARMY BATTA TYI 
+sidTwoPathRoute: MESHY GULFY BARMY BATTA TYI 
 
 ProcessSid(sidCollection, CLT, BARMY3, BARMY)
 
@@ -3834,7 +3834,7 @@ Path 1 (ICONS3.NOOKS) contains dpComputerCode ICONS3.NOOKS!
 Path 0 (ICONS3.ICONS) contains connecting dpComputerCode ICONS3.ICONS!
 Path 0 (ICONS3.ICONS) contains origin airport CLT!
 Path 0 (ICONS3.ICONS) contains connecting token ICONS!
-sidTwoPathRoute: GILFN [ICONS] ICONS NOOKS 
+sidTwoPathRoute: GILFN ICONS NOOKS 
 
 ProcessSid(sidCollection, CLT, BARMY3, NUTZE)
 
@@ -3853,7 +3853,7 @@ Path 1 (BARMY3.NUTZE) contains dpComputerCode BARMY3.NUTZE!
 Path 0 (BARMY3.BARMY) contains connecting dpComputerCode BARMY3.BARMY!
 Path 0 (BARMY3.BARMY) contains origin airport CLT!
 Path 0 (BARMY3.BARMY) contains connecting token BARMY!
-sidTwoPathRoute: MESHY GULFY [BARMY] BARMY BATTA NUTZE 
+sidTwoPathRoute: MESHY GULFY BARMY BATTA NUTZE 
 
 ProcessSid(sidCollection, CLT, BOBZY3, BRAYN)
 
@@ -3910,7 +3910,7 @@ Path 2 (BEAVY4.JENDO) contains dpComputerCode BEAVY4.JENDO!
 Path 0 (BEAVY4.BEAVY) contains connecting dpComputerCode BEAVY4.BEAVY!
 Path 0 (BEAVY4.BEAVY) contains origin airport CLT!
 Path 0 (BEAVY4.BEAVY) contains connecting token BEAVY!
-sidTwoPathRoute: UGANG [BEAVY] BEAVY ANDYS JENDO 
+sidTwoPathRoute: UGANG BEAVY ANDYS JENDO 
 
 ProcessSid(sidCollection, CLT, KNI1, HAMLN)
 
@@ -4141,7 +4141,7 @@ Path 2 (KRITR4.SMIAM) contains dpComputerCode KRITR4.SMIAM!
 Path 0 (KRITR4.KRITR) contains connecting dpComputerCode KRITR4.KRITR!
 Path 0 (KRITR4.KRITR) contains origin airport CLT!
 Path 0 (KRITR4.KRITR) contains connecting token KRITR!
-sidTwoPathRoute: JDEAN [KRITR] KRITR SMIAM 
+sidTwoPathRoute: JDEAN KRITR SMIAM 
 
 ProcessSid(sidCollection, CVG, CHCLL4, IIU)
 
@@ -4170,7 +4170,7 @@ Path 7 (CHCLL4.IIU) contains dpComputerCode CHCLL4.IIU!
 Path 0 (CHCLL4.CHCLL) contains connecting dpComputerCode CHCLL4.CHCLL!
 Path 0 (CHCLL4.CHCLL) contains origin airport CVG!
 Path 0 (CHCLL4.CHCLL) contains connecting token CHCLL!
-sidTwoPathRoute: FLOEE FEBLU [CHCLL] CHCLL PONIE IIU 
+sidTwoPathRoute: FLOEE FEBLU CHCLL PONIE IIU 
 
 ProcessSid(sidCollection, CVG, GIPLE5, HVQ)
 
@@ -4201,7 +4201,7 @@ Path 7 (GIPLE5.HVQ) contains dpComputerCode GIPLE5.HVQ!
 Path 0 (GIPLE5.GIPLE) contains connecting dpComputerCode GIPLE5.GIPLE!
 Path 0 (GIPLE5.GIPLE) contains origin airport CVG!
 Path 0 (GIPLE5.GIPLE) contains connecting token GIPLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO [GIPLE] GIPLE HOBNO RHOMM MISSN JODUB HVQ 
+sidTwoPathRoute: CAMUM ANTEO CODKO GIPLE HOBNO RHOMM MISSN JODUB HVQ 
 
 ProcessSid(sidCollection, CVG, RHOMM3, HVQ)
 
@@ -4222,7 +4222,7 @@ Path 2 (RHOMM3.HVQ) contains dpComputerCode RHOMM3.HVQ!
 Path 0 (RHOMM3.RHOMM) contains connecting dpComputerCode RHOMM3.RHOMM!
 Path 0 (RHOMM3.RHOMM) contains origin airport CVG!
 Path 0 (RHOMM3.RHOMM) contains connecting token RHOMM!
-sidTwoPathRoute: HOBNO [RHOMM] RHOMM MISSN JODUB HVQ 
+sidTwoPathRoute: HOBNO RHOMM MISSN JODUB HVQ 
 
 ProcessSid(sidCollection, CVG, LOVEY6, LOVEY)
 
@@ -4252,7 +4252,7 @@ Path 1 (BLGRS2.BWG) contains dpComputerCode BLGRS2.BWG!
 Path 0 (BLGRS2.CVG) contains connecting dpComputerCode BLGRS2.CVG!
 Path 0 (BLGRS2.CVG) contains origin airport CVG!
 Path 0 (BLGRS2.CVG) contains connecting token CVG!
-sidTwoPathRoute: [$CVG$] CVG CHCLL PONIE IIU SKINN BWG 
+sidTwoPathRoute: CVG CHCLL PONIE IIU SKINN BWG 
 
 ProcessSid(sidCollection, CVG, WHWTR9, ZABAL)
 
@@ -4290,7 +4290,7 @@ Path 6 (BNGLE4.DJB) contains dpComputerCode BNGLE4.DJB!
 Path 0 (BNGLE4.BNGLE) contains connecting dpComputerCode BNGLE4.BNGLE!
 Path 0 (BNGLE4.BNGLE) contains origin airport CVG!
 Path 0 (BNGLE4.BNGLE) contains connecting token BNGLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS [BNGLE] BNGLE RIKLE DJB 
+sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS BNGLE RIKLE DJB 
 
 ProcessSid(sidCollection, CVG, GIPLE5, BKW)
 
@@ -4320,7 +4320,7 @@ Path 6 (GIPLE5.BKW) contains dpComputerCode GIPLE5.BKW!
 Path 0 (GIPLE5.GIPLE) contains connecting dpComputerCode GIPLE5.GIPLE!
 Path 0 (GIPLE5.GIPLE) contains origin airport CVG!
 Path 0 (GIPLE5.GIPLE) contains connecting token GIPLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO [GIPLE] GIPLE HOBNO RHOMM MISSN JODUB BKW 
+sidTwoPathRoute: CAMUM ANTEO CODKO GIPLE HOBNO RHOMM MISSN JODUB BKW 
 
 ProcessSid(sidCollection, CVG, JBNCH5, MIE)
 
@@ -4347,7 +4347,7 @@ Path 6 (JBNCH5.MIE) contains dpComputerCode JBNCH5.MIE!
 Path 0 (JBNCH5.JBNCH) contains connecting dpComputerCode JBNCH5.JBNCH!
 Path 0 (JBNCH5.JBNCH) contains origin airport CVG!
 Path 0 (JBNCH5.JBNCH) contains connecting token JBNCH!
-sidTwoPathRoute: CAMUM FEBLU GUMRE HERMM [JBNCH] JBNCH MIE 
+sidTwoPathRoute: CAMUM FEBLU GUMRE HERMM JBNCH MIE 
 
 ProcessSid(sidCollection, CVG, BNGLE4, RIKLE)
 
@@ -4376,7 +4376,7 @@ Path 7 (BNGLE4.RIKLE) contains dpComputerCode BNGLE4.RIKLE!
 Path 0 (BNGLE4.BNGLE) contains connecting dpComputerCode BNGLE4.BNGLE!
 Path 0 (BNGLE4.BNGLE) contains origin airport CVG!
 Path 0 (BNGLE4.BNGLE) contains connecting token BNGLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS [BNGLE] BNGLE RIKLE 
+sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS BNGLE RIKLE 
 
 ProcessSid(sidCollection, CVG, ROCKT8, AHTIY)
 
@@ -4408,7 +4408,7 @@ Path 0 (ROCKT8.ROCKT) does NOT contain origin airport CVG!
 Path 1 (ROCKT8.ROCKT) contains connecting dpComputerCode ROCKT8.ROCKT!
 Path 1 (ROCKT8.ROCKT) contains origin airport CVG!
 Path 1 (ROCKT8.ROCKT) contains connecting token ROCKT!
-sidTwoPathRoute: CAMUM ANTEO CODKO SLUBY MOIER WADAL FARUM CIVLO [ROCKT] ROCKT CADRE AHTIY 
+sidTwoPathRoute: CAMUM ANTEO CODKO SLUBY MOIER WADAL FARUM CIVLO ROCKT CADRE AHTIY 
 
 ProcessSid(sidCollection, CVG, GIPLE5, JODUB)
 
@@ -4440,7 +4440,7 @@ Path 8 (GIPLE5.JODUB) contains dpComputerCode GIPLE5.JODUB!
 Path 0 (GIPLE5.GIPLE) contains connecting dpComputerCode GIPLE5.GIPLE!
 Path 0 (GIPLE5.GIPLE) contains origin airport CVG!
 Path 0 (GIPLE5.GIPLE) contains connecting token GIPLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO [GIPLE] GIPLE HOBNO RHOMM MISSN JODUB 
+sidTwoPathRoute: CAMUM ANTEO CODKO GIPLE HOBNO RHOMM MISSN JODUB 
 
 ProcessSid(sidCollection, CVG, HAGOL4, DQN)
 
@@ -4468,7 +4468,7 @@ Path 6 (HAGOL4.DQN) contains dpComputerCode HAGOL4.DQN!
 Path 0 (HAGOL4.HAGOL) contains connecting dpComputerCode HAGOL4.HAGOL!
 Path 0 (HAGOL4.HAGOL) contains origin airport CVG!
 Path 0 (HAGOL4.HAGOL) contains connecting token HAGOL!
-sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS [HAGOL] HAGOL DQN 
+sidTwoPathRoute: CAMUM ANTEO CODKO JBETH FOPAS HAGOL DQN 
 
 ProcessSid(sidCollection, CVG, ROCKT8, ROCKT)
 
@@ -4502,7 +4502,7 @@ Path 3 (BLGRS2.IIU) contains dpComputerCode BLGRS2.IIU!
 Path 0 (BLGRS2.CVG) contains connecting dpComputerCode BLGRS2.CVG!
 Path 0 (BLGRS2.CVG) contains origin airport CVG!
 Path 0 (BLGRS2.CVG) contains connecting token CVG!
-sidTwoPathRoute: [$CVG$] CVG CHCLL PONIE IIU 
+sidTwoPathRoute: CVG CHCLL PONIE IIU 
 
 ProcessSid(sidCollection, CVG, CHCLL4, BWG)
 
@@ -4530,7 +4530,7 @@ Path 6 (CHCLL4.BWG) contains dpComputerCode CHCLL4.BWG!
 Path 0 (CHCLL4.CHCLL) contains connecting dpComputerCode CHCLL4.CHCLL!
 Path 0 (CHCLL4.CHCLL) contains origin airport CVG!
 Path 0 (CHCLL4.CHCLL) contains connecting token CHCLL!
-sidTwoPathRoute: FLOEE FEBLU [CHCLL] CHCLL PONIE IIU SKINN BWG 
+sidTwoPathRoute: FLOEE FEBLU CHCLL PONIE IIU SKINN BWG 
 
 ProcessSid(sidCollection, CVG, RHOMM3, BKW)
 
@@ -4550,7 +4550,7 @@ Path 1 (RHOMM3.BKW) contains dpComputerCode RHOMM3.BKW!
 Path 0 (RHOMM3.RHOMM) contains connecting dpComputerCode RHOMM3.RHOMM!
 Path 0 (RHOMM3.RHOMM) contains origin airport CVG!
 Path 0 (RHOMM3.RHOMM) contains connecting token RHOMM!
-sidTwoPathRoute: HOBNO [RHOMM] RHOMM MISSN JODUB BKW 
+sidTwoPathRoute: HOBNO RHOMM MISSN JODUB BKW 
 
 ProcessSid(sidCollection, CVG, KENLN4, HYK)
 
@@ -4577,7 +4577,7 @@ Path 6 (KENLN4.HYK) contains dpComputerCode KENLN4.HYK!
 Path 0 (KENLN4.KENLN) contains connecting dpComputerCode KENLN4.KENLN!
 Path 0 (KENLN4.KENLN) contains origin airport CVG!
 Path 0 (KENLN4.KENLN) contains connecting token KENLN!
-sidTwoPathRoute: CAMUM ZEGUL HUNRU [KENLN] KENLN HYK 
+sidTwoPathRoute: CAMUM ZEGUL HUNRU KENLN HYK 
 
 ProcessSid(sidCollection, CVG, BLGRS2, HYK)
 
@@ -4598,7 +4598,7 @@ Path 2 (BLGRS2.HYK) contains dpComputerCode BLGRS2.HYK!
 Path 0 (BLGRS2.CVG) contains connecting dpComputerCode BLGRS2.CVG!
 Path 0 (BLGRS2.CVG) contains origin airport CVG!
 Path 0 (BLGRS2.CVG) contains connecting token CVG!
-sidTwoPathRoute: [$CVG$] CVG KENLN HYK 
+sidTwoPathRoute: CVG KENLN HYK 
 
 ProcessSid(sidCollection, CVG, LOVEY6, AXC)
 
@@ -4626,7 +4626,7 @@ Path 6 (LOVEY6.AXC) contains dpComputerCode LOVEY6.AXC!
 Path 0 (LOVEY6.LOVEY) contains connecting dpComputerCode LOVEY6.LOVEY!
 Path 0 (LOVEY6.LOVEY) contains origin airport CVG!
 Path 0 (LOVEY6.LOVEY) contains connecting token LOVEY!
-sidTwoPathRoute: CAMUM FEBLU GUMRE MUMIE [LOVEY] LOVEY ZABAL TTH AXC 
+sidTwoPathRoute: CAMUM FEBLU GUMRE MUMIE LOVEY ZABAL TTH AXC 
 
 ProcessSid(sidCollection, CVG, WHWTR9, AXC)
 
@@ -4644,7 +4644,7 @@ Path 1 (WHWTR9.AXC) contains dpComputerCode WHWTR9.AXC!
 Path 0 (WHWTR9.ZABAL) contains connecting dpComputerCode WHWTR9.ZABAL!
 Path 0 (WHWTR9.ZABAL) contains origin airport CVG!
 Path 0 (WHWTR9.ZABAL) contains connecting token ZABAL!
-sidTwoPathRoute: LOVEY [ZABAL] ZABAL TTH AXC 
+sidTwoPathRoute: LOVEY ZABAL TTH AXC 
 
 ProcessSid(sidCollection, CVG, RHOMM3, JODUB)
 
@@ -4666,7 +4666,7 @@ Path 3 (RHOMM3.JODUB) contains dpComputerCode RHOMM3.JODUB!
 Path 0 (RHOMM3.RHOMM) contains connecting dpComputerCode RHOMM3.RHOMM!
 Path 0 (RHOMM3.RHOMM) contains origin airport CVG!
 Path 0 (RHOMM3.RHOMM) contains connecting token RHOMM!
-sidTwoPathRoute: HOBNO [RHOMM] RHOMM MISSN JODUB 
+sidTwoPathRoute: HOBNO RHOMM MISSN JODUB 
 
 ProcessSid(sidCollection, CVG, LOVEY6, CADIZ)
 
@@ -4695,7 +4695,7 @@ Path 7 (LOVEY6.CADIZ) contains dpComputerCode LOVEY6.CADIZ!
 Path 0 (LOVEY6.LOVEY) contains connecting dpComputerCode LOVEY6.LOVEY!
 Path 0 (LOVEY6.LOVEY) contains origin airport CVG!
 Path 0 (LOVEY6.LOVEY) contains connecting token LOVEY!
-sidTwoPathRoute: CAMUM FEBLU GUMRE MUMIE [LOVEY] LOVEY ZABAL VHP MACES BVT CADIZ 
+sidTwoPathRoute: CAMUM FEBLU GUMRE MUMIE LOVEY ZABAL VHP MACES BVT CADIZ 
 
 ProcessSid(sidCollection, CVG, SILKS4, TRFWA)
 
@@ -4722,7 +4722,7 @@ Path 6 (SILKS4.TRFWA) contains dpComputerCode SILKS4.TRFWA!
 Path 0 (SILKS4.SILKS) contains connecting dpComputerCode SILKS4.SILKS!
 Path 0 (SILKS4.SILKS) contains origin airport CVG!
 Path 0 (SILKS4.SILKS) contains connecting token SILKS!
-sidTwoPathRoute: CAMUM ZEGUL [SILKS] SILKS TRFWA 
+sidTwoPathRoute: CAMUM ZEGUL SILKS TRFWA 
 
 ProcessSid(sidCollection, CVG, GIPLE5, YRK)
 
@@ -4755,7 +4755,7 @@ Path 9 (GIPLE5.YRK) contains dpComputerCode GIPLE5.YRK!
 Path 0 (GIPLE5.GIPLE) contains connecting dpComputerCode GIPLE5.GIPLE!
 Path 0 (GIPLE5.GIPLE) contains origin airport CVG!
 Path 0 (GIPLE5.GIPLE) contains connecting token GIPLE!
-sidTwoPathRoute: CAMUM ANTEO CODKO [GIPLE] GIPLE HOBNO RHOMM YRK 
+sidTwoPathRoute: CAMUM ANTEO CODKO GIPLE HOBNO RHOMM YRK 
 
 ProcessSid(sidCollection, CVG, ROCKT8, AEROS)
 ****INFO: Origin Airport KCVG and/or Destination Airport CYYZ is not in the US!
@@ -4789,7 +4789,7 @@ Path 8 (KKITY4.WSTEX) contains dpComputerCode KKITY4.WSTEX!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY RBBIT LYNDE WSTEX 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY RBBIT LYNDE WSTEX 
 
 ProcessSid(sidCollection, DAL, SWTSR3, ADM)
 
@@ -4818,7 +4818,7 @@ Path 2 (SWTSR3.ADM) contains dpComputerCode SWTSR3.ADM!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR LOWGN ADM 
+sidTwoPathRoute: SHRAM LNDRE SWTSR LOWGN ADM 
 
 ProcessSid(sidCollection, DAL, CURLO4, HOARY)
 
@@ -4854,7 +4854,7 @@ Path 7 (CURLO4.HOARY) contains dpComputerCode CURLO4.HOARY!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO NELYN ACT PRIZE HOARY 
+sidTwoPathRoute: HAYZZ CURLO NELYN ACT PRIZE HOARY 
 
 ProcessSid(sidCollection, DAL, CURLO4, SAT)
 
@@ -4894,7 +4894,7 @@ Path 11 (CURLO4.SAT) contains dpComputerCode CURLO4.SAT!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO NELYN ACT PRIZE HOARY SAT 
+sidTwoPathRoute: HAYZZ CURLO NELYN ACT PRIZE HOARY SAT 
 
 ProcessSid(sidCollection, DAL, KKITY4, HULZE)
 
@@ -4924,7 +4924,7 @@ Path 7 (KKITY4.HULZE) contains dpComputerCode KKITY4.HULZE!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY TYGGR DBLSS HRPER HULZE 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY TYGGR DBLSS HRPER HULZE 
 
 ProcessSid(sidCollection, DAL, LNDRE4, FORCK)
 
@@ -4950,7 +4950,7 @@ Path 4 (LNDRE4.FORCK) contains dpComputerCode LNDRE4.FORCK!
 Path 0 (LNDRE4.LNDRE) contains connecting dpComputerCode LNDRE4.LNDRE!
 Path 0 (LNDRE4.LNDRE) contains origin airport DAL!
 Path 0 (LNDRE4.LNDRE) contains connecting token LNDRE!
-sidTwoPathRoute: SHRAM [LNDRE] LNDRE HANUH LYING FORCK 
+sidTwoPathRoute: SHRAM LNDRE HANUH LYING FORCK 
 
 ProcessSid(sidCollection, DAL, SWTSR3, MLC)
 
@@ -4983,7 +4983,7 @@ Path 6 (SWTSR3.MLC) contains dpComputerCode SWTSR3.MLC!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR AKUNA TIKYS MLC 
+sidTwoPathRoute: SHRAM LNDRE SWTSR AKUNA TIKYS MLC 
 
 ProcessSid(sidCollection, DAL, CURLO4, TNV)
 
@@ -5021,7 +5021,7 @@ Path 9 (CURLO4.TNV) contains dpComputerCode CURLO4.TNV!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO DARTZ BRDEN TORNN BILEE TNV 
+sidTwoPathRoute: HAYZZ CURLO DARTZ BRDEN TORNN BILEE TNV 
 
 ProcessSid(sidCollection, DAL, KKITY4, HUDAD)
 
@@ -5050,7 +5050,7 @@ Path 6 (KKITY4.HUDAD) contains dpComputerCode KKITY4.HUDAD!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY PGLET MUTEE HUDAD 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY PGLET MUTEE HUDAD 
 
 ProcessSid(sidCollection, DAL, SWTSR3, IRW)
 
@@ -5088,7 +5088,7 @@ Path 11 (SWTSR3.IRW) contains dpComputerCode SWTSR3.IRW!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR BLECO ZEMMA IRW 
+sidTwoPathRoute: SHRAM LNDRE SWTSR BLECO ZEMMA IRW 
 
 ProcessSid(sidCollection, DAL, SWTSR3, EAKER)
 
@@ -5119,7 +5119,7 @@ Path 4 (SWTSR3.EAKER) contains dpComputerCode SWTSR3.EAKER!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR GRABE EAKER 
+sidTwoPathRoute: SHRAM LNDRE SWTSR GRABE EAKER 
 
 ProcessSid(sidCollection, DAL, LNDRE4, LOOSE)
 
@@ -5146,7 +5146,7 @@ Path 5 (LNDRE4.LOOSE) contains dpComputerCode LNDRE4.LOOSE!
 Path 0 (LNDRE4.LNDRE) contains connecting dpComputerCode LNDRE4.LNDRE!
 Path 0 (LNDRE4.LNDRE) contains origin airport DAL!
 Path 0 (LNDRE4.LNDRE) contains connecting token LNDRE!
-sidTwoPathRoute: SHRAM [LNDRE] LNDRE TRRCH JAYXX TRYTN LOOSE 
+sidTwoPathRoute: SHRAM LNDRE TRRCH JAYXX TRYTN LOOSE 
 
 ProcessSid(sidCollection, DAL, LNDRE4, ZALEA)
 
@@ -5175,7 +5175,7 @@ Path 7 (LNDRE4.ZALEA) contains dpComputerCode LNDRE4.ZALEA!
 Path 0 (LNDRE4.LNDRE) contains connecting dpComputerCode LNDRE4.LNDRE!
 Path 0 (LNDRE4.LNDRE) contains origin airport DAL!
 Path 0 (LNDRE4.LNDRE) contains connecting token LNDRE!
-sidTwoPathRoute: SHRAM [LNDRE] LNDRE THHOR JJANE MRSSH ZALEA 
+sidTwoPathRoute: SHRAM LNDRE THHOR JJANE MRSSH ZALEA 
 
 ProcessSid(sidCollection, DAL, CURLO4, WINDU)
 
@@ -5218,7 +5218,7 @@ Path 14 (CURLO4.WINDU) contains dpComputerCode CURLO4.WINDU!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO JASPA WINDU 
+sidTwoPathRoute: HAYZZ CURLO JASPA WINDU 
 
 ProcessSid(sidCollection, DAL, KKITY4, DOSXX)
 
@@ -5246,7 +5246,7 @@ Path 5 (KKITY4.DOSXX) contains dpComputerCode KKITY4.DOSXX!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY RBBIT LYNDE WSTEX DOSXX 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY RBBIT LYNDE WSTEX DOSXX 
 
 ProcessSid(sidCollection, DAL, KKITY4, CIKAN)
 
@@ -5273,7 +5273,7 @@ Path 4 (KKITY4.CIKAN) contains dpComputerCode KKITY4.CIKAN!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY RBBIT LYNDE WSTEX CIKAN 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY RBBIT LYNDE WSTEX CIKAN 
 
 ProcessSid(sidCollection, DAL, LNDRE4, BSKAT)
 
@@ -5298,7 +5298,7 @@ Path 3 (LNDRE4.BSKAT) contains dpComputerCode LNDRE4.BSKAT!
 Path 0 (LNDRE4.LNDRE) contains connecting dpComputerCode LNDRE4.LNDRE!
 Path 0 (LNDRE4.LNDRE) contains origin airport DAL!
 Path 0 (LNDRE4.LNDRE) contains connecting token LNDRE!
-sidTwoPathRoute: SHRAM [LNDRE] LNDRE ZERLU SWDIA ZACHH BSKAT 
+sidTwoPathRoute: SHRAM LNDRE ZERLU SWDIA ZACHH BSKAT 
 
 ProcessSid(sidCollection, DAL, KKITY4, BRHMA)
 
@@ -5324,7 +5324,7 @@ Path 3 (KKITY4.BRHMA) contains dpComputerCode KKITY4.BRHMA!
 Path 0 (KKITY4.KKITY) contains connecting dpComputerCode KKITY4.KKITY!
 Path 0 (KKITY4.KKITY) contains origin airport DAL!
 Path 0 (KKITY4.KKITY) contains connecting token KKITY!
-sidTwoPathRoute: DRSET HAYZZ CURLO [KKITY] KKITY ROOOO RUFFS KATZZ BRHMA 
+sidTwoPathRoute: DRSET HAYZZ CURLO KKITY ROOOO RUFFS KATZZ BRHMA 
 
 ProcessSid(sidCollection, DAL, SWTSR3, OKM)
 
@@ -5358,7 +5358,7 @@ Path 7 (SWTSR3.OKM) contains dpComputerCode SWTSR3.OKM!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR GRABE EAKER OKM 
+sidTwoPathRoute: SHRAM LNDRE SWTSR GRABE EAKER OKM 
 
 ProcessSid(sidCollection, DAL, JPOOL9, BILEE)
 
@@ -5444,7 +5444,7 @@ Path 8 (SWTSR3.ROLLS) contains dpComputerCode SWTSR3.ROLLS!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR LOWGN ADM MRMAC ROLLS 
+sidTwoPathRoute: SHRAM LNDRE SWTSR LOWGN ADM MRMAC ROLLS 
 
 ProcessSid(sidCollection, DAL, SWTSR3, TUL)
 
@@ -5481,7 +5481,7 @@ Path 10 (SWTSR3.TUL) contains dpComputerCode SWTSR3.TUL!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR BLECO ZEMMA TUL 
+sidTwoPathRoute: SHRAM LNDRE SWTSR BLECO ZEMMA TUL 
 
 ProcessSid(sidCollection, DAL, SWTSR3, ZEMMA)
 
@@ -5520,7 +5520,7 @@ Path 12 (SWTSR3.ZEMMA) contains dpComputerCode SWTSR3.ZEMMA!
 Path 0 (SWTSR3.SWTSR) contains connecting dpComputerCode SWTSR3.SWTSR!
 Path 0 (SWTSR3.SWTSR) contains origin airport DAL!
 Path 0 (SWTSR3.SWTSR) contains connecting token SWTSR!
-sidTwoPathRoute: SHRAM LNDRE [SWTSR] SWTSR BLECO ZEMMA 
+sidTwoPathRoute: SHRAM LNDRE SWTSR BLECO ZEMMA 
 
 ProcessSid(sidCollection, DAL, CURLO4, ACT)
 
@@ -5562,7 +5562,7 @@ Path 13 (CURLO4.ACT) contains dpComputerCode CURLO4.ACT!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO NELYN ACT 
+sidTwoPathRoute: HAYZZ CURLO NELYN ACT 
 
 ProcessSid(sidCollection, DAL, CURLO4, ELLVR)
 
@@ -5597,7 +5597,7 @@ Path 6 (CURLO4.ELLVR) contains dpComputerCode CURLO4.ELLVR!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO ARDIA ELLVR 
+sidTwoPathRoute: HAYZZ CURLO ARDIA ELLVR 
 
 ProcessSid(sidCollection, DAL, CURLO4, TORNN)
 
@@ -5638,7 +5638,7 @@ Path 12 (CURLO4.TORNN) contains dpComputerCode CURLO4.TORNN!
 Path 0 (CURLO4.CURLO) contains connecting dpComputerCode CURLO4.CURLO!
 Path 0 (CURLO4.CURLO) contains origin airport DAL!
 Path 0 (CURLO4.CURLO) contains connecting token CURLO!
-sidTwoPathRoute: HAYZZ [CURLO] CURLO DARTZ BRDEN TORNN 
+sidTwoPathRoute: HAYZZ CURLO DARTZ BRDEN TORNN 
 
 ProcessSid(sidCollection, DAL, LNDRE4, MRSSH)
 
@@ -5666,7 +5666,7 @@ Path 6 (LNDRE4.MRSSH) contains dpComputerCode LNDRE4.MRSSH!
 Path 0 (LNDRE4.LNDRE) contains connecting dpComputerCode LNDRE4.LNDRE!
 Path 0 (LNDRE4.LNDRE) contains origin airport DAL!
 Path 0 (LNDRE4.LNDRE) contains connecting token LNDRE!
-sidTwoPathRoute: SHRAM [LNDRE] LNDRE THHOR JJANE MRSSH 
+sidTwoPathRoute: SHRAM LNDRE THHOR JJANE MRSSH 
 
 ProcessSid(sidCollection, DAL, ESNYE4, ADM)
 
@@ -5697,7 +5697,7 @@ Path 3 (ESNYE4.ADM) contains dpComputerCode ESNYE4.ADM!
 Path 0 (ESNYE4.ESNYE) contains connecting dpComputerCode ESNYE4.ESNYE!
 Path 0 (ESNYE4.ESNYE) contains origin airport DAL!
 Path 0 (ESNYE4.ESNYE) contains connecting token ESNYE!
-sidTwoPathRoute: FLOWT WIGIS JYMME BAETZ [ESNYE] ESNYE LANEE LOWGN ADM 
+sidTwoPathRoute: FLOWT WIGIS JYMME BAETZ ESNYE LANEE LOWGN ADM 
 
 ProcessSid(sidCollection, DAL, TEX5, ADM)
 
@@ -5767,7 +5767,7 @@ Path 2 (HORTO2.BUFFR) contains dpComputerCode HORTO2.BUFFR!
 Path 0 (HORTO2.HORTO) contains connecting dpComputerCode HORTO2.HORTO!
 Path 0 (HORTO2.HORTO) contains origin airport DCA!
 Path 0 (HORTO2.HORTO) contains connecting token HORTO!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE [HORTO] HORTO BUFFR 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE HORTO BUFFR 
 
 ProcessSid(sidCollection, DCA, CLTCH1, MAULS)
 
@@ -5790,7 +5790,7 @@ Path 4 (CLTCH1.MAULS) contains dpComputerCode CLTCH1.MAULS!
 Path 0 (CLTCH1.CLTCH) contains connecting dpComputerCode CLTCH1.CLTCH!
 Path 0 (CLTCH1.CLTCH) contains origin airport DCA!
 Path 0 (CLTCH1.CLTCH) contains connecting token CLTCH!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI BRUTL BUTRZ [CLTCH] CLTCH KERRK MAULS 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI BRUTL BUTRZ CLTCH KERRK MAULS 
 
 ProcessSid(sidCollection, DCA, REBLL3, OTTTO)
 
@@ -5809,7 +5809,7 @@ Path 2 (REBLL3.OTTTO) contains dpComputerCode REBLL3.OTTTO!
 Path 0 (REBLL3.REBLL) contains connecting dpComputerCode REBLL3.REBLL!
 Path 0 (REBLL3.REBLL) contains origin airport DCA!
 Path 0 (REBLL3.REBLL) contains connecting token REBLL!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI DUDDD [REBLL] REBLL OTTTO 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI DUDDD REBLL OTTTO 
 
 ProcessSid(sidCollection, DCA, SOOKI3, SWANN)
 
@@ -5832,7 +5832,7 @@ Path 4 (SOOKI3.SWANN) contains dpComputerCode SOOKI3.SWANN!
 Path 0 (SOOKI3.SOOKI) contains connecting dpComputerCode SOOKI3.SOOKI!
 Path 0 (SOOKI3.SOOKI) contains origin airport DCA!
 Path 0 (SOOKI3.SOOKI) contains connecting token SOOKI!
-sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE PHERB [SOOKI] SOOKI SWANN 
+sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE PHERB SOOKI SWANN 
 
 ProcessSid(sidCollection, DCA, HORTO2, JERES)
 
@@ -5853,7 +5853,7 @@ Path 3 (HORTO2.JERES) contains dpComputerCode HORTO2.JERES!
 Path 0 (HORTO2.HORTO) contains connecting dpComputerCode HORTO2.HORTO!
 Path 0 (HORTO2.HORTO) contains origin airport DCA!
 Path 0 (HORTO2.HORTO) contains connecting token HORTO!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE [HORTO] HORTO JERES 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE HORTO JERES 
 
 ProcessSid(sidCollection, DCA, DOCTR3, AGARD)
 
@@ -5877,7 +5877,7 @@ Path 4 (DOCTR3.AGARD) contains dpComputerCode DOCTR3.AGARD!
 Path 0 (DOCTR3.DOCTR) contains connecting dpComputerCode DOCTR3.DOCTR!
 Path 0 (DOCTR3.DOCTR) contains origin airport DCA!
 Path 0 (DOCTR3.DOCTR) contains connecting token DOCTR!
-sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE RIISE [DOCTR] DOCTR AGARD 
+sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE RIISE DOCTR AGARD 
 
 ProcessSid(sidCollection, DCA, JDUBB1, GSO)
 
@@ -5899,7 +5899,7 @@ Path 3 (JDUBB1.GSO) contains dpComputerCode JDUBB1.GSO!
 Path 0 (JDUBB1.JDUBB) contains connecting dpComputerCode JDUBB1.JDUBB!
 Path 0 (JDUBB1.JDUBB) contains origin airport DCA!
 Path 0 (JDUBB1.JDUBB) contains connecting token JDUBB!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI HAFNR [JDUBB] JDUBB TYPNZ SCORN RRSIN GSO 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI HAFNR JDUBB TYPNZ SCORN RRSIN GSO 
 
 ProcessSid(sidCollection, DCA, SCRAM3, LYH)
 
@@ -5920,7 +5920,7 @@ Path 3 (SCRAM3.LYH) contains dpComputerCode SCRAM3.LYH!
 Path 0 (SCRAM3.SCRAM) contains connecting dpComputerCode SCRAM3.SCRAM!
 Path 0 (SCRAM3.SCRAM) contains origin airport DCA!
 Path 0 (SCRAM3.SCRAM) contains connecting token SCRAM!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI POOCH [SCRAM] SCRAM DANOO WALCE GLANC LYH 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI POOCH SCRAM DANOO WALCE GLANC LYH 
 
 ProcessSid(sidCollection, DCA, WYNGS3, RAMAY)
 
@@ -5939,7 +5939,7 @@ Path 2 (WYNGS3.RAMAY) contains dpComputerCode WYNGS3.RAMAY!
 Path 0 (WYNGS3.WYNGS) contains connecting dpComputerCode WYNGS3.WYNGS!
 Path 0 (WYNGS3.WYNGS) contains origin airport DCA!
 Path 0 (WYNGS3.WYNGS) contains connecting token WYNGS!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE [WYNGS] WYNGS RAMAY 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI MELOE WYNGS RAMAY 
 
 ProcessSid(sidCollection, DCA, CLTCH1, FLASK)
 
@@ -5961,7 +5961,7 @@ Path 3 (CLTCH1.FLASK) contains dpComputerCode CLTCH1.FLASK!
 Path 0 (CLTCH1.CLTCH) contains connecting dpComputerCode CLTCH1.CLTCH!
 Path 0 (CLTCH1.CLTCH) contains origin airport DCA!
 Path 0 (CLTCH1.CLTCH) contains connecting token CLTCH!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI BRUTL BUTRZ [CLTCH] CLTCH KERRK TEEMS FLASK 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI BRUTL BUTRZ CLTCH KERRK TEEMS FLASK 
 
 ProcessSid(sidCollection, DCA, BOOCK2, COLIN)
 
@@ -5984,7 +5984,7 @@ Path 4 (BOOCK2.COLIN) contains dpComputerCode BOOCK2.COLIN!
 Path 0 (BOOCK2.BOOCK) contains connecting dpComputerCode BOOCK2.BOOCK!
 Path 0 (BOOCK2.BOOCK) contains origin airport DCA!
 Path 0 (BOOCK2.BOOCK) contains connecting token BOOCK!
-sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE GUCER [BOOCK] BOOCK COLIN 
+sidTwoPathRoute: ADAXE BEBLE COVTO ALEEX DOGUE GUCER BOOCK COLIN 
 
 ProcessSid(sidCollection, DCA, RNLDI4, OTTTO)
 
@@ -6031,7 +6031,7 @@ Path 4 (JDUBB1.SBV) contains dpComputerCode JDUBB1.SBV!
 Path 0 (JDUBB1.JDUBB) contains connecting dpComputerCode JDUBB1.JDUBB!
 Path 0 (JDUBB1.JDUBB) contains origin airport DCA!
 Path 0 (JDUBB1.JDUBB) contains connecting token JDUBB!
-sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI HAFNR [JDUBB] JDUBB CASLY MELTN SBV 
+sidTwoPathRoute: ADAXE BEBLE COVTO FERGI CUKLI HAFNR JDUBB CASLY MELTN SBV 
 
 ProcessSid(sidCollection, DCA, DOCTR3, DOCTR)
 
@@ -6063,7 +6063,7 @@ Path 3 (EPKEE4.DUUCE) contains dpComputerCode EPKEE4.DUUCE!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport DEN!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS DUUCE 
+sidTwoPathRoute: EPKEE CLAMR WEEDS DUUCE 
 
 ProcessSid(sidCollection, DEN, PLAIN8, GCK)
 
@@ -6093,7 +6093,7 @@ Path 5 (PLAIN8.GCK) contains dpComputerCode PLAIN8.GCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS GCK 
+sidTwoPathRoute: DEN EPKEE WEEDS GCK 
 
 ProcessSid(sidCollection, DEN, YAMMI3, LAR)
 
@@ -6103,8 +6103,8 @@ ProcessSid - Number of paths: 5 for YAMMI3.LAR
 PROCESS SID PASS ONE...
 Path 0 (YAMMI3.LAR) contains dpComputerCode YAMMI3.LAR!
 Path 0 (YAMMI3.LAR) contains origin airport DEN!
-sidSinglePathRoute: LASSS SPYCE TURBN CHICN FAARM SOLLO WINDL YAMMI 
-ERROR: Path YAMMI3.LAR does NOT contain next token LAR!
+INFO: Path YAMMI3.LAR does NOT contain next token LAR!
+sidSinglePathRoute: LASSS SPYCE TURBN CHICN FAARM SOLLO WINDL YAMMI LAR
 
 ProcessSid(sidCollection, DEN, YELLO1, LAR)
 
@@ -6129,7 +6129,7 @@ Path 3 (YELLO1.LAR) contains dpComputerCode YELLO1.LAR!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport DEN!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YAMMI LAR 
+sidTwoPathRoute: DEN YAMMI LAR 
 
 ProcessSid(sidCollection, DEN, SPAZZ3, ZAPAA)
 
@@ -6158,7 +6158,7 @@ Path 0 (SPAZZ3.SPAZZ) does NOT contain origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 1 (SPAZZ3.SPAZZ) contains origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR [SPAZZ] SPAZZ FRNKE ZAPAA 
+sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR SPAZZ FRNKE ZAPAA 
 
 ProcessSid(sidCollection, DEN, PIKES9, ALS)
 
@@ -6177,7 +6177,7 @@ Path 1 (PIKES9.ALS) contains dpComputerCode PIKES9.ALS!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport DEN!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV ALS 
+sidTwoPathRoute: DEN TEHEV ALS 
 
 ProcessSid(sidCollection, DEN, BAYLR3, TEHRU)
 
@@ -6204,7 +6204,7 @@ Path 6 (BAYLR3.TEHRU) contains dpComputerCode BAYLR3.TEHRU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport DEN!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA TEHRU 
+sidTwoPathRoute: BAYLR BOBBA TEHRU 
 
 ProcessSid(sidCollection, DEN, ROCKI3, DVC)
 
@@ -6261,8 +6261,8 @@ Path 0 (BRYCC3.TAYOT) contains dpComputerCode BRYCC3.TAYOT!
 Path 0 (BRYCC3.TAYOT) does NOT contain origin airport DEN!
 Path 1 (BRYCC3.TAYOT) contains dpComputerCode BRYCC3.TAYOT!
 Path 1 (BRYCC3.TAYOT) contains origin airport DEN!
-sidSinglePathRoute: CAAZZ CCLYD HOOGG BRYCC 
-ERROR: Path BRYCC3.TAYOT does NOT contain next token TAYOT!
+INFO: Path BRYCC3.TAYOT does NOT contain next token TAYOT!
+sidSinglePathRoute: CAAZZ CCLYD HOOGG BRYCC TAYOT
 
 ProcessSid(sidCollection, DEN, STAKR3, PYPER)
 
@@ -6284,8 +6284,8 @@ Path 0 (FOOOT3.RLG) contains dpComputerCode FOOOT3.RLG!
 Path 0 (FOOOT3.RLG) does NOT contain origin airport DEN!
 Path 1 (FOOOT3.RLG) contains dpComputerCode FOOOT3.RLG!
 Path 1 (FOOOT3.RLG) contains origin airport DEN!
-sidSinglePathRoute: MUGBE CRONA RALFI RAPDS PCKNS FOOOT PENEY 
-ERROR: Path FOOOT3.RLG does NOT contain next token RLG!
+INFO: Path FOOOT3.RLG does NOT contain next token RLG!
+sidSinglePathRoute: MUGBE CRONA RALFI RAPDS PCKNS FOOOT PENEY RLG
 
 ProcessSid(sidCollection, DEN, YOKES5, CHICI)
 
@@ -6311,7 +6311,7 @@ Path 5 (YOKES5.CHICI) contains dpComputerCode YOKES5.CHICI!
 Path 0 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 0 (YOKES5.YOKES) contains origin airport DEN!
 Path 0 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: LASSS SPYCE TURBN CHICN KKIMM BTELN [YOKES] YOKES CHICI 
+sidTwoPathRoute: LASSS SPYCE TURBN CHICN KKIMM BTELN YOKES CHICI 
 
 ProcessSid(sidCollection, DEN, SPAZZ3, TBE)
 
@@ -6339,7 +6339,7 @@ Path 0 (SPAZZ3.SPAZZ) does NOT contain origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 1 (SPAZZ3.SPAZZ) contains origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR [SPAZZ] SPAZZ PUB TBE 
+sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR SPAZZ PUB TBE 
 
 ProcessSid(sidCollection, DEN, RIKKK3, FISAR)
 ****INFO: Origin Airport KDEN and/or Destination Airport PAFA is not in the US!
@@ -6371,7 +6371,7 @@ Path 1 (PLAIN8.AKO) contains dpComputerCode PLAIN8.AKO!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO 
+sidTwoPathRoute: DEN EEONS AKO 
 
 ProcessSid(sidCollection, DEN, YELLO1, BFF)
 
@@ -6400,7 +6400,7 @@ Path 7 (YELLO1.BFF) contains dpComputerCode YELLO1.BFF!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport DEN!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN BFF 
+sidTwoPathRoute: DEN BFF 
 
 ProcessSid(sidCollection, DEN, PIKES9, PUB)
 
@@ -6421,7 +6421,7 @@ Path 3 (PIKES9.PUB) contains dpComputerCode PIKES9.PUB!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport DEN!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN ADANE DRAKE PUB 
+sidTwoPathRoute: DEN ADANE DRAKE PUB 
 
 ProcessSid(sidCollection, DEN, ROCKI3, RLG)
 
@@ -6502,7 +6502,7 @@ Path 10 (PLAIN8.WEEDS) contains dpComputerCode PLAIN8.WEEDS!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EPKEE WEEDS 
+sidTwoPathRoute: DEN EPKEE WEEDS 
 
 ProcessSid(sidCollection, DEN, ROCKI3, HBU)
 
@@ -6563,7 +6563,7 @@ Path 0 (SPAZZ3.SPAZZ) does NOT contain origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting dpComputerCode SPAZZ3.SPAZZ!
 Path 1 (SPAZZ3.SPAZZ) contains origin airport DEN!
 Path 1 (SPAZZ3.SPAZZ) contains connecting token SPAZZ!
-sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR [SPAZZ] SPAZZ PUB JOPLN 
+sidTwoPathRoute: KIDNG TWWIN TAIIL FIGTR SUUPR SPAZZ PUB JOPLN 
 
 ProcessSid(sidCollection, DEN, EPKEE4, GATTR)
 
@@ -6586,7 +6586,7 @@ Path 4 (EPKEE4.GATTR) contains dpComputerCode EPKEE4.GATTR!
 Path 0 (EPKEE4.WEEDS) contains connecting dpComputerCode EPKEE4.WEEDS!
 Path 0 (EPKEE4.WEEDS) contains origin airport DEN!
 Path 0 (EPKEE4.WEEDS) contains connecting token WEEDS!
-sidTwoPathRoute: EPKEE CLAMR [WEEDS] WEEDS GATTR 
+sidTwoPathRoute: EPKEE CLAMR WEEDS GATTR 
 
 ProcessSid(sidCollection, DEN, PIKES9, BINKE)
 
@@ -6606,7 +6606,7 @@ Path 2 (PIKES9.BINKE) contains dpComputerCode PIKES9.BINKE!
 Path 0 (PIKES9.DEN) contains connecting dpComputerCode PIKES9.DEN!
 Path 0 (PIKES9.DEN) contains origin airport DEN!
 Path 0 (PIKES9.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $FTG$ $GXY$ [$DEN$] DEN TEHEV BINKE 
+sidTwoPathRoute: DEN TEHEV BINKE 
 
 ProcessSid(sidCollection, DEN, CONNR4, DBL)
 
@@ -6693,7 +6693,7 @@ Path 6 (YOKES5.BFF) contains dpComputerCode YOKES5.BFF!
 Path 0 (YOKES5.YOKES) contains connecting dpComputerCode YOKES5.YOKES!
 Path 0 (YOKES5.YOKES) contains origin airport DEN!
 Path 0 (YOKES5.YOKES) contains connecting token YOKES!
-sidTwoPathRoute: LASSS SPYCE TURBN CHICN KKIMM BTELN [YOKES] YOKES COPLA BFF 
+sidTwoPathRoute: LASSS SPYCE TURBN CHICN KKIMM BTELN YOKES COPLA BFF 
 
 ProcessSid(sidCollection, DEN, ROCKI3, EKR)
 
@@ -6762,7 +6762,7 @@ Path 7 (PLAIN8.HCT) contains dpComputerCode PLAIN8.HCT!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EEONS AKO ASHBY HCT 
+sidTwoPathRoute: DEN EEONS AKO ASHBY HCT 
 
 ProcessSid(sidCollection, DEN, YELLO1, CYS)
 
@@ -6785,7 +6785,7 @@ Path 1 (YELLO1.CYS) contains dpComputerCode YELLO1.CYS!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport DEN!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN YALES CYS 
+sidTwoPathRoute: DEN YALES CYS 
 
 ProcessSid(sidCollection, DEN, PLAIN8, MCK)
 
@@ -6818,7 +6818,7 @@ Path 8 (PLAIN8.MCK) contains dpComputerCode PLAIN8.MCK!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EMMYS TEKMY BELKE MCK 
+sidTwoPathRoute: DEN EMMYS TEKMY BELKE MCK 
 
 ProcessSid(sidCollection, DEN, PLAIN8, GLD)
 
@@ -6849,7 +6849,7 @@ Path 6 (PLAIN8.GLD) contains dpComputerCode PLAIN8.GLD!
 Path 0 (PLAIN8.DEN) contains connecting dpComputerCode PLAIN8.DEN!
 Path 0 (PLAIN8.DEN) contains origin airport DEN!
 Path 0 (PLAIN8.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN EXTAN TXC GLD 
+sidTwoPathRoute: DEN EXTAN TXC GLD 
 
 ProcessSid(sidCollection, DEN, YELLO1, HANKI)
 
@@ -6873,7 +6873,7 @@ Path 2 (YELLO1.HANKI) contains dpComputerCode YELLO1.HANKI!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport DEN!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN COPLA HANKI 
+sidTwoPathRoute: DEN COPLA HANKI 
 
 ProcessSid(sidCollection, DEN, ROCKI3, MTJ)
 
@@ -6937,7 +6937,7 @@ Path 5 (BAYLR3.HBU) contains dpComputerCode BAYLR3.HBU!
 Path 0 (BAYLR3.BOBBA) contains connecting dpComputerCode BAYLR3.BOBBA!
 Path 0 (BAYLR3.BOBBA) contains origin airport DEN!
 Path 0 (BAYLR3.BOBBA) contains connecting token BOBBA!
-sidTwoPathRoute: BAYLR [BOBBA] BOBBA HBU 
+sidTwoPathRoute: BAYLR BOBBA HBU 
 
 ProcessSid(sidCollection, DEN, YELLO1, RAP)
 
@@ -6965,7 +6965,7 @@ Path 6 (YELLO1.RAP) contains dpComputerCode YELLO1.RAP!
 Path 0 (YELLO1.DEN) contains connecting dpComputerCode YELLO1.DEN!
 Path 0 (YELLO1.DEN) contains origin airport DEN!
 Path 0 (YELLO1.DEN) contains connecting token DEN!
-sidTwoPathRoute: $BKF$ $GXY$ $FTG$ [$DEN$] DEN GLL RAP 
+sidTwoPathRoute: DEN GLL RAP 
 
 ProcessSid(sidCollection, DEN, COORZ3, VOAXA)
 
@@ -7023,7 +7023,7 @@ Path 5 (LOWGN7.ADM) contains dpComputerCode LOWGN7.ADM!
 Path 0 (LOWGN7.LOWGN) contains connecting dpComputerCode LOWGN7.LOWGN!
 Path 0 (LOWGN7.LOWGN) contains origin airport DFW!
 Path 0 (LOWGN7.LOWGN) contains connecting token LOWGN!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [LOWGN] LOWGN ADM 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE LOWGN ADM 
 
 ProcessSid(sidCollection, DFW, NELYN5, HOARY)
 
@@ -7050,7 +7050,7 @@ Path 5 (NELYN5.HOARY) contains dpComputerCode NELYN5.HOARY!
 Path 0 (NELYN5.NELYN) contains connecting dpComputerCode NELYN5.NELYN!
 Path 0 (NELYN5.NELYN) contains origin airport DFW!
 Path 0 (NELYN5.NELYN) contains connecting token NELYN!
-sidTwoPathRoute: TREXX DALBY ONKAE [NELYN] NELYN ACT PRIZE HOARY 
+sidTwoPathRoute: TREXX DALBY ONKAE NELYN ACT PRIZE HOARY 
 
 ProcessSid(sidCollection, DFW, NELYN5, SAT)
 
@@ -7078,7 +7078,7 @@ Path 6 (NELYN5.SAT) contains dpComputerCode NELYN5.SAT!
 Path 0 (NELYN5.NELYN) contains connecting dpComputerCode NELYN5.NELYN!
 Path 0 (NELYN5.NELYN) contains origin airport DFW!
 Path 0 (NELYN5.NELYN) contains connecting token NELYN!
-sidTwoPathRoute: TREXX DALBY ONKAE [NELYN] NELYN ACT PRIZE HOARY SAT 
+sidTwoPathRoute: TREXX DALBY ONKAE NELYN ACT PRIZE HOARY SAT 
 
 ProcessSid(sidCollection, DFW, HRPER3, HULZE)
 
@@ -7099,7 +7099,7 @@ Path 3 (HRPER3.HULZE) contains dpComputerCode HRPER3.HULZE!
 Path 0 (HRPER3.HRPER) contains connecting dpComputerCode HRPER3.HRPER!
 Path 0 (HRPER3.HRPER) contains origin airport DFW!
 Path 0 (HRPER3.HRPER) contains connecting token HRPER!
-sidTwoPathRoute: BPARK YAMEL FIRMN TYGGR DBLSS [HRPER] HRPER HULZE 
+sidTwoPathRoute: BPARK YAMEL FIRMN TYGGR DBLSS HRPER HULZE 
 
 ProcessSid(sidCollection, DFW, FORCK2, FORCK)
 
@@ -7134,7 +7134,7 @@ Path 5 (AKUNA6.MLC) contains dpComputerCode AKUNA6.MLC!
 Path 0 (AKUNA6.AKUNA) contains connecting dpComputerCode AKUNA6.AKUNA!
 Path 0 (AKUNA6.AKUNA) contains origin airport DFW!
 Path 0 (AKUNA6.AKUNA) contains connecting token AKUNA!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [AKUNA] AKUNA TIKYS MLC 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE AKUNA TIKYS MLC 
 
 ProcessSid(sidCollection, DFW, DARTZ7, TNV)
 
@@ -7162,7 +7162,7 @@ Path 6 (DARTZ7.TNV) contains dpComputerCode DARTZ7.TNV!
 Path 0 (DARTZ7.DARTZ) contains connecting dpComputerCode DARTZ7.DARTZ!
 Path 0 (DARTZ7.DARTZ) contains origin airport DFW!
 Path 0 (DARTZ7.DARTZ) contains connecting token DARTZ!
-sidTwoPathRoute: TREXX DALBY OUTTR [DARTZ] DARTZ BRDEN TORNN BILEE TNV 
+sidTwoPathRoute: TREXX DALBY OUTTR DARTZ BRDEN TORNN BILEE TNV 
 
 ProcessSid(sidCollection, DFW, HUDAD2, HUDAD)
 
@@ -7200,7 +7200,7 @@ Path 6 (BLECO7.IRW) contains dpComputerCode BLECO7.IRW!
 Path 0 (BLECO7.BLECO) contains connecting dpComputerCode BLECO7.BLECO!
 Path 0 (BLECO7.BLECO) contains origin airport DFW!
 Path 0 (BLECO7.BLECO) contains connecting token BLECO!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [BLECO] BLECO ZEMMA IRW 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE BLECO ZEMMA IRW 
 
 ProcessSid(sidCollection, DFW, BLECO7, ZEMMA)
 
@@ -7229,7 +7229,7 @@ Path 7 (BLECO7.ZEMMA) contains dpComputerCode BLECO7.ZEMMA!
 Path 0 (BLECO7.BLECO) contains connecting dpComputerCode BLECO7.BLECO!
 Path 0 (BLECO7.BLECO) contains origin airport DFW!
 Path 0 (BLECO7.BLECO) contains connecting token BLECO!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [BLECO] BLECO ZEMMA 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE BLECO ZEMMA 
 
 ProcessSid(sidCollection, DFW, TRYTN2, LOOSE)
 
@@ -7250,7 +7250,7 @@ Path 3 (TRYTN2.LOOSE) contains dpComputerCode TRYTN2.LOOSE!
 Path 0 (TRYTN2.TRYTN) contains connecting dpComputerCode TRYTN2.TRYTN!
 Path 0 (TRYTN2.TRYTN) contains origin airport DFW!
 Path 0 (TRYTN2.TRYTN) contains connecting token TRYTN!
-sidTwoPathRoute: NAVYE JGIRL CORTS TRRCH JAYXX [TRYTN] TRYTN LOOSE 
+sidTwoPathRoute: NAVYE JGIRL CORTS TRRCH JAYXX TRYTN LOOSE 
 
 ProcessSid(sidCollection, DFW, MRSSH2, ZALEA)
 
@@ -7273,7 +7273,7 @@ Path 4 (MRSSH2.ZALEA) contains dpComputerCode MRSSH2.ZALEA!
 Path 0 (MRSSH2.MRSSH) contains connecting dpComputerCode MRSSH2.MRSSH!
 Path 0 (MRSSH2.MRSSH) contains origin airport DFW!
 Path 0 (MRSSH2.MRSSH) contains connecting token MRSSH!
-sidTwoPathRoute: TREXX JOLEN THHOR JJANE [MRSSH] MRSSH ZALEA 
+sidTwoPathRoute: TREXX JOLEN THHOR JJANE MRSSH ZALEA 
 
 ProcessSid(sidCollection, DFW, JASPA5, WINDU)
 
@@ -7298,7 +7298,7 @@ Path 5 (JASPA5.WINDU) contains dpComputerCode JASPA5.WINDU!
 Path 0 (JASPA5.JASPA) contains connecting dpComputerCode JASPA5.JASPA!
 Path 0 (JASPA5.JASPA) contains origin airport DFW!
 Path 0 (JASPA5.JASPA) contains connecting token JASPA!
-sidTwoPathRoute: TREXX DALBY ENIKE [JASPA] JASPA WINDU 
+sidTwoPathRoute: TREXX DALBY ENIKE JASPA WINDU 
 
 ProcessSid(sidCollection, DFW, WSTEX2, DOSXX)
 
@@ -7321,7 +7321,7 @@ Path 4 (WSTEX2.DOSXX) contains dpComputerCode WSTEX2.DOSXX!
 Path 0 (WSTEX2.WSTEX) contains connecting dpComputerCode WSTEX2.WSTEX!
 Path 0 (WSTEX2.WSTEX) contains origin airport DFW!
 Path 0 (WSTEX2.WSTEX) contains connecting token WSTEX!
-sidTwoPathRoute: LARRN GIGEM RBBIT LYNDE [WSTEX] WSTEX DOSXX 
+sidTwoPathRoute: LARRN GIGEM RBBIT LYNDE WSTEX DOSXX 
 
 ProcessSid(sidCollection, DFW, WSTEX2, CIKAN)
 
@@ -7343,7 +7343,7 @@ Path 3 (WSTEX2.CIKAN) contains dpComputerCode WSTEX2.CIKAN!
 Path 0 (WSTEX2.WSTEX) contains connecting dpComputerCode WSTEX2.WSTEX!
 Path 0 (WSTEX2.WSTEX) contains origin airport DFW!
 Path 0 (WSTEX2.WSTEX) contains connecting token WSTEX!
-sidTwoPathRoute: LARRN GIGEM RBBIT LYNDE [WSTEX] WSTEX CIKAN 
+sidTwoPathRoute: LARRN GIGEM RBBIT LYNDE WSTEX CIKAN 
 
 ProcessSid(sidCollection, DFW, ZACHH2, BSKAT)
 
@@ -7364,7 +7364,7 @@ Path 3 (ZACHH2.BSKAT) contains dpComputerCode ZACHH2.BSKAT!
 Path 0 (ZACHH2.ZACHH) contains connecting dpComputerCode ZACHH2.ZACHH!
 Path 0 (ZACHH2.ZACHH) contains origin airport DFW!
 Path 0 (ZACHH2.ZACHH) contains connecting token ZACHH!
-sidTwoPathRoute: NAVYE JGIRL CORTS ZERLU SWDIA [ZACHH] ZACHH BSKAT 
+sidTwoPathRoute: NAVYE JGIRL CORTS ZERLU SWDIA ZACHH BSKAT 
 
 ProcessSid(sidCollection, DFW, KATZZ2, BRHMA)
 
@@ -7385,7 +7385,7 @@ Path 3 (KATZZ2.BRHMA) contains dpComputerCode KATZZ2.BRHMA!
 Path 0 (KATZZ2.KATZZ) contains connecting dpComputerCode KATZZ2.KATZZ!
 Path 0 (KATZZ2.KATZZ) contains origin airport DFW!
 Path 0 (KATZZ2.KATZZ) contains connecting token KATZZ!
-sidTwoPathRoute: LARRN GIGEM TANNO ROOOO RUFFS [KATZZ] KATZZ BRHMA 
+sidTwoPathRoute: LARRN GIGEM TANNO ROOOO RUFFS KATZZ BRHMA 
 
 ProcessSid(sidCollection, DFW, GRABE7, OKM)
 
@@ -7412,7 +7412,7 @@ Path 6 (GRABE7.OKM) contains dpComputerCode GRABE7.OKM!
 Path 0 (GRABE7.GRABE) contains connecting dpComputerCode GRABE7.GRABE!
 Path 0 (GRABE7.GRABE) contains origin airport DFW!
 Path 0 (GRABE7.GRABE) contains connecting token GRABE!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [GRABE] GRABE EAKER OKM 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE GRABE EAKER OKM 
 
 ProcessSid(sidCollection, DFW, LOWGN7, ROLLS)
 
@@ -7439,7 +7439,7 @@ Path 6 (LOWGN7.ROLLS) contains dpComputerCode LOWGN7.ROLLS!
 Path 0 (LOWGN7.LOWGN) contains connecting dpComputerCode LOWGN7.LOWGN!
 Path 0 (LOWGN7.LOWGN) contains origin airport DFW!
 Path 0 (LOWGN7.LOWGN) contains connecting token LOWGN!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [LOWGN] LOWGN ADM MRMAC ROLLS 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE LOWGN ADM MRMAC ROLLS 
 
 ProcessSid(sidCollection, DFW, BLECO7, TUL)
 
@@ -7466,7 +7466,7 @@ Path 5 (BLECO7.TUL) contains dpComputerCode BLECO7.TUL!
 Path 0 (BLECO7.BLECO) contains connecting dpComputerCode BLECO7.BLECO!
 Path 0 (BLECO7.BLECO) contains origin airport DFW!
 Path 0 (BLECO7.BLECO) contains connecting token BLECO!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [BLECO] BLECO ZEMMA TUL 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE BLECO ZEMMA TUL 
 
 ProcessSid(sidCollection, DFW, DARTZ7, BILEE)
 ****INFO: Origin Airport KDFW and/or Destination Airport MGGT is not in the US!
@@ -7498,7 +7498,7 @@ Path 7 (NELYN5.ACT) contains dpComputerCode NELYN5.ACT!
 Path 0 (NELYN5.NELYN) contains connecting dpComputerCode NELYN5.NELYN!
 Path 0 (NELYN5.NELYN) contains origin airport DFW!
 Path 0 (NELYN5.NELYN) contains connecting token NELYN!
-sidTwoPathRoute: TREXX DALBY ONKAE [NELYN] NELYN ACT 
+sidTwoPathRoute: TREXX DALBY ONKAE NELYN ACT 
 
 ProcessSid(sidCollection, DFW, ARDIA6, ELLVR)
 
@@ -7525,7 +7525,7 @@ Path 6 (ARDIA6.ELLVR) contains dpComputerCode ARDIA6.ELLVR!
 Path 0 (ARDIA6.ARDIA) contains connecting dpComputerCode ARDIA6.ARDIA!
 Path 0 (ARDIA6.ARDIA) contains origin airport DFW!
 Path 0 (ARDIA6.ARDIA) contains connecting token ARDIA!
-sidTwoPathRoute: TREXX DALBY NEAPS [ARDIA] ARDIA ELLVR 
+sidTwoPathRoute: TREXX DALBY NEAPS ARDIA ELLVR 
 
 ProcessSid(sidCollection, DFW, DARTZ7, TORNN)
 
@@ -7554,7 +7554,7 @@ Path 7 (DARTZ7.TORNN) contains dpComputerCode DARTZ7.TORNN!
 Path 0 (DARTZ7.DARTZ) contains connecting dpComputerCode DARTZ7.DARTZ!
 Path 0 (DARTZ7.DARTZ) contains origin airport DFW!
 Path 0 (DARTZ7.DARTZ) contains connecting token DARTZ!
-sidTwoPathRoute: TREXX DALBY OUTTR [DARTZ] DARTZ BRDEN TORNN 
+sidTwoPathRoute: TREXX DALBY OUTTR DARTZ BRDEN TORNN 
 
 ProcessSid(sidCollection, DFW, MRSSH2, MRSSH)
 
@@ -7590,7 +7590,7 @@ Path 5 (GRABE7.EAKER) contains dpComputerCode GRABE7.EAKER!
 Path 0 (GRABE7.GRABE) contains connecting dpComputerCode GRABE7.GRABE!
 Path 0 (GRABE7.GRABE) contains origin airport DFW!
 Path 0 (GRABE7.GRABE) contains connecting token GRABE!
-sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE [GRABE] GRABE EAKER 
+sidTwoPathRoute: NAVYE JGIRL CORTS BIGGD CMORE GRABE EAKER 
 
 ProcessSid(sidCollection, DPA, OBENE2, ROTTN)
 
@@ -7622,7 +7622,7 @@ Path 8 (OBENE2.ROTTN) contains dpComputerCode OBENE2.ROTTN!
 Path 0 (OBENE2.OBENE) contains connecting dpComputerCode OBENE2.OBENE!
 Path 0 (OBENE2.OBENE) contains origin airport DPA!
 Path 0 (OBENE2.OBENE) contains connecting token OBENE!
-sidTwoPathRoute: OREOS [OBENE] OBENE ROTTN 
+sidTwoPathRoute: OREOS OBENE ROTTN 
 
 ProcessSid(sidCollection, DPA, OBENE2, OGALE)
 
@@ -7652,7 +7652,7 @@ Path 6 (OBENE2.OGALE) contains dpComputerCode OBENE2.OGALE!
 Path 0 (OBENE2.OBENE) contains connecting dpComputerCode OBENE2.OBENE!
 Path 0 (OBENE2.OBENE) contains origin airport DPA!
 Path 0 (OBENE2.OBENE) contains connecting token OBENE!
-sidTwoPathRoute: OREOS [OBENE] OBENE OGALE 
+sidTwoPathRoute: OREOS OBENE OGALE 
 
 ProcessSid(sidCollection, DTW, STCLR1, PISTN)
 
@@ -7707,7 +7707,7 @@ Path 1 (MOONN8.JHW) contains dpComputerCode MOONN8.JHW!
 Path 0 (MOONN8.MOONN) contains connecting dpComputerCode MOONN8.MOONN!
 Path 0 (MOONN8.MOONN) contains origin airport DTW!
 Path 0 (MOONN8.MOONN) contains connecting token MOONN!
-sidTwoPathRoute: [MOONN] MOONN BROKK BEWEL JHW 
+sidTwoPathRoute: MOONN BROKK BEWEL JHW 
 
 ProcessSid(sidCollection, DTW, STCLR1, MAARS)
 
@@ -7900,7 +7900,7 @@ Path 2 (MOONN8.YXU) contains dpComputerCode MOONN8.YXU!
 Path 0 (MOONN8.MOONN) contains connecting dpComputerCode MOONN8.MOONN!
 Path 0 (MOONN8.MOONN) contains origin airport DTW!
 Path 0 (MOONN8.MOONN) contains connecting token MOONN!
-sidTwoPathRoute: [MOONN] MOONN BROKK YXU 
+sidTwoPathRoute: MOONN BROKK YXU 
 
 ProcessSid(sidCollection, DTW, PALCE1, HARWL)
 
@@ -7957,7 +7957,7 @@ Path 2 (ERRTH6.ETG) contains dpComputerCode ERRTH6.ETG!
 Path 0 (ERRTH6.ERRTH) contains connecting dpComputerCode ERRTH6.ERRTH!
 Path 0 (ERRTH6.ERRTH) contains origin airport DTW!
 Path 0 (ERRTH6.ERRTH) contains connecting token ERRTH!
-sidTwoPathRoute: OCTAS [ERRTH] ERRTH CXR MIGET ETG 
+sidTwoPathRoute: OCTAS ERRTH CXR MIGET ETG 
 
 ProcessSid(sidCollection, DTW, FWA7, FWA)
 
@@ -8023,7 +8023,7 @@ Path 1 (CARYN4.CYBIL) contains dpComputerCode CARYN4.CYBIL!
 Path 0 (CARYN4.CARYN) contains connecting dpComputerCode CARYN4.CARYN!
 Path 0 (CARYN4.CARYN) contains origin airport GYY!
 Path 0 (CARYN4.CARYN) contains connecting token CARYN!
-sidTwoPathRoute: CMSKY [CARYN] CARYN CYBIL 
+sidTwoPathRoute: CMSKY CARYN CYBIL 
 
 ProcessSid(sidCollection, HOU, PTRON5, PSX)
 
@@ -8045,7 +8045,7 @@ Path 2 (PTRON5.PSX) contains dpComputerCode PTRON5.PSX!
 Path 0 (PTRON5.PTRON) contains connecting dpComputerCode PTRON5.PTRON!
 Path 0 (PTRON5.PTRON) contains origin airport HOU!
 Path 0 (PTRON5.PTRON) contains connecting token PTRON!
-sidTwoPathRoute: SAALT [PTRON] PTRON SKUBA PSX 
+sidTwoPathRoute: SAALT PTRON SKUBA PSX 
 
 ProcessSid(sidCollection, HOU, RETYR5, JCT)
 
@@ -8094,7 +8094,7 @@ Path 1 (STYCK5.DOLEY) contains dpComputerCode STYCK5.DOLEY!
 Path 0 (STYCK5.STYCK) contains connecting dpComputerCode STYCK5.STYCK!
 Path 0 (STYCK5.STYCK) contains origin airport HOU!
 Path 0 (STYCK5.STYCK) contains connecting token STYCK!
-sidTwoPathRoute: BBYSE SPICR WLLIS [STYCK] STYCK DOLEY 
+sidTwoPathRoute: BBYSE SPICR WLLIS STYCK DOLEY 
 
 ProcessSid(sidCollection, HOU, HOODO5, BOWFN)
 
@@ -8115,7 +8115,7 @@ Path 1 (HOODO5.BOWFN) contains dpComputerCode HOODO5.BOWFN!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport HOU!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN 
 
 ProcessSid(sidCollection, HOU, ELOCO4, LLA)
 
@@ -8162,7 +8162,7 @@ Path 2 (STYCK5.WTSON) contains dpComputerCode STYCK5.WTSON!
 Path 0 (STYCK5.STYCK) contains connecting dpComputerCode STYCK5.STYCK!
 Path 0 (STYCK5.STYCK) contains origin airport HOU!
 Path 0 (STYCK5.STYCK) contains connecting token STYCK!
-sidTwoPathRoute: BBYSE SPICR WLLIS [STYCK] STYCK WTSON 
+sidTwoPathRoute: BBYSE SPICR WLLIS STYCK WTSON 
 
 ProcessSid(sidCollection, HOU, LURIC5, HAWES)
 
@@ -8180,7 +8180,7 @@ Path 1 (LURIC5.HAWES) contains dpComputerCode LURIC5.HAWES!
 Path 0 (LURIC5.LURIC) contains connecting dpComputerCode LURIC5.LURIC!
 Path 0 (LURIC5.LURIC) contains origin airport HOU!
 Path 0 (LURIC5.LURIC) contains connecting token LURIC!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY [LURIC] LURIC HAWES 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES 
 
 ProcessSid(sidCollection, HOU, HOODO5, LEV)
 
@@ -8204,7 +8204,7 @@ Path 4 (HOODO5.LEV) contains dpComputerCode HOODO5.LEV!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport HOU!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN LEV 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN LEV 
 
 ProcessSid(sidCollection, HOU, LURIC5, ORRTH)
 
@@ -8223,7 +8223,7 @@ Path 2 (LURIC5.ORRTH) contains dpComputerCode LURIC5.ORRTH!
 Path 0 (LURIC5.LURIC) contains connecting dpComputerCode LURIC5.LURIC!
 Path 0 (LURIC5.LURIC) contains origin airport HOU!
 Path 0 (LURIC5.LURIC) contains connecting token LURIC!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY [LURIC] LURIC ORRTH 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH 
 
 ProcessSid(sidCollection, HOU, PTRON5, WWREN)
 
@@ -8247,7 +8247,7 @@ Path 4 (PTRON5.WWREN) contains dpComputerCode PTRON5.WWREN!
 Path 0 (PTRON5.PTRON) contains connecting dpComputerCode PTRON5.PTRON!
 Path 0 (PTRON5.PTRON) contains origin airport HOU!
 Path 0 (PTRON5.PTRON) contains connecting token PTRON!
-sidTwoPathRoute: SAALT [PTRON] PTRON RIIGG WWREN 
+sidTwoPathRoute: SAALT PTRON RIIGG WWREN 
 
 ProcessSid(sidCollection, HOU, STRYA5, JBULL)
 
@@ -8266,7 +8266,7 @@ Path 2 (STRYA5.JBULL) contains dpComputerCode STRYA5.JBULL!
 Path 0 (STRYA5.STRYA) contains connecting dpComputerCode STRYA5.STRYA!
 Path 0 (STRYA5.STRYA) contains origin airport HOU!
 Path 0 (STRYA5.STRYA) contains connecting token STRYA!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN [STRYA] STRYA JBULL 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL 
 
 ProcessSid(sidCollection, HOU, HOODO5, HRV)
 
@@ -8289,7 +8289,7 @@ Path 3 (HOODO5.HRV) contains dpComputerCode HOODO5.HRV!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport HOU!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN HRV 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN HRV 
 
 ProcessSid(sidCollection, HOU, STRYA5, DPATY)
 
@@ -8307,7 +8307,7 @@ Path 1 (STRYA5.DPATY) contains dpComputerCode STRYA5.DPATY!
 Path 0 (STRYA5.STRYA) contains connecting dpComputerCode STRYA5.STRYA!
 Path 0 (STRYA5.STRYA) contains origin airport HOU!
 Path 0 (STRYA5.STRYA) contains connecting token STRYA!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN [STRYA] STRYA DPATY 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY 
 
 ProcessSid(sidCollection, HOU, INDIE5, TPAKK)
 
@@ -8324,7 +8324,7 @@ Path 1 (INDIE5.TPAKK) contains dpComputerCode INDIE5.TPAKK!
 Path 0 (INDIE5.INDIE) contains connecting dpComputerCode INDIE5.INDIE!
 Path 0 (INDIE5.INDIE) contains origin airport HOU!
 Path 0 (INDIE5.INDIE) contains connecting token INDIE!
-sidTwoPathRoute: RENNK COLET SUSHI WWELL [INDIE] INDIE TPAKK 
+sidTwoPathRoute: RENNK COLET SUSHI WWELL INDIE TPAKK 
 
 ProcessSid(sidCollection, HOU, PTRON5, NGP)
 
@@ -8347,7 +8347,7 @@ Path 3 (PTRON5.NGP) contains dpComputerCode PTRON5.NGP!
 Path 0 (PTRON5.PTRON) contains connecting dpComputerCode PTRON5.PTRON!
 Path 0 (PTRON5.PTRON) contains origin airport HOU!
 Path 0 (PTRON5.PTRON) contains connecting token PTRON!
-sidTwoPathRoute: SAALT [PTRON] PTRON RIIGG NGP 
+sidTwoPathRoute: SAALT PTRON RIIGG NGP 
 
 ProcessSid(sidCollection, HOU, RETYR5, SAT)
 
@@ -8449,7 +8449,7 @@ Path 1 (BLTWY4.CRIED) contains dpComputerCode BLTWY4.CRIED!
 Path 0 (BLTWY4.BLTWY) contains connecting dpComputerCode BLTWY4.BLTWY!
 Path 0 (BLTWY4.BLTWY) contains origin airport HOU!
 Path 0 (BLTWY4.BLTWY) contains connecting token BLTWY!
-sidTwoPathRoute: DREMR LITLD [BLTWY] BLTWY CRIED 
+sidTwoPathRoute: DREMR LITLD BLTWY CRIED 
 
 ProcessSid(sidCollection, HOU, LURIC5, LURIC)
 
@@ -8594,7 +8594,7 @@ Path 1 (CLTCH1.CLTCH) does NOT contain origin airport IAD!
 Path 2 (CLTCH1.CLTCH) contains connecting dpComputerCode CLTCH1.CLTCH!
 Path 2 (CLTCH1.CLTCH) contains origin airport IAD!
 Path 2 (CLTCH1.CLTCH) contains connecting token CLTCH!
-sidTwoPathRoute: BUTRZ [CLTCH] CLTCH KERRK MAULS 
+sidTwoPathRoute: BUTRZ CLTCH KERRK MAULS 
 
 ProcessSid(sidCollection, IAD, RNLDI4, OTTTO)
 
@@ -8613,7 +8613,7 @@ Path 2 (RNLDI4.OTTTO) contains dpComputerCode RNLDI4.OTTTO!
 Path 0 (RNLDI4.RNLDI) contains connecting dpComputerCode RNLDI4.RNLDI!
 Path 0 (RNLDI4.RNLDI) contains origin airport IAD!
 Path 0 (RNLDI4.RNLDI) contains connecting token RNLDI!
-sidTwoPathRoute: LOULU [RNLDI] RNLDI OTTTO 
+sidTwoPathRoute: LOULU RNLDI OTTTO 
 
 ProcessSid(sidCollection, IAD, JCOBY3, SWANN)
 
@@ -8634,7 +8634,7 @@ Path 3 (JCOBY3.SWANN) contains dpComputerCode JCOBY3.SWANN!
 Path 0 (JCOBY3.JCOBY) contains connecting dpComputerCode JCOBY3.JCOBY!
 Path 0 (JCOBY3.JCOBY) contains origin airport IAD!
 Path 0 (JCOBY3.JCOBY) contains connecting token JCOBY!
-sidTwoPathRoute: RIGNZ [JCOBY] JCOBY GRIIM SOOKI SWANN 
+sidTwoPathRoute: RIGNZ JCOBY GRIIM SOOKI SWANN 
 
 ProcessSid(sidCollection, IAD, JERES2, JERES)
 
@@ -8663,7 +8663,7 @@ Path 1 (JCOBY3.AGARD) contains dpComputerCode JCOBY3.AGARD!
 Path 0 (JCOBY3.JCOBY) contains connecting dpComputerCode JCOBY3.JCOBY!
 Path 0 (JCOBY3.JCOBY) contains origin airport IAD!
 Path 0 (JCOBY3.JCOBY) contains connecting token JCOBY!
-sidTwoPathRoute: RIGNZ [JCOBY] JCOBY GRIIM RIISE DOCTR AGARD 
+sidTwoPathRoute: RIGNZ JCOBY GRIIM RIISE DOCTR AGARD 
 
 ProcessSid(sidCollection, IAD, JDUBB1, GSO)
 
@@ -8689,7 +8689,7 @@ Path 1 (JDUBB1.JDUBB) does NOT contain origin airport IAD!
 Path 2 (JDUBB1.JDUBB) contains connecting dpComputerCode JDUBB1.JDUBB!
 Path 2 (JDUBB1.JDUBB) contains origin airport IAD!
 Path 2 (JDUBB1.JDUBB) contains connecting token JDUBB!
-sidTwoPathRoute: HAFNR [JDUBB] JDUBB TYPNZ SCORN RRSIN GSO 
+sidTwoPathRoute: HAFNR JDUBB TYPNZ SCORN RRSIN GSO 
 
 ProcessSid(sidCollection, IAD, SCRAM3, LYH)
 
@@ -8714,7 +8714,7 @@ Path 1 (SCRAM3.SCRAM) does NOT contain origin airport IAD!
 Path 2 (SCRAM3.SCRAM) contains connecting dpComputerCode SCRAM3.SCRAM!
 Path 2 (SCRAM3.SCRAM) contains origin airport IAD!
 Path 2 (SCRAM3.SCRAM) contains connecting token SCRAM!
-sidTwoPathRoute: POOCH [SCRAM] SCRAM DANOO WALCE GLANC LYH 
+sidTwoPathRoute: POOCH SCRAM DANOO WALCE GLANC LYH 
 
 ProcessSid(sidCollection, IAD, BUNZZ3, RAMAY)
 
@@ -8733,7 +8733,7 @@ Path 2 (BUNZZ3.RAMAY) contains dpComputerCode BUNZZ3.RAMAY!
 Path 0 (BUNZZ3.BUNZZ) contains connecting dpComputerCode BUNZZ3.BUNZZ!
 Path 0 (BUNZZ3.BUNZZ) contains origin airport IAD!
 Path 0 (BUNZZ3.BUNZZ) contains connecting token BUNZZ!
-sidTwoPathRoute: LOULU [BUNZZ] BUNZZ RAMAY 
+sidTwoPathRoute: LOULU BUNZZ RAMAY 
 
 ProcessSid(sidCollection, IAD, CLTCH1, FLASK)
 
@@ -8759,7 +8759,7 @@ Path 1 (CLTCH1.CLTCH) does NOT contain origin airport IAD!
 Path 2 (CLTCH1.CLTCH) contains connecting dpComputerCode CLTCH1.CLTCH!
 Path 2 (CLTCH1.CLTCH) contains origin airport IAD!
 Path 2 (CLTCH1.CLTCH) contains connecting token CLTCH!
-sidTwoPathRoute: BUTRZ [CLTCH] CLTCH KERRK TEEMS FLASK 
+sidTwoPathRoute: BUTRZ CLTCH KERRK TEEMS FLASK 
 
 ProcessSid(sidCollection, IAD, JCOBY3, COLIN)
 
@@ -8779,7 +8779,7 @@ Path 2 (JCOBY3.COLIN) contains dpComputerCode JCOBY3.COLIN!
 Path 0 (JCOBY3.JCOBY) contains connecting dpComputerCode JCOBY3.JCOBY!
 Path 0 (JCOBY3.JCOBY) contains origin airport IAD!
 Path 0 (JCOBY3.JCOBY) contains connecting token JCOBY!
-sidTwoPathRoute: RIGNZ [JCOBY] JCOBY BAUGH BOOCK COLIN 
+sidTwoPathRoute: RIGNZ JCOBY BAUGH BOOCK COLIN 
 
 ProcessSid(sidCollection, IAD, WOOLY1, AGARD)
 
@@ -8799,7 +8799,7 @@ Path 1 (WOOLY1.AGARD) contains dpComputerCode WOOLY1.AGARD!
 Path 0 (WOOLY1.WOOLY) contains connecting dpComputerCode WOOLY1.WOOLY!
 Path 0 (WOOLY1.WOOLY) contains origin airport IAD!
 Path 0 (WOOLY1.WOOLY) contains connecting token WOOLY!
-sidTwoPathRoute: RAZZA [WOOLY] WOOLY AGARD 
+sidTwoPathRoute: RAZZA WOOLY AGARD 
 
 ProcessSid(sidCollection, IAD, WOOLY1, BROSS)
 
@@ -8821,7 +8821,7 @@ Path 3 (WOOLY1.BROSS) contains dpComputerCode WOOLY1.BROSS!
 Path 0 (WOOLY1.WOOLY) contains connecting dpComputerCode WOOLY1.WOOLY!
 Path 0 (WOOLY1.WOOLY) contains origin airport IAD!
 Path 0 (WOOLY1.WOOLY) contains connecting token WOOLY!
-sidTwoPathRoute: RAZZA [WOOLY] WOOLY BROSS 
+sidTwoPathRoute: RAZZA WOOLY BROSS 
 
 ProcessSid(sidCollection, IAD, JDUBB1, SBV)
 
@@ -8848,7 +8848,7 @@ Path 1 (JDUBB1.JDUBB) does NOT contain origin airport IAD!
 Path 2 (JDUBB1.JDUBB) contains connecting dpComputerCode JDUBB1.JDUBB!
 Path 2 (JDUBB1.JDUBB) contains origin airport IAD!
 Path 2 (JDUBB1.JDUBB) contains connecting token JDUBB!
-sidTwoPathRoute: HAFNR [JDUBB] JDUBB CASLY MELTN SBV 
+sidTwoPathRoute: HAFNR JDUBB CASLY MELTN SBV 
 
 ProcessSid(sidCollection, IAH, RITAA5, PSX)
 
@@ -8872,7 +8872,7 @@ Path 3 (RITAA5.PSX) contains dpComputerCode RITAA5.PSX!
 Path 0 (RITAA5.RITAA) contains connecting dpComputerCode RITAA5.RITAA!
 Path 0 (RITAA5.RITAA) contains origin airport IAH!
 Path 0 (RITAA5.RITAA) contains connecting token RITAA!
-sidTwoPathRoute: BOTLL FLYZA WINEO [RITAA] RITAA SKUBA PSX 
+sidTwoPathRoute: BOTLL FLYZA WINEO RITAA SKUBA PSX 
 
 ProcessSid(sidCollection, IAH, PITZZ4, CRGER)
 
@@ -8894,7 +8894,7 @@ Path 2 (PITZZ4.CRGER) contains dpComputerCode PITZZ4.CRGER!
 Path 0 (PITZZ4.PITZZ) contains connecting dpComputerCode PITZZ4.PITZZ!
 Path 0 (PITZZ4.PITZZ) contains origin airport IAH!
 Path 0 (PITZZ4.PITZZ) contains connecting token PITZZ!
-sidTwoPathRoute: RODKL [PITZZ] PITZZ CUZZZ ZUUUU PUFER PSTUR CRGER 
+sidTwoPathRoute: RODKL PITZZ CUZZZ ZUUUU PUFER PSTUR CRGER 
 
 ProcessSid(sidCollection, IAH, STYCK5, DOLEY)
 
@@ -8912,7 +8912,7 @@ Path 1 (STYCK5.DOLEY) contains dpComputerCode STYCK5.DOLEY!
 Path 0 (STYCK5.STYCK) contains connecting dpComputerCode STYCK5.STYCK!
 Path 0 (STYCK5.STYCK) contains origin airport IAH!
 Path 0 (STYCK5.STYCK) contains connecting token STYCK!
-sidTwoPathRoute: BBYSE SPICR WLLIS [STYCK] STYCK DOLEY 
+sidTwoPathRoute: BBYSE SPICR WLLIS STYCK DOLEY 
 
 ProcessSid(sidCollection, IAH, BNDTO5, CRGER)
 
@@ -8934,7 +8934,7 @@ Path 2 (BNDTO5.CRGER) contains dpComputerCode BNDTO5.CRGER!
 Path 0 (BNDTO5.BNDTO) contains connecting dpComputerCode BNDTO5.BNDTO!
 Path 0 (BNDTO5.BNDTO) contains origin airport IAH!
 Path 0 (BNDTO5.BNDTO) contains connecting token BNDTO!
-sidTwoPathRoute: SCAMM SHAAK [BNDTO] BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER 
+sidTwoPathRoute: SCAMM SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER 
 
 ProcessSid(sidCollection, IAH, HOODO5, BOWFN)
 
@@ -8955,7 +8955,7 @@ Path 1 (HOODO5.BOWFN) contains dpComputerCode HOODO5.BOWFN!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport IAH!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN 
 
 ProcessSid(sidCollection, IAH, GUMBY3, LCH)
 
@@ -8977,7 +8977,7 @@ Path 3 (GUMBY3.LCH) contains dpComputerCode GUMBY3.LCH!
 Path 0 (GUMBY3.GUMBY) contains connecting dpComputerCode GUMBY3.GUMBY!
 Path 0 (GUMBY3.GUMBY) contains origin airport IAH!
 Path 0 (GUMBY3.GUMBY) contains connecting token GUMBY!
-sidTwoPathRoute: CRTMN DWSUN [GUMBY] GUMBY HOURN BLING LCH 
+sidTwoPathRoute: CRTMN DWSUN GUMBY HOURN BLING LCH 
 
 ProcessSid(sidCollection, IAH, STRYA5, STRYA)
 
@@ -9009,7 +9009,7 @@ Path 3 (MMUGS4.LCH) contains dpComputerCode MMUGS4.LCH!
 Path 0 (MMUGS4.MMUGS) contains connecting dpComputerCode MMUGS4.MMUGS!
 Path 0 (MMUGS4.MMUGS) contains origin airport IAH!
 Path 0 (MMUGS4.MMUGS) contains connecting token MMUGS!
-sidTwoPathRoute: BOTLL [MMUGS] MMUGS MMALT HOURN BLING LCH 
+sidTwoPathRoute: BOTLL MMUGS MMALT HOURN BLING LCH 
 
 ProcessSid(sidCollection, IAH, STYCK5, WTSON)
 
@@ -9028,7 +9028,7 @@ Path 2 (STYCK5.WTSON) contains dpComputerCode STYCK5.WTSON!
 Path 0 (STYCK5.STYCK) contains connecting dpComputerCode STYCK5.STYCK!
 Path 0 (STYCK5.STYCK) contains origin airport IAH!
 Path 0 (STYCK5.STYCK) contains connecting token STYCK!
-sidTwoPathRoute: BBYSE SPICR WLLIS [STYCK] STYCK WTSON 
+sidTwoPathRoute: BBYSE SPICR WLLIS STYCK WTSON 
 
 ProcessSid(sidCollection, IAH, LURIC5, HAWES)
 
@@ -9046,7 +9046,7 @@ Path 1 (LURIC5.HAWES) contains dpComputerCode LURIC5.HAWES!
 Path 0 (LURIC5.LURIC) contains connecting dpComputerCode LURIC5.LURIC!
 Path 0 (LURIC5.LURIC) contains origin airport IAH!
 Path 0 (LURIC5.LURIC) contains connecting token LURIC!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY [LURIC] LURIC HAWES 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES 
 
 ProcessSid(sidCollection, IAH, HOODO5, LEV)
 
@@ -9070,7 +9070,7 @@ Path 4 (HOODO5.LEV) contains dpComputerCode HOODO5.LEV!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport IAH!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN LEV 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN LEV 
 
 ProcessSid(sidCollection, IAH, LURIC5, ORRTH)
 
@@ -9089,7 +9089,7 @@ Path 2 (LURIC5.ORRTH) contains dpComputerCode LURIC5.ORRTH!
 Path 0 (LURIC5.LURIC) contains connecting dpComputerCode LURIC5.LURIC!
 Path 0 (LURIC5.LURIC) contains origin airport IAH!
 Path 0 (LURIC5.LURIC) contains connecting token LURIC!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY [LURIC] LURIC ORRTH 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH 
 
 ProcessSid(sidCollection, IAH, RITAA5, WWREN)
 
@@ -9115,7 +9115,7 @@ Path 5 (RITAA5.WWREN) contains dpComputerCode RITAA5.WWREN!
 Path 0 (RITAA5.RITAA) contains connecting dpComputerCode RITAA5.RITAA!
 Path 0 (RITAA5.RITAA) contains origin airport IAH!
 Path 0 (RITAA5.RITAA) contains connecting token RITAA!
-sidTwoPathRoute: BOTLL FLYZA WINEO [RITAA] RITAA RIIGG WWREN 
+sidTwoPathRoute: BOTLL FLYZA WINEO RITAA RIIGG WWREN 
 
 ProcessSid(sidCollection, IAH, STRYA5, JBULL)
 
@@ -9134,7 +9134,7 @@ Path 2 (STRYA5.JBULL) contains dpComputerCode STRYA5.JBULL!
 Path 0 (STRYA5.STRYA) contains connecting dpComputerCode STRYA5.STRYA!
 Path 0 (STRYA5.STRYA) contains origin airport IAH!
 Path 0 (STRYA5.STRYA) contains connecting token STRYA!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN [STRYA] STRYA JBULL 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL 
 
 ProcessSid(sidCollection, IAH, HOODO5, HRV)
 
@@ -9157,7 +9157,7 @@ Path 3 (HOODO5.HRV) contains dpComputerCode HOODO5.HRV!
 Path 0 (HOODO5.HOODO) contains connecting dpComputerCode HOODO5.HOODO!
 Path 0 (HOODO5.HOODO) contains origin airport IAH!
 Path 0 (HOODO5.HOODO) contains connecting token HOODO!
-sidTwoPathRoute: VUH [HOODO] HOODO SBIRD CFOOD BOWFN HRV 
+sidTwoPathRoute: VUH HOODO SBIRD CFOOD BOWFN HRV 
 
 ProcessSid(sidCollection, IAH, PITZZ4, MNURE)
 
@@ -9180,7 +9180,7 @@ Path 3 (PITZZ4.MNURE) contains dpComputerCode PITZZ4.MNURE!
 Path 0 (PITZZ4.PITZZ) contains connecting dpComputerCode PITZZ4.PITZZ!
 Path 0 (PITZZ4.PITZZ) contains origin airport IAH!
 Path 0 (PITZZ4.PITZZ) contains connecting token PITZZ!
-sidTwoPathRoute: RODKL [PITZZ] PITZZ GRZIA CHATI BOCCK MNURE 
+sidTwoPathRoute: RODKL PITZZ GRZIA CHATI BOCCK MNURE 
 
 ProcessSid(sidCollection, IAH, BNDTO5, MNURE)
 
@@ -9203,7 +9203,7 @@ Path 3 (BNDTO5.MNURE) contains dpComputerCode BNDTO5.MNURE!
 Path 0 (BNDTO5.BNDTO) contains connecting dpComputerCode BNDTO5.BNDTO!
 Path 0 (BNDTO5.BNDTO) contains origin airport IAH!
 Path 0 (BNDTO5.BNDTO) contains connecting token BNDTO!
-sidTwoPathRoute: SCAMM SHAAK [BNDTO] BNDTO FFOAM BOCCK MNURE 
+sidTwoPathRoute: SCAMM SHAAK BNDTO FFOAM BOCCK MNURE 
 
 ProcessSid(sidCollection, IAH, GUMBY3, GUSTI)
 
@@ -9224,7 +9224,7 @@ Path 2 (GUMBY3.GUSTI) contains dpComputerCode GUMBY3.GUSTI!
 Path 0 (GUMBY3.GUMBY) contains connecting dpComputerCode GUMBY3.GUMBY!
 Path 0 (GUMBY3.GUMBY) contains origin airport IAH!
 Path 0 (GUMBY3.GUMBY) contains connecting token GUMBY!
-sidTwoPathRoute: CRTMN DWSUN [GUMBY] GUMBY JAAYE SPINY GUSTI 
+sidTwoPathRoute: CRTMN DWSUN GUMBY JAAYE SPINY GUSTI 
 
 ProcessSid(sidCollection, IAH, MMUGS4, GUSTI)
 
@@ -9245,7 +9245,7 @@ Path 2 (MMUGS4.GUSTI) contains dpComputerCode MMUGS4.GUSTI!
 Path 0 (MMUGS4.MMUGS) contains connecting dpComputerCode MMUGS4.MMUGS!
 Path 0 (MMUGS4.MMUGS) contains origin airport IAH!
 Path 0 (MMUGS4.MMUGS) contains connecting token MMUGS!
-sidTwoPathRoute: BOTLL [MMUGS] MMUGS HHOPS JAAYE SPINY GUSTI 
+sidTwoPathRoute: BOTLL MMUGS HHOPS JAAYE SPINY GUSTI 
 
 ProcessSid(sidCollection, IAH, STRYA5, DPATY)
 
@@ -9263,7 +9263,7 @@ Path 1 (STRYA5.DPATY) contains dpComputerCode STRYA5.DPATY!
 Path 0 (STRYA5.STRYA) contains connecting dpComputerCode STRYA5.STRYA!
 Path 0 (STRYA5.STRYA) contains origin airport IAH!
 Path 0 (STRYA5.STRYA) contains connecting token STRYA!
-sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN [STRYA] STRYA DPATY 
+sidTwoPathRoute: KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY 
 
 ProcessSid(sidCollection, IAH, INDIE5, TPAKK)
 
@@ -9280,7 +9280,7 @@ Path 1 (INDIE5.TPAKK) contains dpComputerCode INDIE5.TPAKK!
 Path 0 (INDIE5.INDIE) contains connecting dpComputerCode INDIE5.INDIE!
 Path 0 (INDIE5.INDIE) contains origin airport IAH!
 Path 0 (INDIE5.INDIE) contains connecting token INDIE!
-sidTwoPathRoute: RENNK COLET SUSHI WWELL [INDIE] INDIE TPAKK 
+sidTwoPathRoute: RENNK COLET SUSHI WWELL INDIE TPAKK 
 
 ProcessSid(sidCollection, IAH, RITAA5, NGP)
 
@@ -9305,7 +9305,7 @@ Path 4 (RITAA5.NGP) contains dpComputerCode RITAA5.NGP!
 Path 0 (RITAA5.RITAA) contains connecting dpComputerCode RITAA5.RITAA!
 Path 0 (RITAA5.RITAA) contains origin airport IAH!
 Path 0 (RITAA5.RITAA) contains connecting token RITAA!
-sidTwoPathRoute: BOTLL FLYZA WINEO [RITAA] RITAA RIIGG NGP 
+sidTwoPathRoute: BOTLL FLYZA WINEO RITAA RIIGG NGP 
 
 ProcessSid(sidCollection, IAH, PITZZ4, SAT)
 
@@ -9329,7 +9329,7 @@ Path 4 (PITZZ4.SAT) contains dpComputerCode PITZZ4.SAT!
 Path 0 (PITZZ4.PITZZ) contains connecting dpComputerCode PITZZ4.PITZZ!
 Path 0 (PITZZ4.PITZZ) contains origin airport IAH!
 Path 0 (PITZZ4.PITZZ) contains connecting token PITZZ!
-sidTwoPathRoute: RODKL [PITZZ] PITZZ GRZIA CHATI BOCCK MNURE MARCS SAT 
+sidTwoPathRoute: RODKL PITZZ GRZIA CHATI BOCCK MNURE MARCS SAT 
 
 ProcessSid(sidCollection, IAH, BNDTO5, SAT)
 
@@ -9353,7 +9353,7 @@ Path 4 (BNDTO5.SAT) contains dpComputerCode BNDTO5.SAT!
 Path 0 (BNDTO5.BNDTO) contains connecting dpComputerCode BNDTO5.BNDTO!
 Path 0 (BNDTO5.BNDTO) contains origin airport IAH!
 Path 0 (BNDTO5.BNDTO) contains connecting token BNDTO!
-sidTwoPathRoute: SCAMM SHAAK [BNDTO] BNDTO FFOAM BOCCK MNURE MARCS SAT 
+sidTwoPathRoute: SCAMM SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT 
 
 ProcessSid(sidCollection, IAH, WYLSN5, MAJKK)
 
@@ -9392,7 +9392,7 @@ Path 1 (BLTWY4.CRIED) contains dpComputerCode BLTWY4.CRIED!
 Path 0 (BLTWY4.BLTWY) contains connecting dpComputerCode BLTWY4.BLTWY!
 Path 0 (BLTWY4.BLTWY) contains origin airport IAH!
 Path 0 (BLTWY4.BLTWY) contains connecting token BLTWY!
-sidTwoPathRoute: DREMR LITLD [BLTWY] BLTWY CRIED 
+sidTwoPathRoute: DREMR LITLD BLTWY CRIED 
 
 ProcessSid(sidCollection, IAH, LURIC5, LURIC)
 
@@ -9425,7 +9425,7 @@ Path 4 (GUMBY3.LLA) contains dpComputerCode GUMBY3.LLA!
 Path 0 (GUMBY3.GUMBY) contains connecting dpComputerCode GUMBY3.GUMBY!
 Path 0 (GUMBY3.GUMBY) contains origin airport IAH!
 Path 0 (GUMBY3.GUMBY) contains connecting token GUMBY!
-sidTwoPathRoute: CRTMN DWSUN [GUMBY] GUMBY YOKEM SBI LLA 
+sidTwoPathRoute: CRTMN DWSUN GUMBY YOKEM SBI LLA 
 
 ProcessSid(sidCollection, IAH, MMUGS4, LLA)
 
@@ -9448,7 +9448,7 @@ Path 4 (MMUGS4.LLA) contains dpComputerCode MMUGS4.LLA!
 Path 0 (MMUGS4.MMUGS) contains connecting dpComputerCode MMUGS4.MMUGS!
 Path 0 (MMUGS4.MMUGS) contains origin airport IAH!
 Path 0 (MMUGS4.MMUGS) contains connecting token MMUGS!
-sidTwoPathRoute: BOTLL [MMUGS] MMUGS GRAYN YOKEM SBI LLA 
+sidTwoPathRoute: BOTLL MMUGS GRAYN YOKEM SBI LLA 
 
 ProcessSid(sidCollection, IAH, FLYZA5, KELPP)
 ****INFO: Origin Airport KIAH and/or Destination Airport MGGT is not in the US!
@@ -9505,7 +9505,7 @@ Path 5 (PITZZ4.WAILN) contains dpComputerCode PITZZ4.WAILN!
 Path 0 (PITZZ4.PITZZ) contains connecting dpComputerCode PITZZ4.PITZZ!
 Path 0 (PITZZ4.PITZZ) contains origin airport IAH!
 Path 0 (PITZZ4.PITZZ) contains connecting token PITZZ!
-sidTwoPathRoute: RODKL [PITZZ] PITZZ MNNKE WEEED WAILN 
+sidTwoPathRoute: RODKL PITZZ MNNKE WEEED WAILN 
 
 ProcessSid(sidCollection, IAH, BNDTO5, WAILN)
 
@@ -9530,7 +9530,7 @@ Path 5 (BNDTO5.WAILN) contains dpComputerCode BNDTO5.WAILN!
 Path 0 (BNDTO5.BNDTO) contains connecting dpComputerCode BNDTO5.BNDTO!
 Path 0 (BNDTO5.BNDTO) contains origin airport IAH!
 Path 0 (BNDTO5.BNDTO) contains connecting token BNDTO!
-sidTwoPathRoute: SCAMM SHAAK [BNDTO] BNDTO BAAKE WEEED WAILN 
+sidTwoPathRoute: SCAMM SHAAK BNDTO BAAKE WEEED WAILN 
 
 ProcessSid(sidCollection, IND, MAREO4, BDOCK)
 
@@ -9547,7 +9547,7 @@ Path 1 (MAREO4.BDOCK) contains dpComputerCode MAREO4.BDOCK!
 Path 0 (MAREO4.MAREO) contains connecting dpComputerCode MAREO4.MAREO!
 Path 0 (MAREO4.MAREO) contains origin airport IND!
 Path 0 (MAREO4.MAREO) contains connecting token MAREO!
-sidTwoPathRoute: [MAREO] MAREO BDOCK 
+sidTwoPathRoute: MAREO BDOCK 
 
 ProcessSid(sidCollection, IND, DAWNN9, MYS)
 
@@ -9568,7 +9568,7 @@ Path 3 (DAWNN9.MYS) contains dpComputerCode DAWNN9.MYS!
 Path 0 (DAWNN9.DAWNN) contains connecting dpComputerCode DAWNN9.DAWNN!
 Path 0 (DAWNN9.DAWNN) contains origin airport IND!
 Path 0 (DAWNN9.DAWNN) contains connecting token DAWNN!
-sidTwoPathRoute: [DAWNN] DAWNN MYS 
+sidTwoPathRoute: DAWNN MYS 
 
 ProcessSid(sidCollection, IND, ROCKY9, STL)
 
@@ -9587,7 +9587,7 @@ Path 2 (ROCKY9.STL) contains dpComputerCode ROCKY9.STL!
 Path 0 (ROCKY9.ROCKY) contains connecting dpComputerCode ROCKY9.ROCKY!
 Path 0 (ROCKY9.ROCKY) contains origin airport IND!
 Path 0 (ROCKY9.ROCKY) contains connecting token ROCKY!
-sidTwoPathRoute: TTH [ROCKY] ROCKY STL 
+sidTwoPathRoute: TTH ROCKY STL 
 
 ProcessSid(sidCollection, IND, OOM4, PXV)
 
@@ -9606,7 +9606,7 @@ Path 2 (OOM4.PXV) contains dpComputerCode OOM4.PXV!
 Path 0 (OOM4.OOM) contains connecting dpComputerCode OOM4.OOM!
 Path 0 (OOM4.OOM) contains origin airport IND!
 Path 0 (OOM4.OOM) contains connecting token OOM!
-sidTwoPathRoute: [OOM] OOM WEGEE PXV 
+sidTwoPathRoute: OOM WEGEE PXV 
 
 ProcessSid(sidCollection, IND, DAWNN9, IIU)
 
@@ -9626,7 +9626,7 @@ Path 2 (DAWNN9.IIU) contains dpComputerCode DAWNN9.IIU!
 Path 0 (DAWNN9.DAWNN) contains connecting dpComputerCode DAWNN9.DAWNN!
 Path 0 (DAWNN9.DAWNN) contains origin airport IND!
 Path 0 (DAWNN9.DAWNN) contains connecting token DAWNN!
-sidTwoPathRoute: [DAWNN] DAWNN IIU 
+sidTwoPathRoute: DAWNN IIU 
 
 ProcessSid(sidCollection, IND, MAREO4, MAREO)
 
@@ -9655,7 +9655,7 @@ Path 1 (DAWNN9.BWG) contains dpComputerCode DAWNN9.BWG!
 Path 0 (DAWNN9.DAWNN) contains connecting dpComputerCode DAWNN9.DAWNN!
 Path 0 (DAWNN9.DAWNN) contains origin airport IND!
 Path 0 (DAWNN9.DAWNN) contains connecting token DAWNN!
-sidTwoPathRoute: [DAWNN] DAWNN BWG 
+sidTwoPathRoute: DAWNN BWG 
 
 ProcessSid(sidCollection, IND, MEARZ5, BVT)
 
@@ -9674,7 +9674,7 @@ Path 1 (MEARZ5.BVT) contains dpComputerCode MEARZ5.BVT!
 Path 0 (MEARZ5.MEARZ) contains connecting dpComputerCode MEARZ5.MEARZ!
 Path 0 (MEARZ5.MEARZ) contains origin airport IND!
 Path 0 (MEARZ5.MEARZ) contains connecting token MEARZ!
-sidTwoPathRoute: [MEARZ] MEARZ BVT 
+sidTwoPathRoute: MEARZ BVT 
 
 ProcessSid(sidCollection, IND, ROCKY9, SPI)
 
@@ -9692,7 +9692,7 @@ Path 1 (ROCKY9.SPI) contains dpComputerCode ROCKY9.SPI!
 Path 0 (ROCKY9.ROCKY) contains connecting dpComputerCode ROCKY9.ROCKY!
 Path 0 (ROCKY9.ROCKY) contains origin airport IND!
 Path 0 (ROCKY9.ROCKY) contains connecting token ROCKY!
-sidTwoPathRoute: TTH [ROCKY] ROCKY SPI 
+sidTwoPathRoute: TTH ROCKY SPI 
 
 ProcessSid(sidCollection, IXD, RACER6, SGF)
 
@@ -9713,7 +9713,7 @@ Path 3 (RACER6.SGF) contains dpComputerCode RACER6.SGF!
 Path 0 (RACER6.MCI) contains connecting dpComputerCode RACER6.MCI!
 Path 0 (RACER6.MCI) contains origin airport IXD!
 Path 0 (RACER6.MCI) contains connecting token MCI!
-sidTwoPathRoute: %IXD% $MKC$ $STJ$ $OJC$ [$MCI$] MCI GRILD BUM SGF >>> is this ((IXD MCI GRILD BUM SGF))?
+sidTwoPathRoute: IXD MCI GRILD BUM SGF 
 
 ProcessSid(sidCollection, JFK, DEEZZ4, CANDR)
 
@@ -9755,7 +9755,7 @@ Path 1 (CARYN4.CYBIL) contains dpComputerCode CARYN4.CYBIL!
 Path 0 (CARYN4.CARYN) contains connecting dpComputerCode CARYN4.CARYN!
 Path 0 (CARYN4.CARYN) contains origin airport LOT!
 Path 0 (CARYN4.CARYN) contains connecting token CARYN!
-sidTwoPathRoute: CMSKY [CARYN] CARYN CYBIL 
+sidTwoPathRoute: CMSKY CARYN CYBIL 
 
 ProcessSid(sidCollection, LOT, DARCY4, SCOTO)
 
@@ -9774,7 +9774,7 @@ Path 2 (DARCY4.SCOTO) contains dpComputerCode DARCY4.SCOTO!
 Path 0 (DARCY4.DARCY) contains connecting dpComputerCode DARCY4.DARCY!
 Path 0 (DARCY4.DARCY) contains origin airport LOT!
 Path 0 (DARCY4.DARCY) contains connecting token DARCY!
-sidTwoPathRoute: DENNT [DARCY] DARCY DREGS DUMGE SCOTO 
+sidTwoPathRoute: DENNT DARCY DREGS DUMGE SCOTO 
 
 ProcessSid(sidCollection, LOT, BLOKR4, RBS)
 
@@ -9810,7 +9810,7 @@ Path 1 (ELANR4.EMEGE) contains dpComputerCode ELANR4.EMEGE!
 Path 0 (ELANR4.ELANR) contains connecting dpComputerCode ELANR4.ELANR!
 Path 0 (ELANR4.ELANR) contains origin airport LOT!
 Path 0 (ELANR4.ELANR) contains connecting token ELANR!
-sidTwoPathRoute: EARND [ELANR] ELANR EMMLY ETAME EMEGE 
+sidTwoPathRoute: EARND ELANR EMMLY ETAME EMEGE 
 
 ProcessSid(sidCollection, LOT, ELANR4, EMMLY)
 
@@ -9830,7 +9830,7 @@ Path 2 (ELANR4.EMMLY) contains dpComputerCode ELANR4.EMMLY!
 Path 0 (ELANR4.ELANR) contains connecting dpComputerCode ELANR4.ELANR!
 Path 0 (ELANR4.ELANR) contains origin airport LOT!
 Path 0 (ELANR4.ELANR) contains connecting token ELANR!
-sidTwoPathRoute: EARND [ELANR] ELANR EMMLY 
+sidTwoPathRoute: EARND ELANR EMMLY 
 
 ProcessSid(sidCollection, MCI, CHIEF6, STJ)
 
@@ -9849,7 +9849,7 @@ Path 2 (CHIEF6.STJ) contains dpComputerCode CHIEF6.STJ!
 Path 0 (CHIEF6.MCI) contains connecting dpComputerCode CHIEF6.MCI!
 Path 0 (CHIEF6.MCI) contains origin airport MCI!
 Path 0 (CHIEF6.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI STJ 
+sidTwoPathRoute: MCI STJ 
 
 ProcessSid(sidCollection, MCI, LAKES1, COU)
 
@@ -9868,7 +9868,7 @@ Path 1 (LAKES1.COU) contains dpComputerCode LAKES1.COU!
 Path 0 (LAKES1.MCI) contains connecting dpComputerCode LAKES1.MCI!
 Path 0 (LAKES1.MCI) contains origin airport MCI!
 Path 0 (LAKES1.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI ANX OCTAM FRANC HUCKS COU 
+sidTwoPathRoute: MCI ANX OCTAM FRANC HUCKS COU 
 
 ProcessSid(sidCollection, MCI, RACER6, BUM)
 
@@ -9887,7 +9887,7 @@ Path 1 (RACER6.BUM) contains dpComputerCode RACER6.BUM!
 Path 0 (RACER6.MCI) contains connecting dpComputerCode RACER6.MCI!
 Path 0 (RACER6.MCI) contains origin airport MCI!
 Path 0 (RACER6.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI GRILD BUM 
+sidTwoPathRoute: MCI GRILD BUM 
 
 ProcessSid(sidCollection, MCI, ROYAL8, TONCE)
 
@@ -9908,7 +9908,7 @@ Path 3 (ROYAL8.TONCE) contains dpComputerCode ROYAL8.TONCE!
 Path 0 (ROYAL8.MCI) contains connecting dpComputerCode ROYAL8.MCI!
 Path 0 (ROYAL8.MCI) contains origin airport MCI!
 Path 0 (ROYAL8.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI JDOGG TONCE 
+sidTwoPathRoute: MCI JDOGG TONCE 
 
 ProcessSid(sidCollection, MCI, ROYAL8, BODYN)
 
@@ -9928,7 +9928,7 @@ Path 2 (ROYAL8.BODYN) contains dpComputerCode ROYAL8.BODYN!
 Path 0 (ROYAL8.MCI) contains connecting dpComputerCode ROYAL8.MCI!
 Path 0 (ROYAL8.MCI) contains origin airport MCI!
 Path 0 (ROYAL8.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI CAYKO JTHRO ARENZ BODYN 
+sidTwoPathRoute: MCI CAYKO JTHRO ARENZ BODYN 
 
 ProcessSid(sidCollection, MCI, RACER6, SGF)
 
@@ -9949,7 +9949,7 @@ Path 3 (RACER6.SGF) contains dpComputerCode RACER6.SGF!
 Path 0 (RACER6.MCI) contains connecting dpComputerCode RACER6.MCI!
 Path 0 (RACER6.MCI) contains origin airport MCI!
 Path 0 (RACER6.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI GRILD BUM SGF 
+sidTwoPathRoute: MCI GRILD BUM SGF 
 
 ProcessSid(sidCollection, MCI, LAKES1, TWAIN)
 
@@ -9970,7 +9970,7 @@ Path 3 (LAKES1.TWAIN) contains dpComputerCode LAKES1.TWAIN!
 Path 0 (LAKES1.MCI) contains connecting dpComputerCode LAKES1.MCI!
 Path 0 (LAKES1.MCI) contains origin airport MCI!
 Path 0 (LAKES1.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ $MKC$ $STJ$ $OJC$ [$MCI$] MCI BLUZY TWAIN 
+sidTwoPathRoute: MCI BLUZY TWAIN 
 
 ProcessSid(sidCollection, MCO, MCOY1, SAV)
 
@@ -9987,7 +9987,7 @@ Path 1 (MCOY1.SAV) contains dpComputerCode MCOY1.SAV!
 Path 0 (MCOY1.ORL) contains connecting dpComputerCode MCOY1.ORL!
 Path 0 (MCOY1.ORL) contains origin airport MCO!
 Path 0 (MCOY1.ORL) contains connecting token ORL!
-sidTwoPathRoute: [ORL] ORL GUANO CRG VIYAP SAV 
+sidTwoPathRoute: ORL GUANO CRG VIYAP SAV 
 
 ProcessSid(sidCollection, MCO, JAG5, VQQ)
 
@@ -10142,7 +10142,7 @@ Path 4 (PIEPE4.IBUFY) contains dpComputerCode PIEPE4.IBUFY!
 Path 0 (PIEPE4.PIEPE) contains connecting dpComputerCode PIEPE4.PIEPE!
 Path 0 (PIEPE4.PIEPE) contains origin airport MEM!
 Path 0 (PIEPE4.PIEPE) contains connecting token PIEPE!
-sidTwoPathRoute: BEBIE [PIEPE] PIEPE IBUFY 
+sidTwoPathRoute: BEBIE PIEPE IBUFY 
 
 ProcessSid(sidCollection, MEM, JTEEE4, JTEEE)
 
@@ -10173,7 +10173,7 @@ Path 3 (BBKNG5.KERMI) contains dpComputerCode BBKNG5.KERMI!
 Path 0 (BBKNG5.BBKNG) contains connecting dpComputerCode BBKNG5.BBKNG!
 Path 0 (BBKNG5.BBKNG) contains origin airport MEM!
 Path 0 (BBKNG5.BBKNG) contains connecting token BBKNG!
-sidTwoPathRoute: LEOOO [BBKNG] BBKNG KERMI 
+sidTwoPathRoute: LEOOO BBKNG KERMI 
 
 ProcessSid(sidCollection, MEM, CRSON5, HUMMS)
 
@@ -10194,7 +10194,7 @@ Path 3 (CRSON5.HUMMS) contains dpComputerCode CRSON5.HUMMS!
 Path 0 (CRSON5.CRSON) contains connecting dpComputerCode CRSON5.CRSON!
 Path 0 (CRSON5.CRSON) contains origin airport MEM!
 Path 0 (CRSON5.CRSON) contains connecting token CRSON!
-sidTwoPathRoute: RIBZZ HENIR WRRTZ WADEE DALGE LYZZI [CRSON] CRSON HUMMS 
+sidTwoPathRoute: RIBZZ HENIR WRRTZ WADEE DALGE LYZZI CRSON HUMMS 
 
 ProcessSid(sidCollection, MEM, GOETZ5, GOETZ)
 
@@ -10225,7 +10225,7 @@ Path 3 (CHLDR4.ANSWA) contains dpComputerCode CHLDR4.ANSWA!
 Path 0 (CHLDR4.CHLDR) contains connecting dpComputerCode CHLDR4.CHLDR!
 Path 0 (CHLDR4.CHLDR) contains origin airport MEM!
 Path 0 (CHLDR4.CHLDR) contains connecting token CHLDR!
-sidTwoPathRoute: BEEAL PRYMD RICKX PEPOC [CHLDR] CHLDR ANSWA 
+sidTwoPathRoute: BEEAL PRYMD RICKX PEPOC CHLDR ANSWA 
 
 ProcessSid(sidCollection, MEM, ZUMIT4, FOXOM)
 
@@ -10246,7 +10246,7 @@ Path 3 (ZUMIT4.FOXOM) contains dpComputerCode ZUMIT4.FOXOM!
 Path 0 (ZUMIT4.ZUMIT) contains connecting dpComputerCode ZUMIT4.ZUMIT!
 Path 0 (ZUMIT4.ZUMIT) contains origin airport MEM!
 Path 0 (ZUMIT4.ZUMIT) contains connecting token ZUMIT!
-sidTwoPathRoute: STVVV [ZUMIT] ZUMIT FOXOM 
+sidTwoPathRoute: STVVV ZUMIT FOXOM 
 
 ProcessSid(sidCollection, MEM, AZONE5, AZONE)
 
@@ -10275,7 +10275,7 @@ Path 1 (PPORT3.BAF) contains dpComputerCode PPORT3.BAF!
 Path 0 (PPORT3.PPORT) contains connecting dpComputerCode PPORT3.PPORT!
 Path 0 (PPORT3.PPORT) contains origin airport MHT!
 Path 0 (PPORT3.PPORT) contains connecting token PPORT!
-sidTwoPathRoute: RAYMY [PPORT] PPORT SHOEL RBELA COTEE BAF 
+sidTwoPathRoute: RAYMY PPORT SHOEL RBELA COTEE BAF 
 
 ProcessSid(sidCollection, MHT, PPORT3, CCC)
 
@@ -10295,7 +10295,7 @@ Path 2 (PPORT3.CCC) contains dpComputerCode PPORT3.CCC!
 Path 0 (PPORT3.PPORT) contains connecting dpComputerCode PPORT3.PPORT!
 Path 0 (PPORT3.PPORT) contains origin airport MHT!
 Path 0 (PPORT3.PPORT) contains connecting token PPORT!
-sidTwoPathRoute: RAYMY [PPORT] PPORT SHOEL RBELA JJIMY ORW CCC 
+sidTwoPathRoute: RAYMY PPORT SHOEL RBELA JJIMY ORW CCC 
 
 ProcessSid(sidCollection, MHT, PPORT3, NELIE)
 
@@ -10316,7 +10316,7 @@ Path 3 (PPORT3.NELIE) contains dpComputerCode PPORT3.NELIE!
 Path 0 (PPORT3.PPORT) contains connecting dpComputerCode PPORT3.PPORT!
 Path 0 (PPORT3.PPORT) contains origin airport MHT!
 Path 0 (PPORT3.PPORT) contains connecting token PPORT!
-sidTwoPathRoute: RAYMY [PPORT] PPORT SHOEL RBELA JJIMY NELIE 
+sidTwoPathRoute: RAYMY PPORT SHOEL RBELA JJIMY NELIE 
 
 ProcessSid(sidCollection, MKC, LAKES1, COU)
 
@@ -10335,7 +10335,7 @@ Path 1 (LAKES1.COU) contains dpComputerCode LAKES1.COU!
 Path 0 (LAKES1.MCI) contains connecting dpComputerCode LAKES1.MCI!
 Path 0 (LAKES1.MCI) contains origin airport MKC!
 Path 0 (LAKES1.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ %MKC% $STJ$ $OJC$ [$MCI$] MCI ANX OCTAM FRANC HUCKS COU >>> cannot verify
+sidTwoPathRoute: MKC MCI ANX OCTAM FRANC HUCKS COU 
 
 ProcessSid(sidCollection, MKC, RACER6, SGF)
 
@@ -10356,7 +10356,7 @@ Path 3 (RACER6.SGF) contains dpComputerCode RACER6.SGF!
 Path 0 (RACER6.MCI) contains connecting dpComputerCode RACER6.MCI!
 Path 0 (RACER6.MCI) contains origin airport MKC!
 Path 0 (RACER6.MCI) contains connecting token MCI!
-sidTwoPathRoute: $IXD$ %MKC% $STJ$ $OJC$ [$MCI$] MCI GRILD BUM SGF >>> same as above
+sidTwoPathRoute: MKC MCI GRILD BUM SGF 
 
 ProcessSid(sidCollection, MKE, UECKR4, SAMPL)
 
@@ -10375,7 +10375,7 @@ Path 2 (UECKR4.SAMPL) contains dpComputerCode UECKR4.SAMPL!
 Path 0 (UECKR4.UECKR) contains connecting dpComputerCode UECKR4.UECKR!
 Path 0 (UECKR4.UECKR) contains origin airport MKE!
 Path 0 (UECKR4.UECKR) contains connecting token UECKR!
-sidTwoPathRoute: PRFEC OZAUK MAULT [UECKR] UECKR SAMPL 
+sidTwoPathRoute: PRFEC OZAUK MAULT UECKR SAMPL 
 
 ProcessSid(sidCollection, MKE, UECKR4, DELHI)
 
@@ -10393,7 +10393,7 @@ Path 1 (UECKR4.DELHI) contains dpComputerCode UECKR4.DELHI!
 Path 0 (UECKR4.UECKR) contains connecting dpComputerCode UECKR4.UECKR!
 Path 0 (UECKR4.UECKR) contains origin airport MKE!
 Path 0 (UECKR4.UECKR) contains connecting token UECKR!
-sidTwoPathRoute: PRFEC OZAUK MAULT [UECKR] UECKR LADDI DELHI 
+sidTwoPathRoute: PRFEC OZAUK MAULT UECKR LADDI DELHI 
 
 ProcessSid(sidCollection, MKE, ACCRA3, ACCRA)
 
@@ -10420,7 +10420,7 @@ Path 1 (COULT6.DLL) contains dpComputerCode COULT6.DLL!
 Path 0 (COULT6.COULT) contains connecting dpComputerCode COULT6.COULT!
 Path 0 (COULT6.COULT) contains origin airport MSP!
 Path 0 (COULT6.COULT) contains connecting token COULT!
-sidTwoPathRoute: [COULT] COULT LMFRY DLL 
+sidTwoPathRoute: COULT LMFRY DLL 
 
 ProcessSid(sidCollection, MSP, ZMBRO7, ODI)
 
@@ -10437,7 +10437,7 @@ Path 1 (ZMBRO7.ODI) contains dpComputerCode ZMBRO7.ODI!
 Path 0 (ZMBRO7.ZMBRO) contains connecting dpComputerCode ZMBRO7.ZMBRO!
 Path 0 (ZMBRO7.ZMBRO) contains origin airport MSP!
 Path 0 (ZMBRO7.ZMBRO) contains connecting token ZMBRO!
-sidTwoPathRoute: JEDET [ZMBRO] ZMBRO ODI 
+sidTwoPathRoute: JEDET ZMBRO ODI 
 
 ProcessSid(sidCollection, MSP, SCHEP9, ONL)
 
@@ -10459,7 +10459,7 @@ Path 0 (SCHEP9.SCHEP) does NOT contain origin airport MSP!
 Path 1 (SCHEP9.SCHEP) contains connecting dpComputerCode SCHEP9.SCHEP!
 Path 1 (SCHEP9.SCHEP) contains origin airport MSP!
 Path 1 (SCHEP9.SCHEP) contains connecting token SCHEP!
-sidTwoPathRoute: [SCHEP] SCHEP OTG ONL 
+sidTwoPathRoute: SCHEP OTG ONL 
 
 ProcessSid(sidCollection, MSP, RST9, ALO)
 
@@ -10476,7 +10476,7 @@ Path 1 (RST9.ALO) contains dpComputerCode RST9.ALO!
 Path 0 (RST9.RST) contains connecting dpComputerCode RST9.RST!
 Path 0 (RST9.RST) contains origin airport MSP!
 Path 0 (RST9.RST) contains connecting token RST!
-sidTwoPathRoute: FGT FOBUG DOKTR CORDY [RST] RST ALO 
+sidTwoPathRoute: FGT FOBUG DOKTR CORDY RST ALO 
 
 ProcessSid(sidCollection, MSP, ORSKY1, OVR)
 
@@ -10499,7 +10499,7 @@ Path 0 (ORSKY1.ORSKY) does NOT contain origin airport MSP!
 Path 1 (ORSKY1.ORSKY) contains connecting dpComputerCode ORSKY1.ORSKY!
 Path 1 (ORSKY1.ORSKY) contains origin airport MSP!
 Path 1 (ORSKY1.ORSKY) contains connecting token ORSKY!
-sidTwoPathRoute: [ORSKY] ORSKY ONTIJ GOOLD SIMJI EYHUX TODDO OVR 
+sidTwoPathRoute: ORSKY ONTIJ GOOLD SIMJI EYHUX TODDO OVR 
 
 ProcessSid(sidCollection, MSP, DWN6, ABR)
 
@@ -10520,7 +10520,7 @@ Path 0 (DWN6.DWN) does NOT contain origin airport MSP!
 Path 1 (DWN6.DWN) contains connecting dpComputerCode DWN6.DWN!
 Path 1 (DWN6.DWN) contains origin airport MSP!
 Path 1 (DWN6.DWN) contains connecting token DWN!
-sidTwoPathRoute: [DWN] DWN ABR 
+sidTwoPathRoute: DWN ABR 
 
 ProcessSid(sidCollection, MSP, KBREW9, FAR)
 
@@ -10537,7 +10537,7 @@ Path 1 (KBREW9.FAR) contains dpComputerCode KBREW9.FAR!
 Path 0 (KBREW9.KBREW) contains connecting dpComputerCode KBREW9.KBREW!
 Path 0 (KBREW9.KBREW) contains origin airport MSP!
 Path 0 (KBREW9.KBREW) contains connecting token KBREW!
-sidTwoPathRoute: GEP [KBREW] KBREW FAR 
+sidTwoPathRoute: GEP KBREW FAR 
 
 ProcessSid(sidCollection, MSP, SCHEP9, SCHEP)
 
@@ -10566,7 +10566,7 @@ Path 1 (WLSTN7.GRB) contains dpComputerCode WLSTN7.GRB!
 Path 0 (WLSTN7.WLSTN) contains connecting dpComputerCode WLSTN7.WLSTN!
 Path 0 (WLSTN7.WLSTN) contains origin airport MSP!
 Path 0 (WLSTN7.WLSTN) contains connecting token WLSTN!
-sidTwoPathRoute: [WLSTN] WLSTN GRB 
+sidTwoPathRoute: WLSTN GRB 
 
 ProcessSid(sidCollection, MSP, ORSKY1, FOD)
 
@@ -10588,7 +10588,7 @@ Path 0 (ORSKY1.ORSKY) does NOT contain origin airport MSP!
 Path 1 (ORSKY1.ORSKY) contains connecting dpComputerCode ORSKY1.ORSKY!
 Path 1 (ORSKY1.ORSKY) contains origin airport MSP!
 Path 1 (ORSKY1.ORSKY) contains connecting token ORSKY!
-sidTwoPathRoute: [ORSKY] ORSKY FOD 
+sidTwoPathRoute: ORSKY FOD 
 
 ProcessSid(sidCollection, MSP, ORSKY1, ORSKY)
 
@@ -10623,7 +10623,7 @@ Path 0 (SCHEP9.SCHEP) does NOT contain origin airport MSP!
 Path 1 (SCHEP9.SCHEP) contains connecting dpComputerCode SCHEP9.SCHEP!
 Path 1 (SCHEP9.SCHEP) contains origin airport MSP!
 Path 1 (SCHEP9.SCHEP) contains connecting token SCHEP!
-sidTwoPathRoute: [SCHEP] SCHEP OTG OBH 
+sidTwoPathRoute: SCHEP OTG OBH 
 
 ProcessSid(sidCollection, MSP, RST9, RST)
 
@@ -10667,7 +10667,7 @@ Path 4 (FTHLS5.JNIPR) contains dpComputerCode FTHLS5.JNIPR!
 Path 0 (FTHLS5.FTHLS) contains connecting dpComputerCode FTHLS5.FTHLS!
 Path 0 (FTHLS5.FTHLS) contains origin airport PHX!
 Path 0 (FTHLS5.FTHLS) contains connecting token FTHLS!
-sidTwoPathRoute: SPRKY BROAK [FTHLS] FTHLS JNIPR 
+sidTwoPathRoute: SPRKY BROAK FTHLS JNIPR 
 
 ProcessSid(sidCollection, PHX, KATMN5, KATMN)
 
@@ -10702,7 +10702,7 @@ Path 5 (LALUZ5.SJN) contains dpComputerCode LALUZ5.SJN!
 Path 0 (LALUZ5.LALUZ) contains connecting dpComputerCode LALUZ5.LALUZ!
 Path 0 (LALUZ5.LALUZ) contains origin airport PHX!
 Path 0 (LALUZ5.LALUZ) contains connecting token LALUZ!
-sidTwoPathRoute: SPRKY FORPE [LALUZ] LALUZ SJN 
+sidTwoPathRoute: SPRKY FORPE LALUZ SJN 
 
 ProcessSid(sidCollection, PHX, YOTES5, YOOPR)
 
@@ -10727,7 +10727,7 @@ Path 5 (YOTES5.YOOPR) contains dpComputerCode YOTES5.YOOPR!
 Path 0 (YOTES5.YOTES) contains connecting dpComputerCode YOTES5.YOTES!
 Path 0 (YOTES5.YOTES) contains origin airport PHX!
 Path 0 (YOTES5.YOTES) contains connecting token YOTES!
-sidTwoPathRoute: SPRKY GOALY POCCK MRBIL [YOTES] YOTES YOOPR 
+sidTwoPathRoute: SPRKY GOALY POCCK MRBIL YOTES YOOPR 
 
 ProcessSid(sidCollection, PHX, IZZZO6, HRRBR)
 ****INFO: Origin Airport KPHX and/or Destination Airport PANC is not in the US!
@@ -10759,7 +10759,7 @@ Path 3 (LALUZ5.ABQ) contains dpComputerCode LALUZ5.ABQ!
 Path 0 (LALUZ5.LALUZ) contains connecting dpComputerCode LALUZ5.LALUZ!
 Path 0 (LALUZ5.LALUZ) contains origin airport PHX!
 Path 0 (LALUZ5.LALUZ) contains connecting token LALUZ!
-sidTwoPathRoute: SPRKY FORPE [LALUZ] LALUZ SJN ABQ 
+sidTwoPathRoute: SPRKY FORPE LALUZ SJN ABQ 
 
 ProcessSid(sidCollection, PHX, YOTES5, JARPA)
 
@@ -10783,7 +10783,7 @@ Path 4 (YOTES5.JARPA) contains dpComputerCode YOTES5.JARPA!
 Path 0 (YOTES5.YOTES) contains connecting dpComputerCode YOTES5.YOTES!
 Path 0 (YOTES5.YOTES) contains origin airport PHX!
 Path 0 (YOTES5.YOTES) contains connecting token YOTES!
-sidTwoPathRoute: SPRKY GOALY POCCK MRBIL [YOTES] YOTES JARPA 
+sidTwoPathRoute: SPRKY GOALY POCCK MRBIL YOTES JARPA 
 
 ProcessSid(sidCollection, PHX, FTHLS5, MAXXO)
 
@@ -10808,7 +10808,7 @@ Path 5 (FTHLS5.MAXXO) contains dpComputerCode FTHLS5.MAXXO!
 Path 0 (FTHLS5.FTHLS) contains connecting dpComputerCode FTHLS5.FTHLS!
 Path 0 (FTHLS5.FTHLS) contains origin airport PHX!
 Path 0 (FTHLS5.FTHLS) contains connecting token FTHLS!
-sidTwoPathRoute: SPRKY BROAK [FTHLS] FTHLS JNIPR JSSUA MAXXO 
+sidTwoPathRoute: SPRKY BROAK FTHLS JNIPR JSSUA MAXXO 
 
 ProcessSid(sidCollection, PHX, KATMN5, PHASE)
 
@@ -10829,7 +10829,7 @@ Path 3 (KATMN5.PHASE) contains dpComputerCode KATMN5.PHASE!
 Path 0 (KATMN5.KATMN) contains connecting dpComputerCode KATMN5.KATMN!
 Path 0 (KATMN5.KATMN) contains origin airport PHX!
 Path 0 (KATMN5.KATMN) contains connecting token KATMN!
-sidTwoPathRoute: SPRKY ECLPS [KATMN] KATMN BOXXR PHASE 
+sidTwoPathRoute: SPRKY ECLPS KATMN BOXXR PHASE 
 
 ProcessSid(sidCollection, PHX, FTHLS5, JSSUA)
 
@@ -10874,7 +10874,7 @@ Path 4 (SILOW4.RSK) contains dpComputerCode SILOW4.RSK!
 Path 0 (SILOW4.SILOW) contains connecting dpComputerCode SILOW4.SILOW!
 Path 0 (SILOW4.SILOW) contains origin airport PHX!
 Path 0 (SILOW4.SILOW) contains connecting token SILOW!
-sidTwoPathRoute: [SILOW] SILOW INW RSK 
+sidTwoPathRoute: SILOW INW RSK 
 
 ProcessSid(sidCollection, PHX, JUDTH6, MOHAK)
 
@@ -10895,7 +10895,7 @@ Path 3 (JUDTH6.MOHAK) contains dpComputerCode JUDTH6.MOHAK!
 Path 0 (JUDTH6.JUDTH) contains connecting dpComputerCode JUDTH6.JUDTH!
 Path 0 (JUDTH6.JUDTH) contains origin airport PHX!
 Path 0 (JUDTH6.JUDTH) contains connecting token JUDTH!
-sidTwoPathRoute: FUTEP AZCRD USEYE MASVE OAKLI GBN [JUDTH] JUDTH MOHAK 
+sidTwoPathRoute: FUTEP AZCRD USEYE MASVE OAKLI GBN JUDTH MOHAK 
 
 ProcessSid(sidCollection, PHX, MAYSA5, JKPOT)
 
@@ -10917,7 +10917,7 @@ Path 3 (MAYSA5.JKPOT) contains dpComputerCode MAYSA5.JKPOT!
 Path 0 (MAYSA5.MAYSA) contains connecting dpComputerCode MAYSA5.MAYSA!
 Path 0 (MAYSA5.MAYSA) contains origin airport PHX!
 Path 0 (MAYSA5.MAYSA) contains connecting token MAYSA!
-sidTwoPathRoute: SPRKY GOALY GOLDR ZEPER [MAYSA] MAYSA JKPOT 
+sidTwoPathRoute: SPRKY GOALY GOLDR ZEPER MAYSA JKPOT 
 
 ProcessSid(sidCollection, PHX, IZZZO6, MESSI)
 
@@ -10940,7 +10940,7 @@ Path 4 (IZZZO6.MESSI) contains dpComputerCode IZZZO6.MESSI!
 Path 0 (IZZZO6.IZZZO) contains connecting dpComputerCode IZZZO6.IZZZO!
 Path 0 (IZZZO6.IZZZO) contains origin airport PHX!
 Path 0 (IZZZO6.IZZZO) contains connecting token IZZZO!
-sidTwoPathRoute: FUTEP AZCRD USEYE MASVE KEENS [IZZZO] IZZZO MESSI 
+sidTwoPathRoute: FUTEP AZCRD USEYE MASVE KEENS IZZZO MESSI 
 
 ProcessSid(sidCollection, PHX, YOTES5, GCN)
 
@@ -10963,7 +10963,7 @@ Path 3 (YOTES5.GCN) contains dpComputerCode YOTES5.GCN!
 Path 0 (YOTES5.YOTES) contains connecting dpComputerCode YOTES5.YOTES!
 Path 0 (YOTES5.YOTES) contains origin airport PHX!
 Path 0 (YOTES5.YOTES) contains connecting token YOTES!
-sidTwoPathRoute: SPRKY GOALY POCCK MRBIL [YOTES] YOTES GCN 
+sidTwoPathRoute: SPRKY GOALY POCCK MRBIL YOTES GCN 
 
 ProcessSid(sidCollection, PHX, MAXXO3, CNX)
 
@@ -10982,7 +10982,7 @@ Path 2 (MAXXO3.CNX) contains dpComputerCode MAXXO3.CNX!
 Path 0 (MAXXO3.MAXXO) contains connecting dpComputerCode MAXXO3.MAXXO!
 Path 0 (MAXXO3.MAXXO) contains origin airport PHX!
 Path 0 (MAXXO3.MAXXO) contains connecting token MAXXO!
-sidTwoPathRoute: PXR BAYTA CHOPR GILAA ADYAN DRYHT [MAXXO] MAXXO CNX 
+sidTwoPathRoute: PXR BAYTA CHOPR GILAA ADYAN DRYHT MAXXO CNX 
 
 ProcessSid(sidCollection, PHX, FTHLS5, ABQ)
 
@@ -11005,7 +11005,7 @@ Path 3 (FTHLS5.ABQ) contains dpComputerCode FTHLS5.ABQ!
 Path 0 (FTHLS5.FTHLS) contains connecting dpComputerCode FTHLS5.FTHLS!
 Path 0 (FTHLS5.FTHLS) contains origin airport PHX!
 Path 0 (FTHLS5.FTHLS) contains connecting token FTHLS!
-sidTwoPathRoute: SPRKY BROAK [FTHLS] FTHLS JNIPR JSSUA ABQ 
+sidTwoPathRoute: SPRKY BROAK FTHLS JNIPR JSSUA ABQ 
 
 ProcessSid(sidCollection, PHX, TFD4, OLIIN)
 
@@ -11023,7 +11023,7 @@ Path 1 (TFD4.OLIIN) contains dpComputerCode TFD4.OLIIN!
 Path 0 (TFD4.TFD) contains connecting dpComputerCode TFD4.TFD!
 Path 0 (TFD4.TFD) contains origin airport PHX!
 Path 0 (TFD4.TFD) contains connecting token TFD!
-sidTwoPathRoute: [TFD] TFD PUSCH OLIIN 
+sidTwoPathRoute: TFD PUSCH OLIIN 
 
 ProcessSid(sidCollection, PHX, MAYSA5, ZEPER)
 
@@ -11065,7 +11065,7 @@ Path 2 (IZZZO6.BLH) contains dpComputerCode IZZZO6.BLH!
 Path 0 (IZZZO6.IZZZO) contains connecting dpComputerCode IZZZO6.IZZZO!
 Path 0 (IZZZO6.IZZZO) contains origin airport PHX!
 Path 0 (IZZZO6.IZZZO) contains connecting token IZZZO!
-sidTwoPathRoute: FUTEP AZCRD USEYE MASVE KEENS [IZZZO] IZZZO SALOM BLH 
+sidTwoPathRoute: FUTEP AZCRD USEYE MASVE KEENS IZZZO SALOM BLH 
 
 ProcessSid(sidCollection, PHX, SNOBL5, CARTL)
 
@@ -11090,7 +11090,7 @@ Path 3 (SNOBL5.CARTL) contains dpComputerCode SNOBL5.CARTL!
 Path 0 (SNOBL5.SNOBL) contains connecting dpComputerCode SNOBL5.SNOBL!
 Path 0 (SNOBL5.SNOBL) contains origin airport PHX!
 Path 0 (SNOBL5.SNOBL) contains connecting token SNOBL!
-sidTwoPathRoute: SPRKY GOALY QUAKY [SNOBL] SNOBL CARTL 
+sidTwoPathRoute: SPRKY GOALY QUAKY SNOBL CARTL 
 
 ProcessSid(sidCollection, PHX, SJN8, ABQ)
 
@@ -11107,7 +11107,7 @@ Path 1 (SJN8.ABQ) contains dpComputerCode SJN8.ABQ!
 Path 0 (SJN8.SJN) contains connecting dpComputerCode SJN8.SJN!
 Path 0 (SJN8.SJN) contains origin airport PHX!
 Path 0 (SJN8.SJN) contains connecting token SJN!
-sidTwoPathRoute: [SJN] SJN ABQ 
+sidTwoPathRoute: SJN ABQ 
 
 ProcessSid(sidCollection, PHX, MOBIE4, GBN)
 
@@ -11124,7 +11124,7 @@ Path 1 (MOBIE4.GBN) contains dpComputerCode MOBIE4.GBN!
 Path 0 (MOBIE4.MOBIE) contains connecting dpComputerCode MOBIE4.MOBIE!
 Path 0 (MOBIE4.MOBIE) contains origin airport PHX!
 Path 0 (MOBIE4.MOBIE) contains connecting token MOBIE!
-sidTwoPathRoute: [MOBIE] MOBIE GBN 
+sidTwoPathRoute: MOBIE GBN 
 
 ProcessSid(sidCollection, PTK, RID8, RID)
 
@@ -11153,7 +11153,7 @@ Path 2 (ERRTH6.ETG) contains dpComputerCode ERRTH6.ETG!
 Path 0 (ERRTH6.ERRTH) contains connecting dpComputerCode ERRTH6.ERRTH!
 Path 0 (ERRTH6.ERRTH) contains origin airport PTK!
 Path 0 (ERRTH6.ERRTH) contains connecting token ERRTH!
-sidTwoPathRoute: OCTAS [ERRTH] ERRTH CXR MIGET ETG 
+sidTwoPathRoute: OCTAS ERRTH CXR MIGET ETG 
 
 ProcessSid(sidCollection, PTK, MOONN8, JHW)
 
@@ -11171,7 +11171,7 @@ Path 1 (MOONN8.JHW) contains dpComputerCode MOONN8.JHW!
 Path 0 (MOONN8.MOONN) contains connecting dpComputerCode MOONN8.MOONN!
 Path 0 (MOONN8.MOONN) contains origin airport PTK!
 Path 0 (MOONN8.MOONN) contains connecting token MOONN!
-sidTwoPathRoute: [MOONN] MOONN BROKK BEWEL JHW 
+sidTwoPathRoute: MOONN BROKK BEWEL JHW 
 
 ProcessSid(sidCollection, PWK, MONKZ3, ERECO)
 
@@ -11199,7 +11199,7 @@ Path 6 (MONKZ3.ERECO) contains dpComputerCode MONKZ3.ERECO!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport PWK!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ EZRAH EARND ELANR EMMLY ERECO 
+sidTwoPathRoute: ZYDEK MONKZ EZRAH EARND ELANR EMMLY ERECO 
 
 ProcessSid(sidCollection, PWK, MONKZ3, CYBIL)
 
@@ -11222,7 +11222,7 @@ Path 1 (MONKZ3.CYBIL) contains dpComputerCode MONKZ3.CYBIL!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport PWK!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ CATER CMSKY CARYN CYBIL 
+sidTwoPathRoute: ZYDEK MONKZ CATER CMSKY CARYN CYBIL 
 
 ProcessSid(sidCollection, PWK, JORJO3, ARLYN)
 
@@ -11243,7 +11243,7 @@ Path 2 (JORJO3.ARLYN) contains dpComputerCode JORJO3.ARLYN!
 Path 0 (JORJO3.JORJO) contains connecting dpComputerCode JORJO3.JORJO!
 Path 0 (JORJO3.JORJO) contains origin airport PWK!
 Path 0 (JORJO3.JORJO) contains connecting token JORJO!
-sidTwoPathRoute: JILYN [JORJO] JORJO AHLOU ACITO ADELL AKMIE ARLYN 
+sidTwoPathRoute: JILYN JORJO AHLOU ACITO ADELL AKMIE ARLYN 
 
 ProcessSid(sidCollection, PWK, MONKZ3, SCOTO)
 
@@ -11272,7 +11272,7 @@ Path 7 (MONKZ3.SCOTO) contains dpComputerCode MONKZ3.SCOTO!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport PWK!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ DWANE DENNT DARCY DREGS DUMGE SCOTO 
+sidTwoPathRoute: ZYDEK MONKZ DWANE DENNT DARCY DREGS DUMGE SCOTO 
 
 ProcessSid(sidCollection, PWK, MONKZ3, EMEGE)
 
@@ -11298,7 +11298,7 @@ Path 4 (MONKZ3.EMEGE) contains dpComputerCode MONKZ3.EMEGE!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport PWK!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ EZRAH EARND ELANR EMMLY ETAME EMEGE 
+sidTwoPathRoute: ZYDEK MONKZ EZRAH EARND ELANR EMMLY ETAME EMEGE 
 
 ProcessSid(sidCollection, PWK, JORJO3, BEKKI)
 
@@ -11320,7 +11320,7 @@ Path 3 (JORJO3.BEKKI) contains dpComputerCode JORJO3.BEKKI!
 Path 0 (JORJO3.JORJO) contains connecting dpComputerCode JORJO3.JORJO!
 Path 0 (JORJO3.JORJO) contains origin airport PWK!
 Path 0 (JORJO3.JORJO) contains connecting token JORJO!
-sidTwoPathRoute: JILYN [JORJO] JORJO BRBIE BACEN BLOKR BEKKI 
+sidTwoPathRoute: JILYN JORJO BRBIE BACEN BLOKR BEKKI 
 
 ProcessSid(sidCollection, PWK, MONKZ3, EMMLY)
 
@@ -11347,7 +11347,7 @@ Path 5 (MONKZ3.EMMLY) contains dpComputerCode MONKZ3.EMMLY!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport PWK!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ EZRAH EARND ELANR EMMLY 
+sidTwoPathRoute: ZYDEK MONKZ EZRAH EARND ELANR EMMLY 
 
 ProcessSid(sidCollection, PWM, HSKEL2, CAM)
 
@@ -11370,7 +11370,7 @@ Path 3 (HSKEL2.CAM) contains dpComputerCode HSKEL2.CAM!
 Path 0 (HSKEL2.HSKEL) contains connecting dpComputerCode HSKEL2.HSKEL!
 Path 0 (HSKEL2.HSKEL) contains origin airport PWM!
 Path 0 (HSKEL2.HSKEL) contains connecting token HSKEL!
-sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH [HSKEL] HSKEL BAUER CAM 
+sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH HSKEL BAUER CAM 
 
 ProcessSid(sidCollection, PWM, NUBLE3, BAF)
 
@@ -11392,7 +11392,7 @@ Path 2 (NUBLE3.BAF) contains dpComputerCode NUBLE3.BAF!
 Path 0 (NUBLE3.NUBLE) contains connecting dpComputerCode NUBLE3.NUBLE!
 Path 0 (NUBLE3.NUBLE) contains origin airport PWM!
 Path 0 (NUBLE3.NUBLE) contains connecting token NUBLE!
-sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO [NUBLE] NUBLE RBELA COTEE BAF 
+sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO NUBLE RBELA COTEE BAF 
 
 ProcessSid(sidCollection, PWM, HSKEL2, BAUER)
 
@@ -11414,7 +11414,7 @@ Path 2 (HSKEL2.BAUER) contains dpComputerCode HSKEL2.BAUER!
 Path 0 (HSKEL2.HSKEL) contains connecting dpComputerCode HSKEL2.HSKEL!
 Path 0 (HSKEL2.HSKEL) contains origin airport PWM!
 Path 0 (HSKEL2.HSKEL) contains connecting token HSKEL!
-sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH [HSKEL] HSKEL BAUER 
+sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH HSKEL BAUER 
 
 ProcessSid(sidCollection, PWM, NUBLE3, CCC)
 
@@ -11437,7 +11437,7 @@ Path 3 (NUBLE3.CCC) contains dpComputerCode NUBLE3.CCC!
 Path 0 (NUBLE3.NUBLE) contains connecting dpComputerCode NUBLE3.NUBLE!
 Path 0 (NUBLE3.NUBLE) contains origin airport PWM!
 Path 0 (NUBLE3.NUBLE) contains connecting token NUBLE!
-sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO [NUBLE] NUBLE RBELA JJIMY ORW CCC 
+sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO NUBLE RBELA JJIMY ORW CCC 
 
 ProcessSid(sidCollection, PWM, NUBLE3, NELIE)
 
@@ -11462,7 +11462,7 @@ Path 5 (NUBLE3.NELIE) contains dpComputerCode NUBLE3.NELIE!
 Path 0 (NUBLE3.NUBLE) contains connecting dpComputerCode NUBLE3.NUBLE!
 Path 0 (NUBLE3.NUBLE) contains origin airport PWM!
 Path 0 (NUBLE3.NUBLE) contains connecting token NUBLE!
-sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO [NUBLE] NUBLE RBELA JJIMY NELIE 
+sidTwoPathRoute: AHRON PEAAK WHYOO ORCHD FOSCO NUBLE RBELA JJIMY NELIE 
 
 ProcessSid(sidCollection, PWM, HSKEL2, HANAA)
 
@@ -11486,7 +11486,7 @@ Path 4 (HSKEL2.HANAA) contains dpComputerCode HSKEL2.HANAA!
 Path 0 (HSKEL2.HSKEL) contains connecting dpComputerCode HSKEL2.HSKEL!
 Path 0 (HSKEL2.HSKEL) contains origin airport PWM!
 Path 0 (HSKEL2.HSKEL) contains connecting token HSKEL!
-sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH [HSKEL] HSKEL BAUER HANAA 
+sidTwoPathRoute: AHRON LIZLU MRKEE ALIEH HSKEL BAUER HANAA 
 
 ProcessSid(sidCollection, RDU, SHPRD2, SHPRD)
 
@@ -11513,7 +11513,7 @@ Path 1 (HOOKZ2.FAY) contains dpComputerCode HOOKZ2.FAY!
 Path 0 (HOOKZ2.HOOKZ) contains connecting dpComputerCode HOOKZ2.HOOKZ!
 Path 0 (HOOKZ2.HOOKZ) contains origin airport RDU!
 Path 0 (HOOKZ2.HOOKZ) contains connecting token HOOKZ!
-sidTwoPathRoute: FITON [HOOKZ] HOOKZ FAY 
+sidTwoPathRoute: FITON HOOKZ FAY 
 
 ProcessSid(sidCollection, RDU, OXFRD2, FAK)
 
@@ -11530,7 +11530,7 @@ Path 1 (OXFRD2.FAK) contains dpComputerCode OXFRD2.FAK!
 Path 0 (OXFRD2.OXFRD) contains connecting dpComputerCode OXFRD2.OXFRD!
 Path 0 (OXFRD2.OXFRD) contains origin airport RDU!
 Path 0 (OXFRD2.OXFRD) contains connecting token OXFRD!
-sidTwoPathRoute: PEAVY [OXFRD] OXFRD HARVY CARML FAK 
+sidTwoPathRoute: PEAVY OXFRD HARVY CARML FAK 
 
 ProcessSid(sidCollection, RDU, BEXGO2, LVL)
 
@@ -11547,7 +11547,7 @@ Path 1 (BEXGO2.LVL) contains dpComputerCode BEXGO2.LVL!
 Path 0 (BEXGO2.BEXGO) contains connecting dpComputerCode BEXGO2.BEXGO!
 Path 0 (BEXGO2.BEXGO) contains origin airport RDU!
 Path 0 (BEXGO2.BEXGO) contains connecting token BEXGO!
-sidTwoPathRoute: AIMHI [BEXGO] BEXGO LVL 
+sidTwoPathRoute: AIMHI BEXGO LVL 
 
 ProcessSid(sidCollection, RDU, HURIC2, TYI)
 
@@ -11564,7 +11564,7 @@ Path 1 (HURIC2.TYI) contains dpComputerCode HURIC2.TYI!
 Path 0 (HURIC2.HURIC) contains connecting dpComputerCode HURIC2.HURIC!
 Path 0 (HURIC2.HURIC) contains origin airport RDU!
 Path 0 (HURIC2.HURIC) contains connecting token HURIC!
-sidTwoPathRoute: STRMY [HURIC] HURIC TYI 
+sidTwoPathRoute: STRMY HURIC TYI 
 
 ProcessSid(sidCollection, RDU, LWOOD2, ROA)
 
@@ -11583,7 +11583,7 @@ Path 2 (LWOOD2.ROA) contains dpComputerCode LWOOD2.ROA!
 Path 0 (LWOOD2.LWOOD) contains connecting dpComputerCode LWOOD2.LWOOD!
 Path 0 (LWOOD2.LWOOD) contains origin airport RDU!
 Path 0 (LWOOD2.LWOOD) contains connecting token LWOOD!
-sidTwoPathRoute: FOCAL EPOCH [LWOOD] LWOOD ROA 
+sidTwoPathRoute: FOCAL EPOCH LWOOD ROA 
 
 ProcessSid(sidCollection, RDU, LWOOD2, PSK)
 
@@ -11601,7 +11601,7 @@ Path 1 (LWOOD2.PSK) contains dpComputerCode LWOOD2.PSK!
 Path 0 (LWOOD2.LWOOD) contains connecting dpComputerCode LWOOD2.LWOOD!
 Path 0 (LWOOD2.LWOOD) contains origin airport RDU!
 Path 0 (LWOOD2.LWOOD) contains connecting token LWOOD!
-sidTwoPathRoute: FOCAL EPOCH [LWOOD] LWOOD OPUSS PSK 
+sidTwoPathRoute: FOCAL EPOCH LWOOD OPUSS PSK 
 
 ProcessSid(sidCollection, RDU, PACK7, SHPRD)
 
@@ -11620,7 +11620,7 @@ Path 2 (PACK7.SHPRD) contains dpComputerCode PACK7.SHPRD!
 Path 0 (PACK7.RDU) contains connecting dpComputerCode PACK7.RDU!
 Path 0 (PACK7.RDU) contains origin airport RDU!
 Path 0 (PACK7.RDU) contains connecting token RDU!
-sidTwoPathRoute: [$RDU$] RDU LIB SHPRD 
+sidTwoPathRoute: RDU LIB SHPRD 
 
 ProcessSid(sidCollection, RDU, ROZBO2, CHS)
 
@@ -11640,7 +11640,7 @@ Path 2 (ROZBO2.CHS) contains dpComputerCode ROZBO2.CHS!
 Path 0 (ROZBO2.ROZBO) contains connecting dpComputerCode ROZBO2.ROZBO!
 Path 0 (ROZBO2.ROZBO) contains origin airport RDU!
 Path 0 (ROZBO2.ROZBO) contains connecting token ROZBO!
-sidTwoPathRoute: EAGER [ROZBO] ROZBO CHS 
+sidTwoPathRoute: EAGER ROZBO CHS 
 
 ProcessSid(sidCollection, RDU, ROZBO2, ILM)
 
@@ -11661,7 +11661,7 @@ Path 3 (ROZBO2.ILM) contains dpComputerCode ROZBO2.ILM!
 Path 0 (ROZBO2.ROZBO) contains connecting dpComputerCode ROZBO2.ROZBO!
 Path 0 (ROZBO2.ROZBO) contains origin airport RDU!
 Path 0 (ROZBO2.ROZBO) contains connecting token ROZBO!
-sidTwoPathRoute: EAGER [ROZBO] ROZBO ILM 
+sidTwoPathRoute: EAGER ROZBO ILM 
 
 ProcessSid(sidCollection, RDU, BEXGO2, BEXGO)
 
@@ -11699,7 +11699,7 @@ Path 1 (PACK7.ROA) contains dpComputerCode PACK7.ROA!
 Path 0 (PACK7.RDU) contains connecting dpComputerCode PACK7.RDU!
 Path 0 (PACK7.RDU) contains origin airport RDU!
 Path 0 (PACK7.RDU) contains connecting token RDU!
-sidTwoPathRoute: [$RDU$] RDU LIB ROA 
+sidTwoPathRoute: RDU LIB ROA 
 
 ProcessSid(sidCollection, RIC, KALLI3, LYH)
 
@@ -11722,7 +11722,7 @@ Path 3 (KALLI3.LYH) contains dpComputerCode KALLI3.LYH!
 Path 0 (KALLI3.KALLI) contains connecting dpComputerCode KALLI3.KALLI!
 Path 0 (KALLI3.KALLI) contains origin airport RIC!
 Path 0 (KALLI3.KALLI) contains connecting token KALLI!
-sidTwoPathRoute: SUGGR [KALLI] KALLI READE LYH 
+sidTwoPathRoute: SUGGR KALLI READE LYH 
 
 ProcessSid(sidCollection, RIC, LUCYL4, PXT)
 
@@ -11771,7 +11771,7 @@ Path 4 (KALLI3.MOL) contains dpComputerCode KALLI3.MOL!
 Path 0 (KALLI3.KALLI) contains connecting dpComputerCode KALLI3.KALLI!
 Path 0 (KALLI3.KALLI) contains origin airport RIC!
 Path 0 (KALLI3.KALLI) contains connecting token KALLI!
-sidTwoPathRoute: SUGGR [KALLI] KALLI READE MOL 
+sidTwoPathRoute: SUGGR KALLI READE MOL 
 
 ProcessSid(sidCollection, RIC, KALLI3, SANNY)
 
@@ -11796,7 +11796,7 @@ Path 5 (KALLI3.SANNY) contains dpComputerCode KALLI3.SANNY!
 Path 0 (KALLI3.KALLI) contains connecting dpComputerCode KALLI3.KALLI!
 Path 0 (KALLI3.KALLI) contains origin airport RIC!
 Path 0 (KALLI3.KALLI) contains connecting token KALLI!
-sidTwoPathRoute: SUGGR [KALLI] KALLI READE DRAIK SANNY 
+sidTwoPathRoute: SUGGR KALLI READE DRAIK SANNY 
 
 ProcessSid(sidCollection, RIC, KALLI3, DRAIK)
 
@@ -11841,7 +11841,7 @@ Path 1 (READE4.DRAIK) contains dpComputerCode READE4.DRAIK!
 Path 0 (READE4.READE) contains connecting dpComputerCode READE4.READE!
 Path 0 (READE4.READE) contains origin airport RIC!
 Path 0 (READE4.READE) contains connecting token READE!
-sidTwoPathRoute: CARML [READE] READE DRAIK 
+sidTwoPathRoute: CARML READE DRAIK 
 
 ProcessSid(sidCollection, SAT, ALISS5, JCT)
 
@@ -11862,7 +11862,7 @@ Path 3 (ALISS5.JCT) contains dpComputerCode ALISS5.JCT!
 Path 0 (ALISS5.ALISS) contains connecting dpComputerCode ALISS5.ALISS!
 Path 0 (ALISS5.ALISS) contains origin airport SAT!
 Path 0 (ALISS5.ALISS) contains connecting token ALISS!
-sidTwoPathRoute: TREVA TATAR LEJON [ALISS] ALISS JCT 
+sidTwoPathRoute: TREVA TATAR LEJON ALISS JCT 
 
 ProcessSid(sidCollection, SAT, ALAMO2, HENLY)
 
@@ -11901,8 +11901,8 @@ ProcessSid - Number of paths: 1 for LEJON4.LEJON
 PROCESS SID PASS ONE...
 Path 0 (LEJON4.LEJON) contains dpComputerCode LEJON4.LEJON!
 Path 0 (LEJON4.LEJON) contains origin airport SAT!
-sidSinglePathRoute: %SAT% TATAR LEJON >>> is this SAT(AP) SAT(NA) TATAR LEJON
- 
+sidSinglePathRoute: SAT TATAR LEJON 
+
 ProcessSid(sidCollection, SAT, SETZR2, IAH)
 
 ProcessSid(sidCollection, SAT, SETZR2, IAH)
@@ -11922,7 +11922,7 @@ Path 2 (SETZR2.IAH) contains dpComputerCode SETZR2.IAH!
 Path 0 (SETZR2.SETZR) contains connecting dpComputerCode SETZR2.SETZR!
 Path 0 (SETZR2.SETZR) contains origin airport SAT!
 Path 0 (SETZR2.SETZR) contains connecting token SETZR!
-sidTwoPathRoute: VAUHN [SETZR] SETZR SMAKR MERCR IAH 
+sidTwoPathRoute: VAUHN SETZR SMAKR MERCR IAH 
 
 ProcessSid(sidCollection, SAT, ALAMO2, AGJ)
 
@@ -11970,7 +11970,7 @@ Path 1 (SETZR2.HUB) contains dpComputerCode SETZR2.HUB!
 Path 0 (SETZR2.SETZR) contains connecting dpComputerCode SETZR2.SETZR!
 Path 0 (SETZR2.SETZR) contains origin airport SAT!
 Path 0 (SETZR2.SETZR) contains connecting token SETZR!
-sidTwoPathRoute: VAUHN [SETZR] SETZR SMAKR MERCR HUB 
+sidTwoPathRoute: VAUHN SETZR SMAKR MERCR HUB 
 
 ProcessSid(sidCollection, SAT, BOWIE7, CRP)
 
@@ -12068,7 +12068,7 @@ Path 2 (ALISS5.FST) contains dpComputerCode ALISS5.FST!
 Path 0 (ALISS5.ALISS) contains connecting dpComputerCode ALISS5.ALISS!
 Path 0 (ALISS5.ALISS) contains origin airport SAT!
 Path 0 (ALISS5.ALISS) contains connecting token ALISS!
-sidTwoPathRoute: TREVA TATAR LEJON [ALISS] ALISS DIANT FST 
+sidTwoPathRoute: TREVA TATAR LEJON ALISS DIANT FST 
 
 ProcessSid(sidCollection, SDL, SCOT7, ABQ)
 
@@ -12176,7 +12176,7 @@ Path 8 (JONHH1.RSK) contains dpComputerCode JONHH1.RSK!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH THOMM HAPPN SILOW INW BUTTE CASTI DEXTR HUNVI GUVBE DERMA RSK 
+sidTwoPathRoute: JONHH THOMM HAPPN SILOW INW BUTTE CASTI DEXTR HUNVI GUVBE DERMA RSK 
 
 ProcessSid(sidCollection, SDL, JONHH1, FLG)
 
@@ -12203,7 +12203,7 @@ Path 4 (JONHH1.FLG) contains dpComputerCode JONHH1.FLG!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH THOMM HAPPN SILOW FLG 
+sidTwoPathRoute: JONHH THOMM HAPPN SILOW FLG 
 
 ProcessSid(sidCollection, SDL, JONHH1, BTY)
 
@@ -12227,7 +12227,7 @@ Path 1 (JONHH1.BTY) contains dpComputerCode JONHH1.BTY!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH GINKE ZEPER KARLO CHILY RAMSY SISIE DOVEE BTY 
+sidTwoPathRoute: JONHH GINKE ZEPER KARLO CHILY RAMSY SISIE DOVEE BTY 
 
 ProcessSid(sidCollection, SDL, JONHH1, EED)
 
@@ -12257,7 +12257,7 @@ Path 7 (JONHH1.EED) contains dpComputerCode JONHH1.EED!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH GINKE ZEPER KARLO CHILY JAWSY MEMPE EED 
+sidTwoPathRoute: JONHH GINKE ZEPER KARLO CHILY JAWSY MEMPE EED 
 
 ProcessSid(sidCollection, SDL, SCOT7, BXK)
 
@@ -12320,7 +12320,7 @@ Path 2 (JONHH1.BCE) contains dpComputerCode JONHH1.BCE!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH GINKE THOMM HAPPN SILOW FLG GCN DOZIT JALMA KACIR BCE 
+sidTwoPathRoute: JONHH GINKE THOMM HAPPN SILOW FLG GCN DOZIT JALMA KACIR BCE 
 
 ProcessSid(sidCollection, SDL, SCOT7, GBN)
 
@@ -12386,7 +12386,7 @@ Path 3 (JONHH1.DVC) contains dpComputerCode JONHH1.DVC!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH THOMM HAPPN SILOW INW DVC 
+sidTwoPathRoute: JONHH THOMM HAPPN SILOW INW DVC 
 
 ProcessSid(sidCollection, SDL, JONHH1, IGM)
 
@@ -12415,7 +12415,7 @@ Path 6 (JONHH1.IGM) contains dpComputerCode JONHH1.IGM!
 Path 0 (JONHH1.JONHH) contains connecting dpComputerCode JONHH1.JONHH!
 Path 0 (JONHH1.JONHH) contains origin airport SDL!
 Path 0 (JONHH1.JONHH) contains connecting token JONHH!
-sidTwoPathRoute: [JONHH] JONHH GINKE ZEPER KARLO CHILY RAMSY SISIE IGM 
+sidTwoPathRoute: JONHH GINKE ZEPER KARLO CHILY RAMSY SISIE IGM 
 
 ProcessSid(sidCollection, SDL, JONHH1, CHILY)
 
@@ -12462,7 +12462,7 @@ Path 5 (BGOOD4.VIH) contains dpComputerCode BGOOD4.VIH!
 Path 0 (BGOOD4.BGOOD) contains connecting dpComputerCode BGOOD4.BGOOD!
 Path 0 (BGOOD4.BGOOD) contains origin airport STL!
 Path 0 (BGOOD4.BGOOD) contains connecting token BGOOD!
-sidTwoPathRoute: LUUBE DAFUS TRAVS [BGOOD] BGOOD VIH 
+sidTwoPathRoute: LUUBE DAFUS TRAVS BGOOD VIH 
 
 ProcessSid(sidCollection, STL, BRAKK4, HLV)
 
@@ -12487,7 +12487,7 @@ Path 5 (BRAKK4.HLV) contains dpComputerCode BRAKK4.HLV!
 Path 0 (BRAKK4.BRAKK) contains connecting dpComputerCode BRAKK4.BRAKK!
 Path 0 (BRAKK4.BRAKK) contains origin airport STL!
 Path 0 (BRAKK4.BRAKK) contains connecting token BRAKK!
-sidTwoPathRoute: LUUBE DAFUS TRAVS SEKAY LIISA [BRAKK] BRAKK RMMOS HLV 
+sidTwoPathRoute: LUUBE DAFUS TRAVS SEKAY LIISA BRAKK RMMOS HLV 
 
 ProcessSid(sidCollection, STL, CARDS1, NEENS)
 
@@ -12544,7 +12544,7 @@ Path 5 (DRUSE4.DENNI) contains dpComputerCode DRUSE4.DENNI!
 Path 0 (DRUSE4.DRUSE) contains connecting dpComputerCode DRUSE4.DRUSE!
 Path 0 (DRUSE4.DRUSE) contains origin airport STL!
 Path 0 (DRUSE4.DRUSE) contains connecting token DRUSE!
-sidTwoPathRoute: LUUBE [DRUSE] DRUSE PLESS DENNI 
+sidTwoPathRoute: LUUBE DRUSE PLESS DENNI 
 
 ProcessSid(sidCollection, STL, EEMOS4, NEENS)
 
@@ -12567,7 +12567,7 @@ Path 4 (EEMOS4.NEENS) contains dpComputerCode EEMOS4.NEENS!
 Path 0 (EEMOS4.EEMOS) contains connecting dpComputerCode EEMOS4.EEMOS!
 Path 0 (EEMOS4.EEMOS) contains origin airport STL!
 Path 0 (EEMOS4.EEMOS) contains connecting token EEMOS!
-sidTwoPathRoute: FUNKE BEART GMSKI [EEMOS] EEMOS NEENS 
+sidTwoPathRoute: FUNKE BEART GMSKI EEMOS NEENS 
 
 ProcessSid(sidCollection, STL, LINDY6, VIH)
 
@@ -12593,7 +12593,7 @@ Path 5 (LINDY6.VIH) contains dpComputerCode LINDY6.VIH!
 Path 0 (LINDY6.STL) contains connecting dpComputerCode LINDY6.STL!
 Path 0 (LINDY6.STL) contains origin airport STL!
 Path 0 (LINDY6.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL KLAIR VIH 
+sidTwoPathRoute: STL KLAIR VIH 
 
 ProcessSid(sidCollection, STL, PLESS5, DENNI)
 
@@ -12611,7 +12611,7 @@ Path 1 (PLESS5.DENNI) contains dpComputerCode PLESS5.DENNI!
 Path 0 (PLESS5.PLESS) contains connecting dpComputerCode PLESS5.PLESS!
 Path 0 (PLESS5.PLESS) contains origin airport STL!
 Path 0 (PLESS5.PLESS) contains connecting token PLESS!
-sidTwoPathRoute: %STL% [PLESS] PLESS DENNI >>> looks good
+sidTwoPathRoute: STL PLESS DENNI 
 
 ProcessSid(sidCollection, STL, OZARK7, HLV)
 
@@ -12629,7 +12629,7 @@ Path 1 (OZARK7.HLV) contains dpComputerCode OZARK7.HLV!
 Path 0 (OZARK7.STL) contains connecting dpComputerCode OZARK7.STL!
 Path 0 (OZARK7.STL) contains origin airport STL!
 Path 0 (OZARK7.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL CABIT HLV 
+sidTwoPathRoute: STL CABIT HLV 
 
 ProcessSid(sidCollection, STL, BLUES6, HILTS)
 
@@ -12647,7 +12647,7 @@ Path 1 (BLUES6.HILTS) contains dpComputerCode BLUES6.HILTS!
 Path 0 (BLUES6.ENL) contains connecting dpComputerCode BLUES6.ENL!
 Path 0 (BLUES6.ENL) contains origin airport STL!
 Path 0 (BLUES6.ENL) contains connecting token ENL!
-sidTwoPathRoute: CSX [ENL] ENL HILTS 
+sidTwoPathRoute: CSX ENL HILTS 
 
 ProcessSid(sidCollection, STL, CARDS1, SPI)
 
@@ -12707,7 +12707,7 @@ Path 6 (CHUUC4.MYERZ) contains dpComputerCode CHUUC4.MYERZ!
 Path 0 (CHUUC4.CHUUC) contains connecting dpComputerCode CHUUC4.CHUUC!
 Path 0 (CHUUC4.CHUUC) contains origin airport STL!
 Path 0 (CHUUC4.CHUUC) contains connecting token CHUUC!
-sidTwoPathRoute: LUUBE DAFUS GEJAY [CHUUC] CHUUC MYERZ 
+sidTwoPathRoute: LUUBE DAFUS GEJAY CHUUC MYERZ 
 
 ProcessSid(sidCollection, STL, DRUSE4, BNA)
 
@@ -12734,7 +12734,7 @@ Path 6 (DRUSE4.BNA) contains dpComputerCode DRUSE4.BNA!
 Path 0 (DRUSE4.DRUSE) contains connecting dpComputerCode DRUSE4.DRUSE!
 Path 0 (DRUSE4.DRUSE) contains origin airport STL!
 Path 0 (DRUSE4.DRUSE) contains connecting token DRUSE!
-sidTwoPathRoute: LUUBE [DRUSE] DRUSE PLESS DENNI TINGS LAJUG BNA 
+sidTwoPathRoute: LUUBE DRUSE PLESS DENNI TINGS LAJUG BNA 
 
 ProcessSid(sidCollection, STL, GATWY9, JIGSY)
 
@@ -12758,7 +12758,7 @@ Path 4 (GATWY9.JIGSY) contains dpComputerCode GATWY9.JIGSY!
 Path 0 (GATWY9.TWILA) contains connecting dpComputerCode GATWY9.TWILA!
 Path 0 (GATWY9.TWILA) contains origin airport STL!
 Path 0 (GATWY9.TWILA) contains connecting token TWILA!
-sidTwoPathRoute: [TWILA] TWILA JIGSY 
+sidTwoPathRoute: TWILA JIGSY 
 
 ProcessSid(sidCollection, STL, JHART5, DOBLR)
 
@@ -12788,7 +12788,7 @@ Path 7 (JHART5.DOBLR) contains dpComputerCode JHART5.DOBLR!
 Path 0 (JHART5.JHART) contains connecting dpComputerCode JHART5.JHART!
 Path 0 (JHART5.JHART) contains origin airport STL!
 Path 0 (JHART5.JHART) contains connecting token JHART!
-sidTwoPathRoute: FUNKE RAMKR [JHART] JHART DOBLR 
+sidTwoPathRoute: FUNKE RAMKR JHART DOBLR 
 
 ProcessSid(sidCollection, STL, LINDY6, MYERZ)
 
@@ -12813,7 +12813,7 @@ Path 4 (LINDY6.MYERZ) contains dpComputerCode LINDY6.MYERZ!
 Path 0 (LINDY6.STL) contains connecting dpComputerCode LINDY6.STL!
 Path 0 (LINDY6.STL) contains origin airport STL!
 Path 0 (LINDY6.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL SAJOY MYERZ 
+sidTwoPathRoute: STL SAJOY MYERZ 
 
 ProcessSid(sidCollection, STL, NATCA4, SPI)
 
@@ -12836,7 +12836,7 @@ Path 4 (NATCA4.SPI) contains dpComputerCode NATCA4.SPI!
 Path 0 (NATCA4.NATCA) contains connecting dpComputerCode NATCA4.NATCA!
 Path 0 (NATCA4.NATCA) contains origin airport STL!
 Path 0 (NATCA4.NATCA) contains connecting token NATCA!
-sidTwoPathRoute: FUNKE BEART [NATCA] NATCA SPI 
+sidTwoPathRoute: FUNKE BEART NATCA SPI 
 
 ProcessSid(sidCollection, STL, PLESS5, BNA)
 
@@ -12855,7 +12855,7 @@ Path 2 (PLESS5.BNA) contains dpComputerCode PLESS5.BNA!
 Path 0 (PLESS5.PLESS) contains connecting dpComputerCode PLESS5.PLESS!
 Path 0 (PLESS5.PLESS) contains origin airport STL!
 Path 0 (PLESS5.PLESS) contains connecting token PLESS!
-sidTwoPathRoute: %STL% [PLESS] PLESS DENNI BNA >>> looks goood
+sidTwoPathRoute: STL PLESS DENNI BNA 
 
 ProcessSid(sidCollection, STL, TEDDD4, HILTS)
 
@@ -12879,7 +12879,7 @@ Path 4 (TEDDD4.HILTS) contains dpComputerCode TEDDD4.HILTS!
 Path 0 (TEDDD4.TEDDD) contains connecting dpComputerCode TEDDD4.TEDDD!
 Path 0 (TEDDD4.TEDDD) contains origin airport STL!
 Path 0 (TEDDD4.TEDDD) contains connecting token TEDDD!
-sidTwoPathRoute: FUNKE RAMKR [TEDDD] TEDDD ENL ZOLLI HILTS 
+sidTwoPathRoute: FUNKE RAMKR TEDDD ENL ZOLLI HILTS 
 
 ProcessSid(sidCollection, STL, JAHNY4, MAP)
 
@@ -12904,7 +12904,7 @@ Path 5 (JAHNY4.MAP) contains dpComputerCode JAHNY4.MAP!
 Path 0 (JAHNY4.JAHNY) contains connecting dpComputerCode JAHNY4.JAHNY!
 Path 0 (JAHNY4.JAHNY) contains origin airport STL!
 Path 0 (JAHNY4.JAHNY) contains connecting token JAHNY!
-sidTwoPathRoute: LUUBE DAFUS TRAVS [JAHNY] JAHNY WESCO MAP 
+sidTwoPathRoute: LUUBE DAFUS TRAVS JAHNY WESCO MAP 
 
 ProcessSid(sidCollection, STL, LINDY6, MAP)
 
@@ -12928,7 +12928,7 @@ Path 3 (LINDY6.MAP) contains dpComputerCode LINDY6.MAP!
 Path 0 (LINDY6.STL) contains connecting dpComputerCode LINDY6.STL!
 Path 0 (LINDY6.STL) contains origin airport STL!
 Path 0 (LINDY6.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL SAGME WESCO MAP 
+sidTwoPathRoute: STL SAGME WESCO MAP 
 
 ProcessSid(sidCollection, STL, BLUES6, IIU)
 
@@ -12947,7 +12947,7 @@ Path 2 (BLUES6.IIU) contains dpComputerCode BLUES6.IIU!
 Path 0 (BLUES6.ENL) contains connecting dpComputerCode BLUES6.ENL!
 Path 0 (BLUES6.ENL) contains origin airport STL!
 Path 0 (BLUES6.ENL) contains connecting token ENL!
-sidTwoPathRoute: CSX [ENL] ENL HILTS IIU 
+sidTwoPathRoute: CSX ENL HILTS IIU 
 
 ProcessSid(sidCollection, STL, CHUUC4, MAW)
 
@@ -12974,7 +12974,7 @@ Path 5 (CHUUC4.MAW) contains dpComputerCode CHUUC4.MAW!
 Path 0 (CHUUC4.CHUUC) contains connecting dpComputerCode CHUUC4.CHUUC!
 Path 0 (CHUUC4.CHUUC) contains origin airport STL!
 Path 0 (CHUUC4.CHUUC) contains connecting token CHUUC!
-sidTwoPathRoute: LUUBE DAFUS GEJAY [CHUUC] CHUUC MYERZ MAW 
+sidTwoPathRoute: LUUBE DAFUS GEJAY CHUUC MYERZ MAW 
 
 ProcessSid(sidCollection, STL, GATWY9, ROD)
 
@@ -12999,7 +12999,7 @@ Path 5 (GATWY9.ROD) contains dpComputerCode GATWY9.ROD!
 Path 0 (GATWY9.TWILA) contains connecting dpComputerCode GATWY9.TWILA!
 Path 0 (GATWY9.TWILA) contains origin airport STL!
 Path 0 (GATWY9.TWILA) contains connecting token TWILA!
-sidTwoPathRoute: [TWILA] TWILA JIGSY BIB WORKE KELLY SHB ROD 
+sidTwoPathRoute: TWILA JIGSY BIB WORKE KELLY SHB ROD 
 
 ProcessSid(sidCollection, STL, JHART5, ROD)
 
@@ -13030,7 +13030,7 @@ Path 8 (JHART5.ROD) contains dpComputerCode JHART5.ROD!
 Path 0 (JHART5.JHART) contains connecting dpComputerCode JHART5.JHART!
 Path 0 (JHART5.JHART) contains origin airport STL!
 Path 0 (JHART5.JHART) contains connecting token JHART!
-sidTwoPathRoute: FUNKE RAMKR [JHART] JHART DOBLR BIB WORKE KELLY SHB ROD 
+sidTwoPathRoute: FUNKE RAMKR JHART DOBLR BIB WORKE KELLY SHB ROD 
 
 ProcessSid(sidCollection, STL, LINDY6, MAW)
 
@@ -13053,7 +13053,7 @@ Path 2 (LINDY6.MAW) contains dpComputerCode LINDY6.MAW!
 Path 0 (LINDY6.STL) contains connecting dpComputerCode LINDY6.STL!
 Path 0 (LINDY6.STL) contains origin airport STL!
 Path 0 (LINDY6.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL SAJOY MYERZ MAW 
+sidTwoPathRoute: STL SAJOY MYERZ MAW 
 
 ProcessSid(sidCollection, STL, TEDDD4, IIU)
 
@@ -13078,7 +13078,7 @@ Path 5 (TEDDD4.IIU) contains dpComputerCode TEDDD4.IIU!
 Path 0 (TEDDD4.TEDDD) contains connecting dpComputerCode TEDDD4.TEDDD!
 Path 0 (TEDDD4.TEDDD) contains origin airport STL!
 Path 0 (TEDDD4.TEDDD) contains connecting token TEDDD!
-sidTwoPathRoute: FUNKE RAMKR [TEDDD] TEDDD ENL ZOLLI HILTS IIU 
+sidTwoPathRoute: FUNKE RAMKR TEDDD ENL ZOLLI HILTS IIU 
 
 ProcessSid(sidCollection, STL, WHRLI5, MCM)
 
@@ -13103,7 +13103,7 @@ Path 5 (WHRLI5.MCM) contains dpComputerCode WHRLI5.MCM!
 Path 0 (WHRLI5.WHRLI) contains connecting dpComputerCode WHRLI5.WHRLI!
 Path 0 (WHRLI5.WHRLI) contains origin airport STL!
 Path 0 (WHRLI5.WHRLI) contains connecting token WHRLI!
-sidTwoPathRoute: LUUBE DAFUS TRAVS SEKAY LIISA [WHRLI] WHRLI MRCOS MCM 
+sidTwoPathRoute: LUUBE DAFUS TRAVS SEKAY LIISA WHRLI MRCOS MCM 
 
 ProcessSid(sidCollection, STL, OZARK7, MCM)
 
@@ -13122,7 +13122,7 @@ Path 2 (OZARK7.MCM) contains dpComputerCode OZARK7.MCM!
 Path 0 (OZARK7.STL) contains connecting dpComputerCode OZARK7.STL!
 Path 0 (OZARK7.STL) contains origin airport STL!
 Path 0 (OZARK7.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL SCHMD MCM 
+sidTwoPathRoute: STL SCHMD MCM 
 
 ProcessSid(sidCollection, STL, GATWY9, VHP)
 
@@ -13144,7 +13144,7 @@ Path 2 (GATWY9.VHP) contains dpComputerCode GATWY9.VHP!
 Path 0 (GATWY9.TWILA) contains connecting dpComputerCode GATWY9.TWILA!
 Path 0 (GATWY9.TWILA) contains origin airport STL!
 Path 0 (GATWY9.TWILA) contains connecting token TWILA!
-sidTwoPathRoute: [TWILA] TWILA JIGSY BIB WORKE KELLY VHP 
+sidTwoPathRoute: TWILA JIGSY BIB WORKE KELLY VHP 
 
 ProcessSid(sidCollection, STL, JHART5, VHP)
 
@@ -13172,7 +13172,7 @@ Path 5 (JHART5.VHP) contains dpComputerCode JHART5.VHP!
 Path 0 (JHART5.JHART) contains connecting dpComputerCode JHART5.JHART!
 Path 0 (JHART5.JHART) contains origin airport STL!
 Path 0 (JHART5.JHART) contains connecting token JHART!
-sidTwoPathRoute: FUNKE RAMKR [JHART] JHART DOBLR BIB WORKE KELLY VHP 
+sidTwoPathRoute: FUNKE RAMKR JHART DOBLR BIB WORKE KELLY VHP 
 
 ProcessSid(sidCollection, STL, BLUES6, ENL)
 
@@ -13215,7 +13215,7 @@ Path 3 (GATWY9.CREEP) contains dpComputerCode GATWY9.CREEP!
 Path 0 (GATWY9.TWILA) contains connecting dpComputerCode GATWY9.TWILA!
 Path 0 (GATWY9.TWILA) contains origin airport STL!
 Path 0 (GATWY9.TWILA) contains connecting token TWILA!
-sidTwoPathRoute: [TWILA] TWILA JIGSY BIB WORKE KELLY SHB CREEP 
+sidTwoPathRoute: TWILA JIGSY BIB WORKE KELLY SHB CREEP 
 
 ProcessSid(sidCollection, STL, JHART5, CREEP)
 
@@ -13244,7 +13244,7 @@ Path 6 (JHART5.CREEP) contains dpComputerCode JHART5.CREEP!
 Path 0 (JHART5.JHART) contains connecting dpComputerCode JHART5.JHART!
 Path 0 (JHART5.JHART) contains origin airport STL!
 Path 0 (JHART5.JHART) contains connecting token JHART!
-sidTwoPathRoute: FUNKE RAMKR [JHART] JHART DOBLR BIB WORKE KELLY SHB CREEP 
+sidTwoPathRoute: FUNKE RAMKR JHART DOBLR BIB WORKE KELLY SHB CREEP 
 
 ProcessSid(sidCollection, STL, BERYY4, LIT)
 
@@ -13269,7 +13269,7 @@ Path 5 (BERYY4.LIT) contains dpComputerCode BERYY4.LIT!
 Path 0 (BERYY4.BERYY) contains connecting dpComputerCode BERYY4.BERYY!
 Path 0 (BERYY4.BERYY) contains origin airport STL!
 Path 0 (BERYY4.BERYY) contains connecting token BERYY!
-sidTwoPathRoute: LUUBE DAFUS GEJAY [BERYY] BERYY TWRAY LIT 
+sidTwoPathRoute: LUUBE DAFUS GEJAY BERYY TWRAY LIT 
 
 ProcessSid(sidCollection, STL, LINDY6, LIT)
 
@@ -13291,7 +13291,7 @@ Path 1 (LINDY6.LIT) contains dpComputerCode LINDY6.LIT!
 Path 0 (LINDY6.STL) contains connecting dpComputerCode LINDY6.STL!
 Path 0 (LINDY6.STL) contains origin airport STL!
 Path 0 (LINDY6.STL) contains connecting token STL!
-sidTwoPathRoute: $BLV$ [$STL$] STL SAGZA TWRAY LIT 
+sidTwoPathRoute: STL SAGZA TWRAY LIT 
 
 ProcessSid(sidCollection, STL, PLESS5, PLESS)
 
@@ -13301,7 +13301,7 @@ ProcessSid - Number of paths: 3 for PLESS5.PLESS
 PROCESS SID PASS ONE...
 Path 0 (PLESS5.PLESS) contains dpComputerCode PLESS5.PLESS!
 Path 0 (PLESS5.PLESS) contains origin airport STL!
-sidSinglePathRoute: %STL% PLESS >>> looks good
+sidSinglePathRoute: STL PLESS 
 
 ProcessSid(sidCollection, STL, JHART5, JHART)
 
@@ -13363,7 +13363,7 @@ Path 4 (ROTRY4.BDF) contains dpComputerCode ROTRY4.BDF!
 Path 0 (ROTRY4.ROTRY) contains connecting dpComputerCode ROTRY4.ROTRY!
 Path 0 (ROTRY4.ROTRY) contains origin airport STL!
 Path 0 (ROTRY4.ROTRY) contains connecting token ROTRY!
-sidTwoPathRoute: FUNKE BEART GMSKI [ROTRY] ROTRY SKUTR BDF 
+sidTwoPathRoute: FUNKE BEART GMSKI ROTRY SKUTR BDF 
 
 ProcessSid(sidCollection, STL, GATWY9, BIB)
 
@@ -13384,7 +13384,7 @@ Path 1 (GATWY9.BIB) contains dpComputerCode GATWY9.BIB!
 Path 0 (GATWY9.TWILA) contains connecting dpComputerCode GATWY9.TWILA!
 Path 0 (GATWY9.TWILA) contains origin airport STL!
 Path 0 (GATWY9.TWILA) contains connecting token TWILA!
-sidTwoPathRoute: [TWILA] TWILA JIGSY BIB 
+sidTwoPathRoute: TWILA JIGSY BIB 
 
 ProcessSid(sidCollection, STL, JHART5, BIB)
 
@@ -13411,7 +13411,7 @@ Path 4 (JHART5.BIB) contains dpComputerCode JHART5.BIB!
 Path 0 (JHART5.JHART) contains connecting dpComputerCode JHART5.JHART!
 Path 0 (JHART5.JHART) contains origin airport STL!
 Path 0 (JHART5.JHART) contains connecting token JHART!
-sidTwoPathRoute: FUNKE RAMKR [JHART] JHART DOBLR BIB 
+sidTwoPathRoute: FUNKE RAMKR JHART DOBLR BIB 
 
 ProcessSid(sidCollection, TUS, WLDKT3, SSO)
 
@@ -13434,7 +13434,7 @@ Path 4 (WLDKT3.SSO) contains dpComputerCode WLDKT3.SSO!
 Path 0 (WLDKT3.WLDKT) contains connecting dpComputerCode WLDKT3.WLDKT!
 Path 0 (WLDKT3.WLDKT) contains origin airport TUS!
 Path 0 (WLDKT3.WLDKT) contains connecting token WLDKT!
-sidTwoPathRoute: [WLDKT] WLDKT OLLSN REDDY SSO 
+sidTwoPathRoute: WLDKT OLLSN REDDY SSO 
 
 ProcessSid(sidCollection, UES, UECKR4, DELHI)
 
@@ -13452,7 +13452,7 @@ Path 1 (UECKR4.DELHI) contains dpComputerCode UECKR4.DELHI!
 Path 0 (UECKR4.UECKR) contains connecting dpComputerCode UECKR4.UECKR!
 Path 0 (UECKR4.UECKR) contains origin airport UES!
 Path 0 (UECKR4.UECKR) contains connecting token UECKR!
-sidTwoPathRoute: PRFEC OZAUK MAULT [UECKR] UECKR LADDI DELHI 
+sidTwoPathRoute: PRFEC OZAUK MAULT UECKR LADDI DELHI 
 
 ProcessSid(sidCollection, UGN, MONKZ3, ERECO)
 
@@ -13480,7 +13480,7 @@ Path 6 (MONKZ3.ERECO) contains dpComputerCode MONKZ3.ERECO!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport UGN!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ EZRAH EARND ELANR EMMLY ERECO 
+sidTwoPathRoute: ZYDEK MONKZ EZRAH EARND ELANR EMMLY ERECO 
 
 ProcessSid(sidCollection, UGN, MONKZ3, CYBIL)
 
@@ -13503,7 +13503,7 @@ Path 1 (MONKZ3.CYBIL) contains dpComputerCode MONKZ3.CYBIL!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport UGN!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ CATER CMSKY CARYN CYBIL 
+sidTwoPathRoute: ZYDEK MONKZ CATER CMSKY CARYN CYBIL 
 
 ProcessSid(sidCollection, UGN, MONKZ3, SCOTO)
 
@@ -13532,7 +13532,7 @@ Path 7 (MONKZ3.SCOTO) contains dpComputerCode MONKZ3.SCOTO!
 Path 0 (MONKZ3.MONKZ) contains connecting dpComputerCode MONKZ3.MONKZ!
 Path 0 (MONKZ3.MONKZ) contains origin airport UGN!
 Path 0 (MONKZ3.MONKZ) contains connecting token MONKZ!
-sidTwoPathRoute: ZYDEK [MONKZ] MONKZ DWANE DENNT DARCY DREGS DUMGE SCOTO 
+sidTwoPathRoute: ZYDEK MONKZ DWANE DENNT DARCY DREGS DUMGE SCOTO 
 
 ProcessSid(sidCollection, YYZ, DEDKI4, TULEG)
 ****INFO: Origin Airport CYYZ and/or Destination Airport KABE is not in the US!
